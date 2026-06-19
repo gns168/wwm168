@@ -12,6 +12,7 @@ views:
       - GVG Role
       - Path - main
       - Path - secondary
+      - GVG Team
     sort:
       - property: GVG Role
         direction: ASC

@@ -1,4 +1,5 @@
 ---
+title: AvenueXtra Guild
 GameID: "10157338"
 Leader: "[[avenuex 顾明]]"
 External:
@@ -7,10 +8,16 @@ Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
 
-![[guild.png]] 
-Guild ID: `=this.gameid` 
-Discord: `=this.external`
+![[banner.png]] 
 
+---
+>[!info] Guild
+>| | |
+>| :--- | :--- |
+>|Guild ID: | 10157338 |
+>|Discord: | https://discord.gg/HE6P7NMqY |
+
+---
 > [!info] Graph Legend
 > Here is a quick reference for the callouts used in the graph view:
 > 

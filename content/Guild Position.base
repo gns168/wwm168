@@ -9,6 +9,7 @@ views:
       direction: DESC
     order:
       - aliases
+      - Guild Position
     sort: []
     columnSize: {}
     image: note.img
