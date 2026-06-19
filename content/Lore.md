@@ -1,6 +1,12 @@
 ---
+title: Lore
+draft: false
 GVG Role:
   - Lore
+tags:
+---
+ 
+The rest of your content lives here. You can use **Markdown** here :)
 ---
 [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 * Author: [[hekapider]]
