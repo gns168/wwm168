@@ -15,7 +15,6 @@ Role:
   - DPS
 Sect: Nine Mortal Ways
 Sect - Former:
-
   - Silver Needle
   - Midnight Blades
   - Masked Troupe
@@ -36,9 +35,8 @@ Disciple:
 Partner: "[[gnsyiliuba]]"
 Partner - Former:
 External:
+  - https://gns168.github.io/wwm168
   - https://drive.google.com/drive/folders/1Sc6CyD5s4IBd6f3wq7ReoGLV3wY8SBEH?usp=sharing
-  - https://www.youtube.com/@gns16888
-  - https://www.youtube.com/@gns16888/playlists
 img: "[[gns.png]]"
 Guild Position:
   - Commander
@@ -68,10 +66,8 @@ Disciple Rank: null
 Disciple:  [[gnsyiliuba]],[[hekapider]],[[dongfunbubai]]
 Partner:  [[gnsyiliuba]]
 Partner - Former: null
-External:  https://drive.google.com/drive/folders/1Sc6CyD5s4IBd6f3wq7ReoGLV3wY8SBEH?usp=sharing,https://www.youtube.com/@gns16888,https://www.youtube.com/@gns16888/playlists
+External:  https://gns168.github.io/wwm168,https://drive.google.com/drive/folders/1Sc6CyD5s4IBd6f3wq7ReoGLV3wY8SBEH?usp=sharing
 Ext Description:  Google drive containing guild member profiles, team rosters and offline webpage of guild
-img:  [[gns.png]]
-Guild Position:  Commander
 
 ---
 ![[gns2.png]]
