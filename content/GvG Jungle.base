@@ -15,7 +15,7 @@ views:
       - GVG Team
     sort:
       - property: GVG Role
-        direction: DESC
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: GVG Team

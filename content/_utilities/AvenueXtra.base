@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder == "Members"
+    - file.folder == "content/Members"
 views:
   - type: table
     name: Table
