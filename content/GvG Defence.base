@@ -1,0 +1,25 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - note["GVG Team"] == link("_Defence")
+    groupBy:
+      property: GVG Team
+      direction: DESC
+    order:
+      - file.name
+      - GVG Role
+      - Path - main
+      - Path - secondary
+    sort:
+      - property: GVG Role
+        direction: DESC
+      - property: file.name
+        direction: ASC
+      - property: GVG Team
+        direction: ASC
+    columnSize: {}
+    image: note.img
+    imageFit: contain
+    cardSize: 160

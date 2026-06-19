@@ -1,0 +1,29 @@
+filters:
+  and:
+    - file.ext != "base"
+    - '!file.name.startsWith("_")'
+    - file.folder != "_media"
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - "!External.isEmpty()"
+    order:
+      - file.name
+      - aliases
+      - External
+      - Ext Description
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Sect
+        direction: ASC
+    columnSize:
+      file.name: 153
+      note.Masked Troupe name: 96
+      note.Path - main: 172
+      note.Path - secondary: 176
+      note.Path - Former: 140
+    image: note.img
+    imageFit: contain

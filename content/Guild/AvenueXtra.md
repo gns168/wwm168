@@ -1,7 +1,4 @@
 ---
-title: AvenueXtra Guild
----
----
 GameID: "10157338"
 Leader: "[[avenuex 顾明]]"
 External:

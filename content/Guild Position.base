@@ -1,0 +1,19 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - '!note["Guild Position"].isEmpty()'
+    groupBy:
+      property: Guild Position
+      direction: DESC
+    order:
+      - aliases
+    sort: []
+    columnSize: {}
+    image: note.img
+    imageAspectRatio: 1
+    imageFit: contain
+    cardSize: 200
+  - type: cards
+    name: View

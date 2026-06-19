@@ -1,0 +1,41 @@
+filters:
+  and:
+    - file.folder == "Members"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Timezone (UTC)
+      - GameID
+      - aliases
+      - Alt
+      - Masked Troupe name
+      - Path - main
+      - Path - secondary
+      - Path - Former
+      - Role
+      - Sect
+      - Sect - Former
+      - Guild Role
+      - GVG Team
+      - GVG Role
+      - GVG Title
+      - Cohort
+      - Cohort Rank
+      - Master
+      - Disciple Rank
+      - Disciple
+      - Partner
+      - Partner - Former
+      - External
+      - Ext Description
+      - img
+      - cover
+    sort: []
+    columnSize:
+      file.name: 344
+      note.Masked Troupe name: 96
+      note.Path - main: 172
+      note.Path - secondary: 176
+      note.Path - Former: 140

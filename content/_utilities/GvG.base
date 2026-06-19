@@ -1,0 +1,23 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!note["GVG Team"].isEmpty()'
+    groupBy:
+      property: GVG Team
+      direction: ASC
+    order:
+      - file.name
+      - GVG Role
+      - Path - main
+      - Path - secondary
+      - GVG Team
+    sort:
+      - property: GVG Role
+        direction: ASC
+      - property: file.name
+        direction: ASC
+      - property: GVG Team
+        direction: ASC
+    columnSize: {}
