@@ -32,3 +32,10 @@ views:
       - Ext Description
       - img
       - cover
+    sort: []
+    columnSize:
+      file.name: 344
+      note.Masked Troupe name: 96
+      note.Path - main: 172
+      note.Path - secondary: 176
+      note.Path - Former: 140
