@@ -30,35 +30,37 @@ Master: "[[gns]]"
 Disciple Rank: 3rd Discple
 Disciple: None
 Partner: None
+Partner - Former:
 img: "[[gns.png]]"
 Guild Position:
   - Commander
+External:
+Ext Description:
 ---
-Gameid: `=this.gameid`
-Alias: `=this.aliases`
-Timezone (UTC): 
-Alt: `=this.alt`
-Masked Troupe name:  `= this.masked-troupe-name`
-Path - main: `=this.path---main`
-Path - secondary: `=this.path---secondary`
-Path - Former:  `=this.path---former`
-Role:  `=this.role`
-Sect:  `=this.sect`
-Sect - Former:  `=this.sect---former`
-Guild Role: `=this.guild-role`
-GVG Team: `=this.gvg-team`
-GVG Role: `=this.gvg-role`
-GVG Title: `=this.gvg-title`
-Cohort:  `=this.cohort`
-Cohort Rank: `=this.cohort-rank`
-Master:  `=this.master`
-Disciple Rank: `=this.disciple-rank`
-Disciple:  `=this.disciple`
-Partner:  `=this.partner`
-Partner - Former: `=this.partner---former`
-External:  `=this.external`
-img:  `=this.img`
-Guild Position: `=this.guild-position`
+Gameid: 1078411910
+Alias: DFBB,DongFanBuBai
+Timezone (UTC): UTC+5
+Alt: null
+Masked Troupe name: undefinedsnip
+Path - main: Bellstrike - Splendor
+Path - secondary: null
+Path - Former:  Bellstrike - Umbra
+Role:  DPS
+Sect:  Well of Heaven
+Sect - Former:  Silver Needle,Velvet Shade,Nine Mortal Ways
+Guild Role: Commander
+GVG Team: [[_Jungle]]
+GVG Role: DPS
+GVG Title: Commander,Jungle Ruler,Half-Time Performer
+Cohort:  [[_Enchanted Cohort]]
+Cohort Rank: 8th younger
+Master:  [[gns]]
+Disciple Rank: 3rd Discple
+Disciple:  None
+Partner:  None
+Partner - Former: null
+External:  null
+Ext Description:  null
 
 ---
-`=this.cover`
+undefined

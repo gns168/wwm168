@@ -29,6 +29,7 @@ Disciple:
 Partner: "[[hekapider]]"
 Partner - Former:
 External:
+Ext Description:
 img: "[[baoyu.png]]"
 cover: "![[baoyu.png]]"
 Guild Position:
@@ -57,7 +58,7 @@ Disciple:  null
 Partner:  [[hekapider]]
 Partner - Former: null
 External:  null
-Ext Description:  undefined
+Ext Description:  null
 
 ---
 ![[baoyu.png]]

@@ -26,35 +26,35 @@ Disciple:
 Partner: "[[soulren|soul-ren]]"
 Partner - Former:
 External:
+Ext Description:
 img: "[[morichu.png]]"
 cover: "![[morichu.png]]"
 ---
-Gameid: `=this.gameid`
-Alias: `=this.aliases`
-Timezone (UTC): 
-Alt: `=this.alt`
-Masked Troupe name:  `= this.masked-troupe-name`
-Path - main: `=this.path---main`
-Path - secondary: `=this.path---secondary`
-Path - Former:  `=this.path---former`
-Role:  `=this.role`
-Sect:  `=this.sect`
-Sect - Former:  `=this.sect---former`
-Guild Role: `=this.guild-role`
-GVG Team: `=this.gvg-team`
-GVG Role: `=this.gvg-role`
-GVG Title: `=this.gvg-title`
-Cohort:  `=this.cohort`
-Cohort Rank: `=this.cohort-rank`
-Master:  `=this.master`
-Disciple Rank: `=this.disciple-rank`
-Disciple:  `=this.disciple`
-Partner:  `=this.partner`
-Partner - Former: `=this.partner---former`
-External:  `=this.external`
-Ext Description:  `=this.ext-description`
-img:  `=this.img`
-Guild Position: `=this.guild-position`
+
+Gameid: 1058158429
+Alias: Mori
+Timezone (UTC): (EDT) UTC-4, (EST) UTC-5
+Alt: [[Mean-Eye]]
+Masked Troupe name: nullsnip
+Path - main: Stonesplit - Strength
+Path - secondary: Silkbind - Jade
+Path - Former:  null
+Role:  DPS
+Sect:  Nine Mortal Ways
+Sect - Former:  null
+Guild Role: DPS
+GVG Team: undefined
+GVG Role: undefined
+GVG Title: null
+Cohort:  [[_Enchanted Cohort]]
+Cohort Rank: 5 Younger Sister
+Master:  null
+Disciple Rank: null
+Disciple:  [[soulren|soul-ren]]
+Partner:  [[soulren|soul-ren]]
+Partner - Former: null
+External:  null
+Ext Description:  null
 
 ---
-`=this.cover`
+![[morichu.png]]
