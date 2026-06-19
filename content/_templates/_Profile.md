@@ -1,4 +1,6 @@
 ---
+title: Lore
+draft: false
 GameID:
 aliases:
 Alt:
