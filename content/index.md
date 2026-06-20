@@ -19,7 +19,7 @@ img: "[[guild.png]]"
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ---
-
+![[content/_attachments/sampleorg.png]]
 > [!info]- Graph Legend
 > Here is a quick reference for the callouts used in the graph view:
 > 
