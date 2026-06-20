@@ -38,7 +38,6 @@ views:
       - property: Guild Member
         direction: DESC
     columnSize:
-      file.name: 344
       note.Masked Troupe name: 96
       note.Path - main: 172
       note.Path - secondary: 176

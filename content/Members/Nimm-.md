@@ -27,7 +27,7 @@ Partner:
 Partner - Former:
 External:
 Ext Description:
-img: "[[gns.png]]"
+img: "[[guild.png]]"
 WWM Player: true
 ---
 

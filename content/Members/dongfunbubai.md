@@ -31,7 +31,7 @@ Disciple Rank: 3rd Discple
 Disciple: None
 Partner: None
 Partner - Former:
-img: "[[gns.png]]"
+img: "[[guild.png]]"
 Guild Position:
   - Commander
 External:

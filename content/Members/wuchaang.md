@@ -1,7 +1,7 @@
 ---
 GVG Team: "[[_Defence]]"
 GVG Role: Tank
-img: "[[gns.png]]"
+img: "[[guild.png]]"
 WWM Player: true
 ---
 

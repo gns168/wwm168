@@ -9,6 +9,7 @@ views:
     filters:
       and:
         - "!External.isEmpty()"
+        - note["WWM Player"] == true
     order:
       - file.name
       - aliases

@@ -44,10 +44,10 @@ Partner:
 Partner - Former:
 External:
 Ext Description:
-img:
+img: "[[guild.png]]"
 icon:
-cover:
-WWM Player: false
+cover: "![[guild.png]]"
+WWM Player: true
 ---
 
 Gameid: <% tp.frontmatter.GameID %>
