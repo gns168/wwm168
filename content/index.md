@@ -21,7 +21,6 @@ img: "[[guild.png]]"
 ---
 ![[org.png]]
 
-
 > [!info]- Graph Legend
 > Here is a quick reference for the callouts used in the graph view:
 > 
