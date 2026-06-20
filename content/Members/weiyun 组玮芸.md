@@ -9,7 +9,6 @@ Masked Troupe name: DiRayne
 Path - main:
   - Silkbind - Jade
 Path - secondary:
-  - 
 Path - Former:
   - 
 Role:
@@ -53,7 +52,7 @@ Alt: [[花晨光]]
 Masked Troupe name: DiRayne
 Path - main: Silkbind - Jade
 Path - secondary: 
-Path - Former:  
+Path - Former:
 Role:  DPS
 Sect:  Nine Mortal Ways
 Sect - Former:  Midnight Blades,Masked Troupe,Raging Tides

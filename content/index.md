@@ -15,10 +15,33 @@ img: "[[guild.png]]"
 >| | |
 >| :--- | :--- |
 >|Guild ID: | 10157338 |
+>|Members:| ![[avenueXtra.csv]]|
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ---
-> [!info] Graph Legend
+
+```mermaid
+graph TB
+
+l[avenuex 顾明]
+g[AvenueXtra]
+c1[_Dramallama Cohort]
+c2[_Enchanted Cohort]
+c3[_Not Lonely Cohort]
+m[Members]
+e[external]
+
+subgraph Cohorts
+	c1
+	c2
+	c3
+end
+l --> m & Cohorts
+
+class l,c1,c2,c3,m,e internal-link
+```
+
+> [!info]- Graph Legend
 > Here is a quick reference for the callouts used in the graph view:
 > 
 > | Icon | Callout Type | Meaning | |
