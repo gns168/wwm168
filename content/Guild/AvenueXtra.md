@@ -38,7 +38,7 @@ m14((cai cai 采采卷耳))
 m15((beef 牛雨瀮))
 
 l --> |Leader| g
-m2 -.- |Former Partner| m3
+m1 -.- |Former Partner| m3
 m2 --> |Partner| m1
 m2 --> |Eldest| m1
 m8 --> |Partner| m5((baoyu 宝玉))
