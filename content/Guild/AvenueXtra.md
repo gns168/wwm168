@@ -13,7 +13,6 @@ img: "[[guild.png]]"
 ```mermaid
 graph TB
 
-%% Structure
 l((avenuex 顾明))
 g(AvenueXtra)
 c1(_Dramallama Cohort)
@@ -21,8 +20,6 @@ c2(_Enchanted Cohort)
 c3(_Not Lonely Cohort)
 m(Members)
 e[external]
-
-%% Members
 
 m1((gnsyiliuba))
 m2((gns))
@@ -33,8 +30,6 @@ m6((nhatthao))
 m7((faeonix))
 m8((hekapider))
 m9((dongfunbubai))
-
-%% Relationship
 
 l --> |Leader| g
 m2 --> |Partnership| m1
