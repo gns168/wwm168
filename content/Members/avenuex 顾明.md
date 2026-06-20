@@ -43,12 +43,13 @@ icon: RaDragon
 cover: "![[avenuex.png]]"
 Guild Position:
   - Leader
+WWM Player: true
 ---
 Gameid: 1023383798
 Alias: 顾明,AvenueX
 Timezone (UTC): UTC-6
 Alt: null
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Silkbind - Deluge
 Path - secondary: null
 Path - Former:  Silkbind - Jade

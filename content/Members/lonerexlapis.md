@@ -36,13 +36,14 @@ img: "[[rex.png]]"
 Guild Position:
   - Commander
 cover: "![[rex.png]]"
+WWM Player: true
 ---
 
 Gameid: 1082940367
 Alias: LoneRexLapis
 Timezone (UTC): UTC-5
 Alt: [[prymerex]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Silkbind - Jade
 Path - secondary: Stonesplit - Might
 Path - Former:  null

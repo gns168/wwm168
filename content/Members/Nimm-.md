@@ -28,13 +28,14 @@ Partner - Former:
 External:
 Ext Description:
 img: "[[gns.png]]"
+WWM Player: true
 ---
 
 Gameid: 1072261830
 Alias: Nimm
 Timezone (UTC): UTC-4
 Alt: null
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Silkbind - Jade
 Path - secondary: Silkbind - Deluge
 Path - Former:  null

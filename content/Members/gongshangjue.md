@@ -33,13 +33,14 @@ External:
 Ext Description:
 img: "[[gong.png]]"
 cover: "![[gong.png]]"
+WWM Player: true
 ---
 
 Gameid: 2056718470
 Alias: GongShangjue
 Timezone (UTC): UTC+2
 Alt: null
-Masked Troupe name: RedTurtlesnip
+Masked Troupe name: RedTurtle
 Path - main: Bellstrike - Splendor
 Path - secondary: Stonesplit - Strength
 Path - Former:  null

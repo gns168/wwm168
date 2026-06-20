@@ -47,13 +47,14 @@ Ext Description:
 img:
 icon:
 cover:
+WWM Player: false
 ---
 
 Gameid: <% tp.frontmatter.GameID %>
 Alias: <% tp.frontmatter.aliases %>
 Timezone (UTC): <% tp.frontmatter["Timezone (UTC)"] %>
 Alt: <% tp.frontmatter.Alt %>
-Masked Troupe name: <% tp.frontmatter["Masked Troupe name"] %>snip
+Masked Troupe name: <% tp.frontmatter["Masked Troupe name"] %>
 Path - main: <% tp.frontmatter["Path - main"] %>
 Path - secondary: <% tp.frontmatter["Path - secondary"] %>
 Path - Former:  <% tp.frontmatter["Path - Former"] %>

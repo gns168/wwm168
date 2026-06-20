@@ -43,12 +43,13 @@ Guild Position:
 icon:
 cover: "![[gns2.png]]"
 Ext Description: Google drive containing guild member profiles, team rosters and offline webpage of guild
+WWM Player: true
 ---
 Gameid: 1045666560
 Alias: 易留疤
 Timezone (UTC): UTC-4
 Alt: [[gnsyiliuba]]
-Masked Troupe name: 易留疤snip
+Masked Troupe name: 易留疤
 Path - main: Stonesplit - Strength
 Path - secondary: Stonesplit - Might
 Path - Former:  null

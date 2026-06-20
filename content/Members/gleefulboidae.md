@@ -28,12 +28,13 @@ External:
 Ext Description:
 img: "[[gns.png]]"
 cover: "![[gns.png]]"
+WWM Player: true
 ---
 Gameid: 1017819297
 Alias: SenoraQu
 Timezone (UTC): UTC-7
 Alt: null
-Masked Troupe name: SenoraQusnip
+Masked Troupe name: SenoraQu
 Path - main: Stonesplit - Strength
 Path - secondary: null
 Path - Former:  null

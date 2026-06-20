@@ -10,6 +10,7 @@ Eighth Younger: "[[dongfunbubai]]"
 Ninth Younger: "[[beef 牛雨瀮|beef]]"
 Youngest:
 ---
+
 >[!info] [[_Enchanted Cohort]]
 >| Role | Member |  
 >| :--- | :--- |
@@ -20,7 +21,7 @@ Youngest:
 >|Fifth Younger: | [[Morichu]] |
 >|Sixth Younger: | [[cai cai 采采卷耳]] |
 >|Eighth Younger: | [[dongfunbubai]] |
->|Ninth Younger: | [[beef 牛雨瀮|beef]] |
+>|Ninth Younger: | [[beef 牛雨瀮]] |
 >|Youngest: | null |
 
 ---

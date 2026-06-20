@@ -30,13 +30,14 @@ Ext Description:
 img: "[[meijialin.png]]"
 icon:
 cover: "![[meijialin.png]]"
+WWM Player: true
 ---
 
 Gameid: 0039593367
 Alias: meijialin
 Timezone (UTC): UTC+6
 Alt: null
-Masked Troupe name: CoyDivasnip
+Masked Troupe name: CoyDiva
 Path - main: Bamboocut - Wind
 Path - secondary: Stonesplit - Strength
 Path - Former:  null

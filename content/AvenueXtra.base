@@ -3,7 +3,7 @@ views:
     name: Table
     filters:
       and:
-        - "!img.isEmpty()"
+        - note["WWM Player"] == true
     order:
       - file.name
       - Timezone (UTC)
@@ -32,7 +32,11 @@ views:
       - Ext Description
       - img
       - cover
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Guild Member
+        direction: DESC
     columnSize:
       file.name: 344
       note.Masked Troupe name: 96

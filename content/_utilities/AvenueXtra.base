@@ -1,9 +1,12 @@
 filters:
   and:
-    - file.folder == "content/Members"
+    - "!img.isEmpty()"
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - note["WWM Player"] == true
     order:
       - file.name
       - Timezone (UTC)

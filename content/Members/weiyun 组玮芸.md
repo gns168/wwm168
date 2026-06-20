@@ -43,13 +43,14 @@ img: "[[weiyun.png]]"
 cover: "![[weiyun.png]]"
 Guild Position:
   - Commander
+WWM Player: true
 ---
 
 Gameid: 2112394246
 Alias: 组玮芸-ZuWeiyun
 Timezone (UTC): UTC+1
 Alt: [[花晨光]]
-Masked Troupe name: DiRaynesnip
+Masked Troupe name: DiRayne
 Path - main: Silkbind - Jade
 Path - secondary: 
 Path - Former:  

@@ -44,12 +44,13 @@ cover: "![[gnsyiliuba2.png]]"
 Ext Description: |-
   Unlisted playlist of fightclub and heka martial marital tourney.
   Public playlist of fightclub founders and gns/168 play attemps
+WWM Player: true
 ---
 Gameid: 1015699037
 Alias: 168
 Timezone (UTC): UTC-4
 Alt: [[gns]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Bamboocut - Dust
 Path - secondary: Silkbind - Deluge
 Path - Former:  Silkbind - Jade

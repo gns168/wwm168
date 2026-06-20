@@ -34,12 +34,13 @@ img: "[[baoyu.png]]"
 cover: "![[baoyu.png]]"
 Guild Position:
   - Commander
+WWM Player: true
 ---
 Gameid: 2034024007
 Alias: Baoyu
 Timezone (UTC): UTC+1
 Alt: [[媚璇Meixuan]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Bellstrike - Splendor
 Path - secondary: null
 Path - Former:  null

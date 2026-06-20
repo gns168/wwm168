@@ -29,13 +29,14 @@ External:
 Ext Description:
 img: "[[morichu.png]]"
 cover: "![[morichu.png]]"
+WWM Player: true
 ---
 
 Gameid: 1058158429
 Alias: Mori
 Timezone (UTC): (EDT) UTC-4, (EST) UTC-5
 Alt: [[Mean-Eye]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Stonesplit - Strength
 Path - secondary: Silkbind - Jade
 Path - Former:  null

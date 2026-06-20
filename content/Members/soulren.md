@@ -35,13 +35,14 @@ External:
 Ext Description:
 img: "[[soulren2.png]]"
 cover: "![[soulren2.png]]"
+WWM Player: true
 ---
 
 Gameid: 1072033109
 Alias: Soul,Ren,soul-ren,Divine Healer,MVP
 Timezone (UTC): (EDT) UTC-4, (EST) UTC-5.
 Alt: null
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Silkbind - Deluge
 Path - secondary: Bellstrike - Splendor
 Path - Former:  null

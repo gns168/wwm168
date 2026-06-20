@@ -35,13 +35,14 @@ External:
 Ext Description: Link to the fanfiction about Hekapider's harem adventures!
 img: "[[hekapider.png]]"
 cover: "![[hekapider.png]]"
+WWM Player: true
 ---
 
 Gameid: 1045179371
 Alias: heka
 Timezone (UTC): UTC-7
 Alt: null
-Masked Troupe name: undefinedsnip
+Masked Troupe name: undefined
 Path - main: Silkbind - Jade
 Path - secondary: Bamboocut - Wind
 Path - Former:  null

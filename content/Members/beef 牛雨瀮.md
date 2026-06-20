@@ -34,12 +34,13 @@ External:
 Ext Description:
 img: "[[beef.jpg]]"
 cover: "![[beef.jpg]]"
+WWM Player: true
 ---
 Gameid: 1083606416
 Alias: beef
 Timezone (UTC): UTC-5
 Alt: [[牛雨冷]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Stonesplit – Might
 Path - secondary: Stonesplit - Strength
 Path - Former:  undefined

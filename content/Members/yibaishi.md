@@ -37,13 +37,14 @@ img: "[[yibaishi.png]]"
 cover: "![[yibaishi.png]]"
 Guild Position:
   - Commander
+WWM Player: true
 ---
 
 Gameid: 2015704079
 Alias: YiBaiShi
 Timezone (UTC): UTC+2
 Alt: [[ErBaiShi]]
-Masked Troupe name: WhiteJadeFoxsnip
+Masked Troupe name: WhiteJadeFox
 Path - main: Bamboocut - Dust
 Path - secondary: Silkbind - Deluge
 Path - Former:  null

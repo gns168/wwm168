@@ -31,12 +31,13 @@ External:
 Ext Description:
 img: "[[luanadajhi.png]]"
 cover: "![[luanadajhi.png]]"
+WWM Player: true
 ---
 Gameid: 1049704837
 Alias: null
 Timezone (UTC): UTC-3
 Alt: null
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Bellstrike - Umbra
 Path - secondary: null
 Path - Former:  null

@@ -2,13 +2,14 @@
 GVG Team: "[[_Defence]]"
 GVG Role: Tank
 img: "[[gns.png]]"
+WWM Player: true
 ---
 
 Gameid: undefined
 Alias: undefined
 Timezone (UTC): undefined
 Alt: undefined
-Masked Troupe name: undefinedsnip
+Masked Troupe name: undefined
 Path - main: undefined
 Path - secondary: undefined
 Path - Former:  undefined

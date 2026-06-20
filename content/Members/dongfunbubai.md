@@ -36,12 +36,13 @@ Guild Position:
   - Commander
 External:
 Ext Description:
+WWM Player: true
 ---
 Gameid: 1078411910
 Alias: DFBB,DongFanBuBai
 Timezone (UTC): UTC+5
 Alt: null
-Masked Troupe name: undefinedsnip
+Masked Troupe name: undefined
 Path - main: Bellstrike - Splendor
 Path - secondary: null
 Path - Former:  Bellstrike - Umbra

@@ -36,12 +36,13 @@ External:
 Ext Description:
 img: "[[faeonix.png]]"
 cover: "![[faeonix.png]]"
+WWM Player: true
 ---
 Gameid: 1029845419
 Alias: Fae,Empress,Queen
 Timezone (UTC): UTC-7
 Alt: [[Faevyrn]]
-Masked Troupe name: nullsnip
+Masked Troupe name: null
 Path - main: Bellstrike - Umbra
 Path - secondary: Silkbind - Deluge
 Path - Former:  null

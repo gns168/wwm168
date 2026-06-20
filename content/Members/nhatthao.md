@@ -31,13 +31,14 @@ External:
 Ext Description:
 img: "[[nhatthao.jpg]]"
 cover: "![[nhatthao.jpg]]"
+WWM Player: true
 ---
 
 Gameid: 4085625047
 Alias: nhat
 Timezone (UTC): UTC +9.30
 Alt: null
-Masked Troupe name: Nyankosnip
+Masked Troupe name: Nyanko
 Path - main: Silkbind - Jade
 Path - secondary: Bellstrike - Splendor
 Path - Former:  null
