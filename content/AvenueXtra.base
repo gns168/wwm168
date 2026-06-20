@@ -32,6 +32,7 @@ views:
       - Ext Description
       - img
       - cover
+      - WWM Player
     sort:
       - property: file.name
         direction: ASC
