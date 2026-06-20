@@ -44,15 +44,15 @@ subgraph Guild
 	m
 	subgraph Cohorts
 		l --> |Elder| c1
-			c1 --> |2nd| m2
-				m2 --> |2nd| m8
-				m2 --> |3rd| m9
+			c1 --> |2nd| m1
+				m1 --> |Eldest| m4
+				m1 --> |2nd| m5
+				m1 --> |3rd| m6
+				m1 --> |4th| m7
 			c1 --> |4th| m10
-		m1 --> |Elder| c2
-			m1 --> |Eldest| m4
-			m1 --> |2nd| m5
-			m1 --> |3rd| m6
-			m1 --> |4th| m7
+		m2 --> |Elder| c2
+			m2 --> |2nd| m8
+			m2 --> |3rd| m9
 		c3
 	end
 	m2 -.- |Former Partner| m3
