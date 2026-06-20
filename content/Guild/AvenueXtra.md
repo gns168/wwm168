@@ -30,10 +30,14 @@ m6((nhatthao))
 m7((faeonix))
 m8((hekapider))
 m9((dongfunbubai))
+m10((weiyun 组玮芸))
 
 l --> |Leader| g
-m2 --> |Partnership| m1
+m2 --> |Partner| m1
 m2 --> |Eldest| m1
+m8 --> |Partner| m5((baoyu 宝玉))
+m8 --> |Partner| m9((dongfunbubai))
+m8 --> |Partner| m10((weiyun 组玮芸))
 
 subgraph Guild
 	g ---> |Groups| Cohorts & m
@@ -43,6 +47,7 @@ subgraph Guild
 			c1 --> |2nd| m2
 				m2 --> |2nd| m8
 				m2 --> |3rd| m9
+			c1 --> |4th| m10
 		m1 --> |Elder| c2
 			m1 --> |Eldest| m4
 			m1 --> |2nd| m5
@@ -50,7 +55,7 @@ subgraph Guild
 			m1 --> |4th| m7
 		c3
 	end
-	m2 -.- |Former Partnership| m3
+	m2 -.- |Former Partner| m3
 end
 
 
