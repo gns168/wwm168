@@ -42,14 +42,15 @@ m12((soulren))
 m13((Morichu))
 m14((cai cai 采采卷耳))
 m15((beef 牛雨瀮))
+m16((lonerexlapis))
 
 l --> |Leader| g
 m1 x-.-x |Partner| m3
-m2 --> |Partner| m1
+m2 <--> |Partner| m1
 m2 --> |Eldest| m1
-m8 --> |Partner| m5((baoyu 宝玉))
-m8 --> |Partner| m9((dongfunbubai))
-m8 --> |Partner| m10((weiyun 组玮芸))
+m8 <--> |Partner| m5((baoyu 宝玉))
+m8 <--> |Partner| m9((dongfunbubai))
+m8 <--> |Partner| m10((weiyun 组玮芸))
 
 subgraph Guild
 	g --> |Groups| Cohorts & m
@@ -73,7 +74,7 @@ subgraph Guild
 			c2 --> |7th| m6
 			c2 --> |8th| m9
 			c2 --> |youngest| m15
-		c3
+		c3 --> |Elder| m16
 	end
 end
 
@@ -82,7 +83,6 @@ class g,c1,c2,c3,m,e internal-link
 class l,m1,m2,m3,m4,m5,m6,m7,m8,m9 internal-link
 ```
 ---
-
 # [[Cohorts]]
 # [[Members]]
 # [[GVG]]
