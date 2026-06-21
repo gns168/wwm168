@@ -1,6 +1,4 @@
 ---
-GVG Team: "[[_Defence]]"
-GVG Role: DPS
 img: "[[guild.png]]"
 WWM Player: true
 title:
@@ -37,6 +35,8 @@ Sect - Former:
   - Inkbound Order
 Guild Role:
 GVG Title:
+GVG Team: "[[_Defence]]"
+GVG Role: DPS
 Cohort:
 Cohort Rank:
 Master:

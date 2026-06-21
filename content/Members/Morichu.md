@@ -16,6 +16,9 @@ Role: DPS
 Sect: Nine Mortal Ways
 Sect - Former:
 Guild Role: DPS
+GVG Team: "[[_Jungle]]"
+GVG Role:
+  - DPS
 GVG Title:
 Cohort: "[[_Enchanted Cohort]]"
 Cohort Rank: 5 Younger Sister
