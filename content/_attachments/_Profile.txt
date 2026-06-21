@@ -1,0 +1,51 @@
+---
+title:
+draft: false
+GameID:
+aliases:
+Alt:
+Timezone (UTC):
+Masked Troupe name:
+Path - main:
+Path - secondary:
+Path - Former:
+  - Bamboocut - Dust
+  - Bamboocut - Wind
+  - Bellstrike - Splendor
+  - Bellstrike - Umbra
+  - Silkbind - Deluge
+  - Silkbind - Jade
+  - Stonesplit - Might
+  - Stonesplit - Strength
+Role:
+Sect:
+Sect - Former:
+  - Well of Heaven
+  - Silver Needle
+  - Raging Tides
+  - Midnight Blades
+  - Nine Mortal Ways
+  - Velvet Shade
+  - Lone Cloud
+  - Masked Troupe
+  - Mohist Hill
+  - Hollow Vale
+  - Inkbound Order
+Guild Role:
+GVG Team:
+GVG Role:
+GVG Title:
+Cohort:
+Cohort Rank:
+Master:
+Disciple Rank:
+Disciple:
+Partner:
+Partner - Former:
+External:
+Ext Description:
+img: "[[guild.png]]"
+icon:
+cover: "![[guild.png]]"
+WWM Player: false
+---
