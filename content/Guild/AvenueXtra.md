@@ -11,12 +11,6 @@ img: "[[guild.png]]"
 
 ---
 ```mermaid
----
-title: AvenueXtra
-config:
-look: handDrawn
-theme: neutral
----
 flowchart TB
 
 l(((avenuex 顾明)))
