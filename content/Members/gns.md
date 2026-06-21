@@ -71,4 +71,5 @@ External:  https://gns168.github.io/wwm168,https://drive.google.com/drive/folder
 Ext Description:  Google drive containing guild member profiles, team rosters and offline webpage of guild
 
 ---
+![[gns.png]]
 ![[gns2.png]]

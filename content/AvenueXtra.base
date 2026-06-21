@@ -34,6 +34,8 @@ views:
       - cover
       - WWM Player
     sort:
+      - property: img
+        direction: ASC
       - property: file.name
         direction: ASC
       - property: Guild Member

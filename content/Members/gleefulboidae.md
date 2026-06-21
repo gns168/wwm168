@@ -26,8 +26,8 @@ Partner:
 Partner - Former:
 External:
 Ext Description:
-img: "[[gns.png]]"
-cover: "![[gns.png]]"
+img: "[[guild.png]]"
+cover:
 WWM Player: true
 ---
 Gameid: 1017819297
