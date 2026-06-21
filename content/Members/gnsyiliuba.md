@@ -75,3 +75,6 @@ Public playlist of fightclub founders and gns/168 play attemps
 ---
 ![[gnsyiliuba.png]]
 ![[gnsyiliuba2.png]]
+![[gns3.png]]
+![[gns4.png]]
+![[gns5.png]]
