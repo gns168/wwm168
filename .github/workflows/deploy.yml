@@ -59,3 +59,13 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+plugins: {
+  transformers: [
+    Plugin.Frontmatter(),
+    Plugin.SyntaxHighlighting(),
+    // ALWAYS place ObsidianFlavoredMarkdown AFTER SyntaxHighlighting
+    Plugin.ObsidianFlavoredMarkdown({ mermaid: true }), 
+    Plugin.GitHubFlavoredMarkdown(),
+    // ... other plugins
+  ],
+}
