@@ -11,9 +11,15 @@ img: "[[guild.png]]"
 
 ---
 ```mermaid
-graph TB
+---
+title: AvenueXtra
+config:
+look: handDrawn
+theme: neutral
+---
+flowchart TB
 
-l((avenuex 顾明))
+l(((avenuex 顾明)))
 g(AvenueXtra)
 c1(_Dramallama Cohort)
 c2(_Enchanted Cohort)
@@ -38,7 +44,7 @@ m14((cai cai 采采卷耳))
 m15((beef 牛雨瀮))
 
 l --> |Leader| g
-m1 -.- |Former Partner| m3
+m1 x-.-x |Partner| m3
 m2 --> |Partner| m1
 m2 --> |Eldest| m1
 m8 --> |Partner| m5((baoyu 宝玉))
@@ -46,7 +52,7 @@ m8 --> |Partner| m9((dongfunbubai))
 m8 --> |Partner| m10((weiyun 组玮芸))
 
 subgraph Guild
-	g ---> |Groups| Cohorts & m
+	g --> |Groups| Cohorts & m
 	m --> m3
 	subgraph Cohorts
 		c1 --> |Elder| l
@@ -70,9 +76,6 @@ subgraph Guild
 		c3
 	end
 end
-
-
-
 
 
 class g,c1,c2,c3,m,e internal-link
