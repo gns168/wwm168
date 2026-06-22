@@ -2,6 +2,9 @@
 Date: 2026-06-22
 Lore Type: Guild Trials
 Author: "[[gns]]"
+Collaborators:
+  - "[[dongfunbubai]]"
+  - "[[lonerexlapis|LoneRexLapis]]"
 ---
 * [[weiyun 组玮芸|组玮芸-ZuWeiyun]] tribunal for recommending new guild member
 	* ![[wei_tribunal.png]]
