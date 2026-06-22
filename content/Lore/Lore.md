@@ -1,12 +1,6 @@
 ---
 Lore Type: Lore
 ---
-```dataview
-TABLE lore-type, date, author, collaborators
-FROM ![[Lore.base]]
-where author != null
-sort lore-type, date desc
-```
 # Fanfiction
 * [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 # GVG
@@ -14,5 +8,12 @@ sort lore-type, date desc
 # Guild Trials
 * [[Wei's New Guild Member]]
 * [[Martial Marital Trials - heka]]
+* 
+---
 
-
+```dataview
+TABLE lore-type, date, author, collaborators
+FROM ![[Lore.base]]
+where author != null
+sort lore-type, date desc
+```
