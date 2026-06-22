@@ -12,3 +12,5 @@
 # New Guild Member
 * [[weiyun 组玮芸|组玮芸-ZuWeiyun]] tribunal for recommending new guild member
 	* ![[wei_tribunal.png]]
+	* https://youtu.be/FbpVljraW5U?si=VPTBDeZNjQoMpcDP
+	
