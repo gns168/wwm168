@@ -73,4 +73,4 @@ Ext Description:  null
 ![[weiyun.png]]
 ---
 # Lore
-![[weiyun_ref_sheet.png]]
+![[weiyun_ref.png]]

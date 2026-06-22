@@ -47,7 +47,7 @@ Ext Description:
 img: "[[guild.png]]"
 icon:
 cover: "![[guild.png]]"
-WWM Player: true
+WWM Player: false
 ---
 
 Gameid: <% tp.frontmatter.GameID %>

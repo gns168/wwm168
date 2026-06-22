@@ -31,11 +31,12 @@ Disciple Rank: 3rd Discple
 Disciple: None
 Partner: None
 Partner - Former:
-img: "[[guild.png]]"
+img: "[[dfbb.png]]"
 Guild Position:
   - Commander
 External:
 Ext Description:
+cover: "![[dfbb.png]]"
 WWM Player: true
 ---
 Gameid: 1078411910
@@ -64,4 +65,8 @@ External:  null
 Ext Description:  null
 
 ---
-undefined
+![[dfbb.png]]
+
+---
+# Lore
+![[dfbb_ref.png]]
