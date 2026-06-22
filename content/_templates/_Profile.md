@@ -47,7 +47,7 @@ Ext Description:
 img: "[[guild.png]]"
 icon:
 cover: "![[guild.png]]"
-WWM Player: false
+WWM Player: true
 ---
 
 Gameid: <% tp.frontmatter.GameID %>
@@ -77,3 +77,6 @@ Ext Description:  <% tp.frontmatter["Ext Description"] %>
 
 ---
 <% tp.frontmatter.cover %>
+---
+# Lore
+

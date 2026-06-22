@@ -1,5 +1,6 @@
 ---
 Lore Type: Lore
+GVG Role: Lore
 ---
 # Fanfiction
 * [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]

@@ -5,6 +5,7 @@ Author: "[[hekapider]]"
 Collaborators:
   - "[[baoyu 宝玉|Baoyu]]"
   - "[[weiyun 组玮芸|组玮芸-ZuWeiyun]]"
+GVG Role: Lore
 ---
 Author: [[hekapider]]
 Collabrators: [[baoyu 宝玉|Baoyu]] [[weiyun 组玮芸|组玮芸-ZuWeiyun]]

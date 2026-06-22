@@ -2,6 +2,7 @@
 Date: 2026-05-30
 Lore Type: Guild Trials
 Author: "[[gns]]"
+GVG Role: Lore
 ---
 * [[hekapider]] harem marriage trials for 
 	* [[weiyun 组玮芸|组玮芸-ZuWeiyun]]![](https://youtu.be/fNNcR19aPNE?si=cWyH6psqTjAS83u3)
