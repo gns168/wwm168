@@ -6,10 +6,12 @@ GVG Role: Lore
 * [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 # GVG
 * [[Father's Day 2026]]
-# Guild Trials
-* [[Wei's New Guild Member]]
-* [[Martial Marital Trials - heka]]
-* 
+# Guild 
+* [[Guild Tour]]
+	Trials
+	* [[Wei's New Guild Member]]
+	* [[Martial Marital Trials - heka]]
+
 ---
 
 ```dataview

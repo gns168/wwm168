@@ -1,6 +1,6 @@
 ---
 Date: 2026-06-22
-Lore Type: Guild Trials
+Lore Type: Trials
 Author: "[[gns]]"
 Collaborators:
   - "[[dongfunbubai]]"

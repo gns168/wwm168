@@ -1,6 +1,6 @@
 ---
 Date: 2026-05-30
-Lore Type: Guild Trials
+Lore Type: Trials
 Author: "[[gns]]"
 GVG Role: Lore
 ---
