@@ -70,5 +70,7 @@ Partner - Former: [[花晨光]]
 External:  https://www.youtube.com/playlist?list=PLnn7mE5mEUpzKD89IrJOA85oZpi2ydsnR
 Ext Description:  null
 
----
 ![[weiyun.png]]
+---
+# Lore
+![[weiyun_ref_sheet.png]]
