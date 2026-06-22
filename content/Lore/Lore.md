@@ -9,9 +9,9 @@ GVG Role:
 
 ---
 # GVG
-[[content/Lore/GVG|GVG]]
-* Father's Day 2026
----
+* [[GVG#Father's Day 2026]]
 # Guild Trials
-[[Trials]]
+* [[Trials#Martial Marital Trials]]
+* [[Trials#Wei's New Guild Member]]
+
 
