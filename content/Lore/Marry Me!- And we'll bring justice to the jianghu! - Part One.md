@@ -1,6 +1,6 @@
 ---
-GVG Role:
-  - Lore
+Date: 2026-06-17
+Lore Type: Fanfiction
 Author: "[[hekapider]]"
 Collaborators:
   - "[[baoyu 宝玉|Baoyu]]"

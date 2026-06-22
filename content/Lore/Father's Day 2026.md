@@ -1,5 +1,8 @@
-## Father's Day 2026
-* 2026-06-22
+---
+Date: 2026-06-22
+Lore Type: GVG
+Author: "[[gns]]"
+---
 * Great day overall for GvG.  We were finally able to execute and coordinate "bombing" between the healer, tank and nameless
 	* Healers: casting endurance buff
 	* Tanks: vortexing the enemy

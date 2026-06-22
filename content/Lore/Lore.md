@@ -1,17 +1,18 @@
 ---
-GVG Role:
-  - Lore
+Lore Type: Lore
 ---
-# Lore
->[!info]- [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
->Author: [[hekapider]]
->Collabrators: [[baoyu 宝玉|Baoyu]] [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
-
----
+```dataview
+TABLE lore-type, date, author, collaborators
+FROM ![[Lore.base]]
+where author != null
+sort lore-type, date desc
+```
+# Fanfiction
+* [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 # GVG
-* [[GVG#Father's Day 2026]]
+* [[Father's Day 2026]]
 # Guild Trials
-* [[Trials#Martial Marital Trials]]
-* [[Trials#Wei's New Guild Member]]
+* [[Wei's New Guild Member]]
+* [[Martial Marital Trials - heka]]
 
 

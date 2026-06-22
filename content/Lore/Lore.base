@@ -1,0 +1,19 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - '!note["Lore Type"].isEmpty()'
+        - "!Date.isEmpty()"
+    groupBy:
+      property: Lore Type
+      direction: ASC
+    order:
+      - file.name
+      - Lore Type
+      - Date
+      - Author
+      - Collaborators
+    sort:
+      - property: Date
+        direction: DESC
