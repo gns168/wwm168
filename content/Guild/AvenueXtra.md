@@ -80,4 +80,4 @@ class m10,m11,m12,m13,m14,m15,m16 internal-link
 ---
 # [[Cohorts]]
 # [[Members]]
-# [[GVG]]
+# [[content/Guild/gvg/GVG]]

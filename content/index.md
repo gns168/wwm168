@@ -39,7 +39,8 @@ img: "[[guild.png]]"
 > | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#ff00ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-icon lucide-circle"><circle cx="12" cy="12" r="10"/></svg> | | 🟣Healer Role | |
 > | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#afbac0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-icon lucide-circle"><circle cx="12" cy="12" r="10"/></svg> | [[Lore]] | Fanfiction by guildmembers | |
 > | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#afbac0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-icon lucide-circle"><circle cx="12" cy="12" r="10"/></svg> | [[Trials]] | Guild Trials | |
+> | <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#afbac0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="lucide lucide-circle-icon lucide-circle"><circle cx="12" cy="12" r="10"/></svg> | [[GVG]] | GvG Highlights | |
 > | | Profile templates | Blank<br>Sample| ![[_Profile.txt]]<br>![[gnsyiliuba.txt]] |
 # [[Cohorts]]
 # [[Members]]
-# [[GVG]]
+# [[content/Guild/gvg/GVG]]
