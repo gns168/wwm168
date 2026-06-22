@@ -24,7 +24,8 @@ img: "[[guild.png]]"
 ![[org.png]]
 
 ---
-# Guild Base Tour by [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
+# Guild Base Tour 
+* by [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
 * WIP
 
 ---
