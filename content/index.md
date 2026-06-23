@@ -20,7 +20,7 @@ img: "[[guild.png]]"
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ---
-# Organizational Chart
+# Organizational Chart (WIP)
 ![[org.png]]
 
 ---
