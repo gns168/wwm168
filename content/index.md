@@ -29,7 +29,7 @@ img: "[[guild.png]]"
 * WIP
 
 ---
-> [!info] Graph Legend
+> [!info]- Graph Legend
 > Here is a quick reference for the callouts used in the graph view:
 > 
 > | Icon | Callout Type | Meaning | |
