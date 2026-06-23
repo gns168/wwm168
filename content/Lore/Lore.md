@@ -3,8 +3,8 @@ Lore Type: Lore
 GVG Role: Lore
 ---
 # Fanfiction
-* [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 * [[A Flower of Velvet, Seeking Light]]
+* [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
 # GVG
 * [[Father's Day 2026]]
 # Guild 
