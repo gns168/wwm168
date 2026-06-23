@@ -12,7 +12,7 @@ GVG Role: Lore
 	* 220 kills!!! ![[GVG 2026-06-21 1of4.png]]
 * KD=41.0 , KDA=139.0
 	* [[baoyu 宝玉|Baoyu]] ![[GVG 2026-06-21 2of4.png]]
-* Assist: 110
+* Assist: 106
 	* [[gns]]  ![[GVG 2026-06-21 3of4.png]]
 * Healers keeping everyone alive
 	*   ![[GVG 2026-06-21 4of4.png]]
