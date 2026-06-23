@@ -60,3 +60,7 @@ Ext Description:  null
 
 ---
 ![[luanadajhi.png]]
+
+---
+# Lore
+[[A Flower of Velvet, Seeking Light]]

@@ -4,6 +4,7 @@ GVG Role: Lore
 ---
 # Fanfiction
 * [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
+* [[A Flower of Velvet, Seeking Light]]
 # GVG
 * [[Father's Day 2026]]
 # Guild 

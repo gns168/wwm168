@@ -65,3 +65,6 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 
 ---
 ![[hekapider.png]]
+---
+# Lore
+* [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
