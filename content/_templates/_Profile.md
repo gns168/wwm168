@@ -49,6 +49,7 @@ icon:
 cover: "![[guild.png]]"
 WWM Player: false
 ---
+[[{{title}}]]
 
 Gameid: <% tp.frontmatter.GameID %>
 Alias: <% tp.frontmatter.aliases %>
