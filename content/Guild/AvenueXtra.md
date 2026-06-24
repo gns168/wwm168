@@ -6,83 +6,80 @@ External:
   - https://discord.gg/HE6P7NMqY
 Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+excalidraw-open-md: true
 ---
 ![[banner.png]] 
+# [[AvenueXtra]]
 
----
-```mermaid
-flowchart TB
+![[AvenueXtra.svg]]
 
-l(((avenuex 顾明)))
-g(AvenueXtra)
-c1(_Dramallama Cohort)
-c2(_Enchanted Cohort)
-c3(_Not Lonely Cohort)
-m(Members)
-e[external]
+# Excalidraw Data
 
-m1((gnsyiliuba))
-m2((gns))
-m3((tierce))
-m4((wuchang))
-m5((baoyu 宝玉))
-m6((nhatthao))
-m7((faeonix))
-m8((hekapider))
-m9((dongfunbubai))
-m10((weiyun 组玮芸))
-m11((slightlyspinner))
-m12((soulren))
-m13((Morichu))
-m14((cai cai 采采卷耳))
-m15((beef 牛雨瀮))
-m16((lonerexlapis))
+## Text Elements
+[[avenuex 顾明|AvenueX]]
+Elder ^uDuC3qEt
 
-l --> |Leader| g
-m1 x-.-x |Partner| m3
-m2 <--> |Partner| m1
-m2 --> |Eldest| m1
-m8 <--> |Partner| m5((baoyu 宝玉))
-m8 <--> |Partner| m9((dongfunbubai))
-m8 <--> |Partner| m10((weiyun 组玮芸))
+[[_Dramallama Cohort]] ^ViJjX27I
 
-subgraph Guild
-	g --> |Groups| Cohorts & m
-	m --> m3
-	subgraph Cohorts
-		c1 --> |Elder| l
-			c1 --> |2nd| m1
-				m1 --> |Eldest| m4
-				m1 --> |2nd| m5
-				m1 --> |3rd| m6
-				m1 --> |4th| m7
-			c1 --> |4th| m10
-		c2 --> |Elder| m2
-				m2 --> |2nd| m8
-				m2 --> |3rd| m9
-			c2 --> |2nd| m11
-			c2 --> |3rd| m8
-			c2 --> |4th| m12
-			c2 --> |5th| m13
-			c2 --> |6th| m14
-			c2 --> |7th| m6
-			c2 --> |8th| m9
-			c2 --> |youngest| m15
-		c3 --> |Elder| m16
-	end
-end
+[[_Enchanted Cohort]] ^cSCK9hev
 
+[[_Not Lonely Cohort]] ^v2o9inMx
 
-class g,c1,c2,c3,m,e internal-link
-class l,m1,m2,m3,m4,m5,m6,m7,m8,m9 internal-link
-class m10,m11,m12,m13,m14,m15,m16 internal-link
+[[gnsyiliuba]]
+2nd ^H26YCMXS
 
+%%
+## Drawing
+```compressed-json
+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
+
+1cDgDmJSgyjhDs3vSlhAA===
 ```
-
-
-![[Page Name#Header Name]]
-
----
-# [[Cohorts]]
-# [[Members]]
-# [[content/Guild/gvg/GVG]]
+%%
