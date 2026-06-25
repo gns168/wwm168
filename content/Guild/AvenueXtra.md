@@ -14,7 +14,7 @@ excalidraw-open-md: true
 ![[banner.png]] 
 
 
-![[content/Guild/AvenueXtra.svg]]
+![[AvenueXtra.svg]]
 # Excalidraw Data
 
 ## Text Elements
