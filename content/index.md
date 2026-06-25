@@ -21,7 +21,8 @@ img: "[[guild.png]]"
 
 ---
 # Organizational Chart (WIP)
-![[org.png]]
+
+![[avenuextra.svg]]
 
 ---
 # Guild Base Tour 
