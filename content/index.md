@@ -22,7 +22,7 @@ img: "[[guild.png]]"
 ---
 # Organizational Chart (WIP)
 
-![[AvenueXtra-org.svg]]
+![[org.png]]
 
 ---
 # Guild Base Tour 
