@@ -8,3 +8,8 @@ Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
 ![[AvenueXtra]]
+
+---
+# [[Cohorts]]
+# [[Members]]
+# [[GVG]]
