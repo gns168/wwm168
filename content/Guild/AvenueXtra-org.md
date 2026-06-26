@@ -6,7 +6,7 @@ tags: [excalidraw]
 ---
 
 
-![[AvenueXtra-org.svg]]
+![[AvenueXtra-org.svg|760]]
 # Excalidraw Data
 
 ## Text Elements
