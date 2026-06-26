@@ -30,7 +30,6 @@ Ext Description:
 img: "[[guild.png]]"
 WWM Player: true
 ---
-
 Gameid: 1072261830
 Alias: Nimm
 Timezone (UTC): UTC-4
@@ -58,3 +57,5 @@ Ext Description:  null
 
 ---
 undefined
+---
+# Lore
