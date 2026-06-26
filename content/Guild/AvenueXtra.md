@@ -7,6 +7,7 @@ External:
 Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
+![[banner.png]] 
 
 >[!info] Guild
 >| | |
