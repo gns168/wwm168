@@ -9,6 +9,7 @@ img: "[[guild.png]]"
 ---
 ![[banner.png]] 
 
+
 >[!info] Guild
 >| | |
 >| :--- | :--- |
