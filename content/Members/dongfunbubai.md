@@ -35,6 +35,7 @@ img: "[[dfbb.png]]"
 Guild Position:
   - Commander
 External:
+  - https://www.youtube.com/watch?v=Y7328NWbDkY&list=PLIZOGoLqMEfpgF5nE3QaTCd6LkZo1UfLC
 Ext Description:
 cover: "![[dfbb.png]]"
 WWM Player: true
