@@ -13,8 +13,9 @@ Masked Troupe name:
 Path - main:
   - Silkbind - Deluge
 Path - secondary:
-  - Bellstrike - Splendor
+  - Bamboocut - Dust
 Path - Former:
+  - Bellstrike - Splendor
 Role:
   - Healer
 Sect: Midnight Blades
@@ -44,8 +45,8 @@ Timezone (UTC): (EDT) UTC-4, (EST) UTC-5.
 Alt: null
 Masked Troupe name: null
 Path - main: Silkbind - Deluge
-Path - secondary: Bellstrike - Splendor
-Path - Former:  null
+Path - secondary: Bamboocut - Dust
+Path - Former:  Bellstrike - Splendor
 Role:  Healer
 Sect:  Midnight Blades
 Sect - Former:  Well of Heaven
