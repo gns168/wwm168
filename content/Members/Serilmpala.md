@@ -47,7 +47,7 @@ Ext Description:
 img: "[[guild.png]]"
 icon:
 cover: "![[guild.png]]"
-WWM Player: false
+WWM Player: true
 ---
 [[Serilmpala]]
 
