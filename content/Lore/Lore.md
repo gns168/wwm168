@@ -14,6 +14,9 @@ GVG Role: Lore
 	* [[Wei's New Guild Member]]
 	* [[Martial Marital Trials - heka]]
 
+Nothing to see
+* [[Good vs Evil]]
+
 ---
 
 ```dataview
