@@ -64,6 +64,9 @@ Ext Description:  null
 ![[dajhi_ref1.png]]
 
 ![[dajhi_ref2.png]]
+
+![[dahji_ref3.png]]
+
 ---
 # Lore
 [[A Flower of Velvet, Seeking Light]]
