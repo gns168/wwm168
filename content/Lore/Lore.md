@@ -11,6 +11,7 @@ GVG Role: Lore
 # Guild 
 * [[Guild Tour]]
 	Trials
+	* [[Trouble in Paradise]]
 	* [[Wei's New Guild Member]]
 	* [[Martial Marital Trials - heka]]
 

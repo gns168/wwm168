@@ -9,14 +9,14 @@ GVG Role: Lore
 ---
 [[Trouble in Paradise]]
 
-Date: <% tp.frontmatter.Date %>
-Lore Type: <% tp.frontmatter.["Lore Type"] %>
-Author: <% tp.frontmatter.Author %>
-Collaborators: <% tp.frontmatter.Collaborators %>
+Date: 2026-06-28
+Lore Type: Trials
+Author: [[gns]]
+Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
 
 ---
 # Fight for [[dongfunbubai|DongFanBuBai]]
-* Infighting in [[_Enchanted Cohort]]!!! [[cai cai 采采卷耳]] laments in her loss of [[dongfunbubai]] to [[hekapider]] in a best of 2 of 3 fight!
+* Infighting in [[_Enchanted Cohort]]!!! [[cai cai 采采卷耳]] valiantly fights for DFBB but unfortunately loses to [[hekapider]] in a best of 2 of 3 showdown!
 
 *wip*
 * *insert dfbb and rex videos*
@@ -31,4 +31,16 @@ Collaborators: <% tp.frontmatter.Collaborators %>
 
 
 ---
-# Afterparty dance
+# Afterparty Skydance
+
+![[heka and nhat dance.jpg]] 
+![[heka dance.png]]
+![[rex and nhat dance.jpg]]
+![[xiao and nhat dance.png]] 
+![[rex_dance1.png]]
+![[rex_dance2.png]]
+![[rex_dance3.png]]
+![[rex_dance4.png]]
+![[rex_dance5.png]]
+![[rex_dance6.png]]
+![[rex_dance7.png]]
