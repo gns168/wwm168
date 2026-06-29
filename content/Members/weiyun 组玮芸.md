@@ -78,7 +78,6 @@ Ext Description:  null
 
 ## [[Guild Tour]]
 Date: 2026-06-29
-Lore Type: Guild
 Author: [[weiyun 组玮芸]]
 Collaborators: [[lonerexlapis|LoneRexLapis]]
 
