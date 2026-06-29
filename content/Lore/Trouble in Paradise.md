@@ -33,10 +33,12 @@ Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
 ---
 # Afterparty Skydance
 
-![[heka and nhat dance.jpg]] 
-![[heka dance.png]]
-![[rex and nhat dance.jpg]]
-![[xiao and nhat dance.png]] 
+
+[[hekapider]] & [[nhatthao]]![[heka and nhat dance.jpg]] 
+[[hekapider]] & [[slightlyspinner]]![[heka dance.png]]
+[[lonerexlapis|LoneRexLapis]] & [[nhatthao]]![[rex and nhat dance.jpg]]
+[[小卢宝|Xiao]] & [[nhatthao]]![[xiao and nhat dance.png]] 
+[[lonerexlapis|LoneRexLapis]]
 ![[rex_dance1.png]]
 ![[rex_dance2.png]]
 ![[rex_dance3.png]]
