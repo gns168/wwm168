@@ -67,4 +67,13 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 ![[hekapider.png]]
 ---
 # Lore
-* [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
+## [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]
+Date: 2026-06-17
+Author: [[hekapider]]
+Collaborators: [[baoyu 宝玉|Baoyu]] [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
+Original: [[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
+
+---
+![[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
+
+

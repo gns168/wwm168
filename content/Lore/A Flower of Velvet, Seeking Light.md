@@ -5,7 +5,12 @@ Author: "[[dajhi]]"
 Collaborators:
 GVG Role: Lore
 ---
-Author: [[dajhi]]
+[[{{title}}]]
+
+Date: <% tp.frontmatter.Date %>
+Author: <% tp.frontmatter.Author %>
+Collaborators: <% tp.frontmatter.Collaborators %>
+
 ---
 # Work in progress
 

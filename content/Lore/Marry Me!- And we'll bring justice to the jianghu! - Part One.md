@@ -7,9 +7,10 @@ Collaborators:
   - "[[weiyun 组玮芸|组玮芸-ZuWeiyun]]"
 GVG Role: Lore
 ---
+Date: 2026-06-17
 Author: [[hekapider]]
-Collaborators: [[baoyu 宝玉|Baoyu]] [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
-Original: [[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
+Collaborators: [[baoyu 宝玉|Baoyu]],[[weiyun 组玮芸|组玮芸-ZuWeiyun]]
 
 ---
-![[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
+
+![[hekapider#Marry Me!- And we'll bring justice to the jianghu! - Part One]]

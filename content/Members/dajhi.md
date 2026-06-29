@@ -61,6 +61,9 @@ Ext Description:  null
 ---
 ![[luanadajhi.png]]
 
+---
+# Lore
+## Reference Sheet
 ![[dajhi_ref1.png]]
 
 ![[dajhi_ref2.png]]
@@ -68,5 +71,4 @@ Ext Description:  null
 ![[dahji_ref3.png]]
 
 ---
-# Lore
-[[A Flower of Velvet, Seeking Light]]
+## [[A Flower of Velvet, Seeking Light]]

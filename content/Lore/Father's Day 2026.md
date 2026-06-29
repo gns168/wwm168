@@ -2,7 +2,15 @@
 Date: 2026-06-22
 Lore Type: GVG
 Author: "[[gns]]"
+Collaborators:
 GVG Role: Lore
+---
+[[{{title}}]]
+
+Date: 2026-06-22
+Author: [[gns]]
+Collaborators: null
+
 ---
 * Great day overall for GvG.  We were finally able to execute and coordinate "bombing" between the healer, tank and nameless
 	* Healers: casting endurance buff

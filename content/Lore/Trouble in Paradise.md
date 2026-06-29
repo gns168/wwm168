@@ -10,7 +10,6 @@ GVG Role: Lore
 [[Trouble in Paradise]]
 
 Date: 2026-06-28
-Lore Type: Trials
 Author: [[gns]]
 Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
 
@@ -21,7 +20,7 @@ Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
 
 
 *wip*
-* *insert dfbb and video*
+* *insert dfbb video*
 
 ---
 ![[cai cai 采采卷耳#Poetry]]

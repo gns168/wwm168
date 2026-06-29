@@ -49,6 +49,7 @@ icon:
 cover: "![[guild.png]]"
 WWM Player: false
 ---
+# Profile
 [[{{title}}]]
 
 Gameid: <% tp.frontmatter.GameID %>
@@ -80,4 +81,5 @@ Ext Description:  <% tp.frontmatter["Ext Description"] %>
 <% tp.frontmatter.cover %>
 ---
 # Lore
+## Reference Sheet
 

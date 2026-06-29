@@ -70,4 +70,5 @@ Ext Description:  null
 
 ---
 # Lore
+## Reference Sheet
 ![[dfbb_ref.png]]

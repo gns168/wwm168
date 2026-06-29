@@ -24,9 +24,8 @@ img: "[[guild.png]]"
 ![[AvenueXtra-org.png|760]]
 
 ---
-# Guild Base Tour 
-* by [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
-* WIP
+
+![[weiyun 组玮芸#Guild Tour]]
 
 ---
 > [!info]- Graph Legend
