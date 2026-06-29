@@ -5,8 +5,6 @@ Author: "[[gns]]"
 Collaborators:
 GVG Role: Lore
 ---
-[[{{title}}]]
-
 Date: 2026-06-22
 Author: [[gns]]
 Collaborators: null

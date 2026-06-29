@@ -36,7 +36,6 @@ Partner: "[[gnsyiliuba]]"
 Partner - Former:
 External:
   - https://gns168.github.io/wwm168
-  - https://drive.google.com/drive/folders/1Sc6CyD5s4IBd6f3wq7ReoGLV3wY8SBEH?usp=sharing
 img: "[[gns.png]]"
 Guild Position:
   - Commander

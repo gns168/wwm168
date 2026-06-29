@@ -7,8 +7,6 @@ Collaborators:
   - "[[lonerexlapis|LoneRexLapis]]"
 GVG Role: Lore
 ---
-[[Trouble in Paradise]]
-
 Date: 2026-06-28
 Author: [[gns]]
 Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
