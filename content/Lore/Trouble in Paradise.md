@@ -17,9 +17,11 @@ Collaborators: [[dongfunbubai]] [[lonerexlapis|LoneRexLapis]]
 ---
 # Fight for [[dongfunbubai|DongFanBuBai]]
 * Infighting in [[_Enchanted Cohort]]!!! [[cai cai 采采卷耳]] valiantly fights for DFBB but unfortunately loses to [[hekapider]] in a best of 2 of 3 showdown!
+*  ![](https://www.youtube.com/watch?v=kamBdqrOn7o)
+
 
 *wip*
-* *insert dfbb and rex videos*
+* *insert dfbb and video*
 
 ---
 # Poetry
