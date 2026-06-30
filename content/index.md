@@ -21,7 +21,7 @@ img: "[[guild.png]]"
 ![[guild splash.png]]
 ---
 
-![[AvenueXtra-org.svg|760]]
+![[AvenueXtra-org.png|760]]
 
 ---
 
