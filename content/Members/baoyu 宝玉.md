@@ -68,3 +68,7 @@ Ext Description:  null
 # Lore
 ## Reference Sheet
 ![[meixuan_ref1.png]]
+
+---
+
+![[meixuan_ref2.png]]
