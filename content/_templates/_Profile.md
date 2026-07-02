@@ -50,7 +50,6 @@ cover: "![[guild.png]]"
 WWM Player: false
 ---
 # Profile
-[[{{title}}]]
 
 Gameid: <% tp.frontmatter.GameID %>
 Alias: <% tp.frontmatter.aliases %>

@@ -73,12 +73,20 @@ Ext Description:  null
 ![[weiyun.png]]
 ---
 # Lore
-## Reference Sheet
-![[weiyun_ref.png]]
-
 ## [[Guild Tour]]
 Date: 2026-06-29
 Author: [[weiyun 组玮芸]]
 Collaborators: [[lonerexlapis|LoneRexLapis]]
 
 ![](https://www.youtube.com/watch?v=5kiOP1lJPPY)
+
+---
+
+## Reference Sheet
+![[weiyun_ref.png]]
+
+![[weiyun_ref2.png]]
+
+![[weiyun_ref3.png]]
+
+
