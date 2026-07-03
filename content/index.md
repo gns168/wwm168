@@ -8,9 +8,18 @@ Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
 ---
-# AvenueXtra Guild
+![[guild splash.png]]
 
-![[AvenueXtra]]
+---
+
+![[AvenueXtra-org.png|760]]
+
+---
+
+![[Sankey.png]]
+
+---
+![[weiyun 组玮芸#Guild Tour]]
 
 ---
 > [!info]- Graph Legend
