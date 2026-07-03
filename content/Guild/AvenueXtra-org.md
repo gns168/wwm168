@@ -4,7 +4,7 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-![[AvenueXtra-org.svg]]
+![[AvenueXtra-org.svg|760]]
 
 ---
 
