@@ -25,7 +25,7 @@ img: "[[guild.png]]"
 
 ---
 
-![[AvenueXtra-sankey.svg|760]]
+![[public/guild/avenuextra-sankey.png]]
 
 ---
 
