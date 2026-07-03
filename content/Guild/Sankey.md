@@ -1,0 +1,67 @@
+---
+excalidraw-plugin: parsed
+tags:
+  - excalidraw
+excalidraw-open-md: true
+---
+# [[Sankey]]
+
+![[AvenueXtra-sankey.svg|760]]
+
+
+```mermaid
+sankey-beta
+
+AvenueXtra, Members, 74
+AvenueXtra, Apprentice, 8
+Non AvenueXtra, External, 8
+
+Members, Dramallama, 10
+Members, Enchanted,  9
+Members, Not Lonely,  4
+Members, Unaffiliated, 51
+
+Dramallama, DPS, 1
+Dramallama, Healers, 1
+Dramallama, Tank, 1
+
+Enchanted, DPS, 1
+Enchanted, Healers, 1
+Enchanted, Tank, 1
+
+Not Lonely, DPS, 1
+Not Lonely, Healers, 1
+Not Lonely, Tank, 1
+
+Members, DPS, 1
+Members, Healers, 1
+Members, Tank, 1
+
+DPS, fanbrella, 1
+DPS, moblade, 1
+DPS, brella, 1
+
+```
+# Excalidraw Data
+
+## Text Elements
+%%
+## Drawing
+```compressed-json
+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=
+```
+%%

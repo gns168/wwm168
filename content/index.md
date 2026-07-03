@@ -25,7 +25,7 @@ img: "[[guild.png]]"
 
 ---
 
-![[public/guild/avenuextra-sankey.png]]
+![[Sankey.png]]
 
 ---
 
