@@ -18,11 +18,14 @@ img: "[[guild.png]]"
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ![[guild splash.png]]
+
 ---
 
 ![[AvenueXtra-org.png|760]]
 
 ---
-# Guild Base Tour 
-* by [[weiyun 组玮芸|组玮芸-ZuWeiyun]]
-* WIP
+
+![[Sankey.png]]
+
+---
+![[weiyun 组玮芸#Guild Tour]]
