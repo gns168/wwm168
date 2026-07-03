@@ -6,7 +6,7 @@ excalidraw-open-md: true
 ---
 # [[AvenueXtra-sankey]]
 
-![[AvenueXtra-sankey.svg]]
+![[AvenueXtra-sankey.svg|760]]
 
 
 ```mermaid

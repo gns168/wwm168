@@ -5,9 +5,9 @@ Author: "[[dajhi]]"
 Collaborators:
 GVG Role: Lore
 ---
-Date: <% tp.frontmatter.Date %>
-Author: <% tp.frontmatter.Author %>
-Collaborators: <% tp.frontmatter.Collaborators %>
+Date: 2026-06-23
+Author: [[dajhi]]
+Collaborators: null
 
 ---
 # Work in progress

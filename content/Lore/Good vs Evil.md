@@ -5,9 +5,9 @@ Author:
 Collaborators:
 GVG Role: Lore
 ---
-Date: <% tp.frontmatter.Date %>
-Author: <% tp.frontmatter.Author %>
-Collaborators: <% tp.frontmatter.Collaborators %>
+Date: undefined
+Author: undefined
+Collaborators: undefined
 
 ---
 * Nothing to see here... maybe [[weiyun 组玮芸]] will come up with something
