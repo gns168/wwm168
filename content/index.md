@@ -22,7 +22,7 @@ img: "[[guild.png]]"
 ---
 
 ![[AvenueXtra-org.png|760]]
-![[AvenueXtra-sankey.svg|760]]
+
 ---
 
 ![[weiyun 组玮芸#Guild Tour]]
