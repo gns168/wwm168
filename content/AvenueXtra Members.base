@@ -34,6 +34,10 @@ views:
       - cover
       - WWM Player
     sort:
+      - property: Sect
+        direction: ASC
+      - property: Path - main
+        direction: ASC
       - property: img
         direction: ASC
       - property: file.name
