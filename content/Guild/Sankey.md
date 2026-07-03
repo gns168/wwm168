@@ -6,7 +6,7 @@ excalidraw-open-md: true
 ---
 # [[Sankey]]
 
-![[AvenueXtra-sankey.svg|760]]
+![[Sankey.svg|760]]
 
 
 ```mermaid
@@ -28,18 +28,6 @@ Dramallama, Tank, 1
 Enchanted, DPS, 1
 Enchanted, Healers, 1
 Enchanted, Tank, 1
-
-Not Lonely, DPS, 1
-Not Lonely, Healers, 1
-Not Lonely, Tank, 1
-
-Members, DPS, 1
-Members, Healers, 1
-Members, Tank, 1
-
-DPS, fanbrella, 1
-DPS, moblade, 1
-DPS, brella, 1
 
 ```
 # Excalidraw Data
