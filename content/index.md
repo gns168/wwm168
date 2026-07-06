@@ -23,7 +23,7 @@ img: "[[guild.png]]"
 png
 ![[Sankey.png|760]]
 svg
-![[Sankey.svg|760]]
+![[content/Guild/Sankey.svg|760]]
 
 ---
 # Relationship
