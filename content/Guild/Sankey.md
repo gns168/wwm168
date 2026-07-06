@@ -4,7 +4,7 @@ tags:
   - excalidraw
 excalidraw-open-md: true
 ---
-# [[sankey]]
+# [[Sankey]]
 
 ![[Sankey.svg|760]]
 
