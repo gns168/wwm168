@@ -20,15 +20,19 @@ img: "[[guild.png]]"
 ![[guild splash.png]]
 
 ---
-
+png
 ![[Sankey.png|760]]
+svg
+![[Sankey.svg|760]]
 
 ---
 # Relationship
+png
 ![[AvenueXtra-org.png|760]]
+svg
+![[content/Guild/AvenueXtra-org.svg|760]]
 
 ---
-
 ![[weiyun 组玮芸#Guild Tour]]
 
 ---
