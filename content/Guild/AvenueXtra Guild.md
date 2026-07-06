@@ -21,7 +21,7 @@ img: "[[guild.png]]"
 
 ---
 
-![[Sankey.png]]
+![[Sankey.png|760]]
 
 ---
 # Relationship

@@ -32,6 +32,7 @@ Partner:
 Partner - Former:
 External:
   - https://drive.google.com/drive/folders/1sH4pfxyiE-KpqNElvMmjSus2ugxxHCp9?usp=drive_link
+  - https://www.youtube.com/playlist?list=PLZ3vk7Dvk3lQ
 Ext Description: Link to the fanfiction about Hekapider's harem adventures!
 img: "[[hekapider.png]]"
 cover: "![[hekapider.png]]"
@@ -60,11 +61,20 @@ Disciple Rank: Second Disciple
 Disciple:  null
 Partner:  [[baoyu 宝玉]],[[weiyun 组玮芸]],[[dongfunbubai]]
 Partner - Former: null
-External:  https://drive.google.com/drive/folders/1sH4pfxyiE-KpqNElvMmjSus2ugxxHCp9?usp=drive_link
+External:  https://drive.google.com/drive/folders/1sH4pfxyiE-KpqNElvMmjSus2ugxxHCp9?usp=drive_link https://www.youtube.com/playlist?list=PLZ3vk7Dvk3lQ
 Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 
 ---
 ![[hekapider.png]]
+
+---
+
+# Tutorial
+## Homestead 
+### Timber and Ore
+* Author: [[hekapider|heka]]
+* ![](https://www.youtube.com/watch?v=jgI5W7NI5sc)
+
 ---
 # Lore
 ## [[Marry Me!- And we'll bring justice to the jianghu! - Part One]]

@@ -69,6 +69,16 @@ Ext Description:  null
 ![[dfbb.png]]
 
 ---
+# Tutorial
+## Farming Routes
+### Qinghe and Kaifeg
+* Author: [[dongfunbubai|DongFanBuBai]]
+* ![](https://www.youtube.com/watch?v=Y7328NWbDkY)
+### Hexi
+* Author: [[dongfunbubai|DongFanBuBai]]
+* ![](https://www.youtube.com/watch?v=AYHJO7GrC98)
+
+
 # Lore
 ## Reference Sheet
 ![[dfbb_ref.png]]
