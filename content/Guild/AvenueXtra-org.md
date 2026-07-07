@@ -4,10 +4,11 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
+# AvenueXtra Org
 ![[AvenueXtra-org.svg|760]]
 
 ---
-
+# AvenueXtra Org (Mermaid)
 ```mermaid
 graph LR
 
