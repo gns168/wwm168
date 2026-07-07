@@ -22,10 +22,11 @@ img: "[[guild.png]]"
 ---
 ![[Sankey.png|760]]
 
+
 ---
 # Relationship
 ![[AvenueXtra-org.png|760]]
-
+![[content/Guild/AvenueXtra-org]]
 ---
 ![[weiyun 组玮芸#Guild Tour]]
 

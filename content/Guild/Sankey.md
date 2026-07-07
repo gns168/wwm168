@@ -6,6 +6,7 @@ excalidraw-open-md: true
 ---
 # [[Sankey]]
 
+
 ![[Sankey.svg|760]]
 
 ---
