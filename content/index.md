@@ -26,6 +26,8 @@ img: "[[guild.png]]"
 ---
 # Relationship
 ![[AvenueXtra-org.png|760]]
+
+test
 ![[content/Guild/AvenueXtra-org]]
 ---
 ![[weiyun 组玮芸#Guild Tour]]
