@@ -5,12 +5,12 @@ tags:
 excalidraw-open-md: true
 ---
 # [[Sankey]]
-# AvenueXtra Composition
+# Composition
 
 ![[Sankey.svg|760]]
 
 ---
-# AvenueXtra Composition (Mermaid)
+# Composition (Mermaid)
 
 ```mermaid
 sankey-beta
