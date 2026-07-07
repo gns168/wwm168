@@ -7,7 +7,7 @@ excalidraw-open-md: true
 # [[Sankey]]
 # Composition
 
-![[Sankey.svg|760]]
+![[content/sankey.svg|760]]
 
 ---
 # Composition (Mermaid)

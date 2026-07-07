@@ -5,7 +5,7 @@ tags: [excalidraw]
 
 ---
 # Organiztion
-![[AvenueXtra-org.svg|760]]
+![[content/AvenueXtra-org.svg|760]]
 
 ---
 # Organization (Mermaid)

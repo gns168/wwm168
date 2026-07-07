@@ -21,12 +21,10 @@ img: "[[guild.png]]"
 
 ---
 # Composition
-![[content/Guild/sankey.png]]
-
+![[sankey.svg|760]]
 ---
 # Organzation
-![[content/Guild/AvenueXtra-org.png]]
-
+![[AvenueXtra-org.svg|760]]
 ---
 ![[weiyun 组玮芸#Guild Tour]]
 
