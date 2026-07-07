@@ -20,10 +20,10 @@ img: "[[guild.png]]"
 ![[guild splash.png]]
 
 ---
-![[Sankey#AvenueXtra Composition]]
+![[Sankey#Composition]]
 
 ---
-![[AvenueXtra-org#AvenueXtra Org]]
+![[AvenueXtra-org#Organiztion]]
 
 ---
 ![[weiyun 组玮芸#Guild Tour]]
