@@ -78,6 +78,11 @@ Ext Description:  null
 * Author: [[dongfunbubai|DongFanBuBai]]
 * ![](https://www.youtube.com/watch?v=AYHJO7GrC98)
 
+## Hero's Realm
+### L91 Ravening Banes
+* Author: [[dongfunbubai|DongFanBuBai]]
+* Collaborator: [[lonerexlapis|LoneRexLapis]]
+* ![](https://www.youtube.com/watch?v=yWNMpZxEJk4)
 
 # Lore
 ## Reference Sheet

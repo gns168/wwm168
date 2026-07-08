@@ -78,7 +78,7 @@ Date: 2026-06-29
 Author: [[weiyun 组玮芸]]
 Collaborators: [[lonerexlapis|LoneRexLapis]]
 
-![](https://www.youtube.com/watch?v=5kiOP1lJPPY)
+![640](https://www.youtube.com/watch?v=5kiOP1lJPPY)
 
 ---
 
