@@ -7,8 +7,7 @@ External:
 Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
-![[banner.png]] 
-
+![[banner.png|640]] 
 
 >[!info] Guild
 >| | |
@@ -17,15 +16,15 @@ img: "[[guild.png]]"
 >|Members:| ![[avenueXtra.csv]]|
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
-![[guild splash.png]]
+![[guild splash.png|640]]
 
 ---
 # Composition
-![[Sankey.svg|760]]
+![[Sankey.svg|640]]
 
 ---
 # Organization
-![[AvenueXtra-org.svg|760]]
+![[AvenueXtra-org.svg|640]]
 
 ---
 ![[weiyun 组玮芸#Guild Tour]]
