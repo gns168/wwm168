@@ -7,7 +7,7 @@ External:
 Ext Description: Discord for AvenueXtra Guild
 img: "[[guild.png]]"
 ---
-![[banner.png]] 
+![[banner.png|640]] 
 
 
 >[!info] Guild
@@ -17,7 +17,7 @@ img: "[[guild.png]]"
 >|Members:| ![[avenueXtra.csv]]|
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
-![[guild splash.png]]
+![[guild splash.png|640]]
 
 ---
 # Composition
