@@ -87,3 +87,5 @@ Ext Description:  null
 # Lore
 ## Reference Sheet
 ![[dfbb_ref.png]]
+## Background
+![[DFBB's Story]]
