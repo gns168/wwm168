@@ -18,6 +18,12 @@ Date: 2026-07-11
 Author: [[dongfunbubai|DongFanBuBai]]
 Collaborators: [[hekapider|heka]]
 
+---
+> [!Characters]-
+> [[dongfunbubai]]
+> [[hekapider]]
+> [[gns]]
+---
 ## DFBB Origin
 ![[DFBB Origin.pdf]]
 
