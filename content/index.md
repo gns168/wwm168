@@ -25,7 +25,7 @@ img: "[[guild.png]]"
 ![[Sankey.svg]]
 ---
 # Organzation
-![[AvenueXtra-org.svg]]
+![[AvenueXtra-org.svg|640]]
 ---
 ![[Guild Tour]]
 
