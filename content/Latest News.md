@@ -1,4 +1,9 @@
 # Latest
+## Welcome back leader from her trip
+* skip to 15m:50s (for some reason the timestamping doesnt work)
+![](https://youtu.be/4n8lw4miBLY?si=o1rs_e8srhKtFRcI&t=919)
+
+
 ## GvG 20260712, 4/5 wins
 ### League Match
 #### Honour Board
