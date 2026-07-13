@@ -66,6 +66,7 @@ Ext Description:  null
 
 ---
 # Lore
+![[Baoyu Lore]]
 ## Commentary
 * [[baoyu 宝玉]] let us know how you feel about wucan l91 HR
 	* ![](https://www.youtube.com/watch?v=ikbdaWMRaS0)

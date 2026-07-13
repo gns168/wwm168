@@ -70,13 +70,8 @@ Ext Description:  null
 
 ---
 # Tutorial
-## Farming Routes
-### Qinghe and Kaifeg
-* Author: [[dongfunbubai|DongFanBuBai]]
-* ![](https://www.youtube.com/watch?v=Y7328NWbDkY)
-### Hexi
-* Author: [[dongfunbubai|DongFanBuBai]]
-* ![](https://www.youtube.com/watch?v=AYHJO7GrC98)
+![[Tutorials#Qinghe and Kaifeg]]
+![[Tutorials#Hexi]]
 
 ## Hero's Realm
 ### L91 Ravening Banes

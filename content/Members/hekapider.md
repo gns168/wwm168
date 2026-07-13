@@ -70,10 +70,7 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 ---
 
 # Tutorial
-## Homestead 
-### Timber and Ore
-* Author: [[hekapider|heka]]
-* ![](https://www.youtube.com/watch?v=jgI5W7NI5sc)
+![[Tutorials#Timber and Ore]]
 
 ---
 # Lore

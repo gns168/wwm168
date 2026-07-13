@@ -1,11 +1,17 @@
 # Farming routes
 ## Mystic Skills
-![[dongfunbubai#Qinghe and Kaifeg]]
-![[dongfunbubai#Hexi]]
+### Qinghe and Kaifeg
+* Author: [[dongfunbubai|DongFanBuBai]]
+* ![](https://www.youtube.com/watch?v=Y7328NWbDkY)
+### Hexi
+* Author: [[dongfunbubai|DongFanBuBai]]
+* ![](https://www.youtube.com/watch?v=AYHJO7GrC98)
 
 ---
 ## Homestead 
-![[hekapider#Timber and Ore]]
+### Timber and Ore
+* Author: [[hekapider|heka]]
+* ![](https://www.youtube.com/watch?v=jgI5W7NI5sc)
 
 ---
 ## Hero's Realm

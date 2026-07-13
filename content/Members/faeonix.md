@@ -65,3 +65,6 @@ Ext Description:  null
 
 ---
 ![[faeonix.png]]
+
+# Lore
+![[Faeonix Lore]]
