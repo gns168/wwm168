@@ -21,7 +21,7 @@ img: "[[guild.png]]"
 
 ---
 # Composition
-![[content/sankey.svg|640]]
+![[Sankey.svg|640]]
 ---
 # Organzation
 ![[AvenueXtra-org.svg|640]]
