@@ -19,7 +19,7 @@ img: "[[guild.png]]"
 
 ![[guild splash.png|640]]
 # Latest News
-![[Latest News#20260712, 4/5 wins]]
+![[Latest News#Latest]]
 ---
 # Composition
 ![[Sankey.svg|640]]
