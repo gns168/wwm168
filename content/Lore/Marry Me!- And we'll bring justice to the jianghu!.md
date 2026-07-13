@@ -10,6 +10,7 @@ GVG Role: Lore
 # [[Marry Me!- And we'll bring justice to the jianghu!]]
 
 - [[#Author|Author]]
+- [[#Origins|Origins]]
 - [[#Part 1|Part 1]]
 - [[#Part 2|Part 2]]
 
@@ -26,6 +27,9 @@ Collaborators: [[baoyu 宝玉|Baoyu]],[[weiyun 组玮芸|组玮芸-ZuWeiyun]]
 > [[weiyun 组玮芸]]
 > [[dongfunbubai]]
 ---
+## Origins
+![[Hekapider – Backstory.pdf]]
+
 ## Part 1
 ![[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
 

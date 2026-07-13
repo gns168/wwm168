@@ -12,12 +12,6 @@ GVG Role: Lore
 	- [[#Guild#Heka's Wedding|Heka's Wedding]]
 	- [[#Guild#Trials|Trials]]
 ---
-## Origin Stories
-* [[Baoyu Lore]]
-* [[DFBB Adventures#DFBB Origin|DFBB Origin]]
-* [[Beef Origins]]
-* [[Faeonix Lore]]
-
 ## Fanfiction
 * [[DFBB Adventures]]
 * [[Marry Me!- And we'll bring justice to the jianghu!]]
@@ -42,6 +36,12 @@ GVG Role: Lore
 * [[Good vs Evil]]
 
 ---
+## Origin Stories
+* [[Baoyu Lore]]
+* [[Beef Origins]]
+* [[DFBB Adventures#DFBB Origin|DFBB Origins]]
+* [[Faeonix Lore]]
+* [[Marry Me!- And we'll bring justice to the jianghu!#Origins|Heka Origins]]
 
 ```dataview
 TABLE lore-type, date, author, collaborators
