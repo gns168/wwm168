@@ -41,6 +41,8 @@ GVG Role: Lore
 * [[Beef Origins]]
 * [[DFBB Adventures#DFBB Origin|DFBB Origins]]
 * [[Faeonix Lore]]
+* [[gns lore]]
+* [[gnsyiliuba lore]]
 * [[Marry Me!- And we'll bring justice to the jianghu!#Origins|Heka Origins]]
 
 ```dataview
