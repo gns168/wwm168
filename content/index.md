@@ -18,7 +18,8 @@ img: "[[guild.png]]"
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ![[guild splash.png|640]]
-
+# Latest News
+![[Latest News#20260712, 4/5 wins]]
 ---
 # Composition
 ![[Sankey.svg|640]]
@@ -26,7 +27,7 @@ img: "[[guild.png]]"
 # Organzation
 ![[AvenueXtra-org.svg|640]]
 ---
-![[weiyun 组玮芸#Guild Tour]]
+![[Guild Tour]]
 
 ---
 > [!info] Graph Legend
