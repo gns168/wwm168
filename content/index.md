@@ -17,15 +17,15 @@ img: "[[guild.png]]"
 >|Members:| ![[avenueXtra.csv]]|
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
-![[guild splash.png|640]]
+![[guild splash.png]]
 # Latest News
 ![[Latest News#Latest]]
 ---
 # Composition
-![[Sankey.svg|640]]
+![[Sankey.svg]]
 ---
 # Organzation
-![[AvenueXtra-org.svg|640]]
+![[AvenueXtra-org.svg]]
 ---
 ![[Guild Tour]]
 
