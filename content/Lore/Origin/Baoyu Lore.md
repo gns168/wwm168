@@ -40,7 +40,7 @@ the finest garments. He would wake up extra early to have the time to take
 care of his, admittedly, beautiful hair before training. Still, he was a good
 fighter and kind of heart, so his peculiarities didn’t matter much to her.
 He was however a bit possessive of his master and did not approve of the
-arrival of a new disciple, Heka. While he didn’t treat her coldly, he didn’t
+arrival of a mysterious woman, Heka. While he didn’t treat her coldly, he didn’t
 make any effort to befriend her. Not that it would discourage the young
 woman, who was chaos incarnate, from pursuing him.
 (This part like is kinda a work in progress since we didn’t really talked about

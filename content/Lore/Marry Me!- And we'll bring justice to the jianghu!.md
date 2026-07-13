@@ -26,6 +26,7 @@ Collaborators: [[baoyu 宝玉|Baoyu]],[[weiyun 组玮芸|组玮芸-ZuWeiyun]]
 > [[baoyu 宝玉|Baoyu]]
 > [[weiyun 组玮芸]]
 > [[dongfunbubai]]
+> [[gns]]
 ---
 ## Origins
 ![[Hekapider – Backstory.pdf]]

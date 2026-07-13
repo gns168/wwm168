@@ -75,3 +75,7 @@ Ext Description:  Google drive containing guild member profiles, team rosters an
 ![[gns3.png]]
 ![[gns4.png]]
 ![[gns5.png]]
+
+---
+# Lore
+![[gns lore]]

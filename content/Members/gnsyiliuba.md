@@ -78,3 +78,6 @@ Public playlist of fightclub founders and gns/168 play attemps
 ![[gns3.png]]
 ![[gns4.png]]
 ![[gns5.png]]
+---
+# Lore
+![[gnsyiliuba lore]]
