@@ -3,6 +3,7 @@ Lore Type: Lore
 GVG Role: Lore
 ---
 # Lore
+- [[#Origin Stories|Origin Stories]]
 - [[#Fanfiction|Fanfiction]]
 	- [[#Fanfiction#WIP|WIP]]
 - [[#GVG|GVG]]
@@ -11,6 +12,12 @@ GVG Role: Lore
 	- [[#Guild#Heka's Wedding|Heka's Wedding]]
 	- [[#Guild#Trials|Trials]]
 ---
+## Origin Stories
+* [[Baoyu Lore]]
+* [[DFBB Adventures#DFBB Origin|DFBB Origin]]
+* [[Beef Origins]]
+* [[Faeonix Lore]]
+
 ## Fanfiction
 * [[DFBB Adventures]]
 * [[Marry Me!- And we'll bring justice to the jianghu!]]
