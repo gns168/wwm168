@@ -28,6 +28,8 @@ GVG Role: Lore
 ### Heka's Wedding
 * [[Martial Marital Trials - heka]]
 * [[Trouble in Paradise]]
+* Rehearsal 
+	* https://youtu.be/6HhB1TfMzAo
 ### Trials
 [[Wei's New Guild Member]]
 
