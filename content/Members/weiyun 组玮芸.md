@@ -71,12 +71,16 @@ External:  https://www.youtube.com/playlist?list=PLnn7mE5mEUpzKD89IrJOA85oZpi2yd
 Ext Description:  null
 
 ![[weiyun.png]]
+
 ---
-# Lore
+# Guild Tour
 ![[Guild Tour]]
 
 ---
+# Lore
+![[Weiyun Lore]]
 
+---
 ## Reference Sheet
 ![[weiyun_ref.png]]
 

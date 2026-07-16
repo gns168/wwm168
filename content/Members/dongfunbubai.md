@@ -83,4 +83,5 @@ Ext Description:  null
 ## Reference Sheet
 ![[dfbb_ref.png]]
 ## Background
+![[DFBB lore]]
 ![[DFBB Adventures]]

@@ -30,7 +30,7 @@ img: "[[guild.png]]"
 cover:
 WWM Player: true
 ---
-Gameid: 1017819297
+weGameid: 1017819297
 Alias: SenoraQu
 Timezone (UTC): UTC-7
 Alt: null

@@ -41,11 +41,12 @@ GVG Role: Lore
 ## Origin Stories
 * [[Baoyu Lore]]
 * [[Beef Origins]]
-* [[DFBB Adventures#DFBB Origin|DFBB Origins]]
+* [[DFBB lore]]
 * [[Faeonix Lore]]
 * [[gns lore]]
 * [[gnsyiliuba lore]]
 * [[Marry Me!- And we'll bring justice to the jianghu!#Origins|Heka Origins]]
+* [[Weiyun Lore]]
 
 ```dataview
 TABLE lore-type, date, author, collaborators

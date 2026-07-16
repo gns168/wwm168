@@ -8,8 +8,8 @@ GVG Role: Lore
 ---
 # [[DFBB Adventures]]
 - [[#Author Page|Author Page]]
-- [[#Chapter One – The Healing Sage|Chapter One – The Healing Sage]]
-- [[#Chapter Two - The Man Without a Name|Chapter Two - The Man Without a Name]]
+- [[#DFBB Origin|DFBB Origin]]
+-
 ---
 
 ## Author Page
@@ -23,8 +23,5 @@ Collaborators: [[hekapider|heka]]
 > [[hekapider]]
 > [[gns]]
 ---
-## Chapter One – The Healing Sage
-![[Chapter One – The Healing Sage.pdf]]
-
-## Chapter Two - The Man Without a Name
-![[Chapter Two - The Man Without a Name.pdf]]
+## DFBB Origin
+![[DFBB Origin.pdf]]
