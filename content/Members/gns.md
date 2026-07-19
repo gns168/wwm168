@@ -43,6 +43,7 @@ icon:
 cover: "![[gns2.png]]"
 Ext Description: Google drive containing guild member profiles, team rosters and offline webpage of guild
 WWM Player: true
+steam: "337355602"
 ---
 Gameid: 1045666560
 Alias: 易留疤

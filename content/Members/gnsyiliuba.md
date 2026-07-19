@@ -45,6 +45,7 @@ Ext Description: |-
   Unlisted playlist of fightclub and heka martial marital tourney.
   Public playlist of fightclub founders and gns/168 play attemps
 WWM Player: true
+steam: "800404825"
 ---
 Gameid: 1015699037
 Alias: 168

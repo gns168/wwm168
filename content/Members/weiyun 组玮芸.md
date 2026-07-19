@@ -43,6 +43,7 @@ cover: "![[weiyun.png]]"
 Guild Position:
   - Commander
 WWM Player: true
+homestead:
 ---
 
 Gameid: 2112394246

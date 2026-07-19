@@ -1,0 +1,29 @@
+---
+Date:
+Lore Type: Fanfiction
+Author:
+Collaborators:
+GVG Role: Lore
+---
+# [[Beef gravely injured]]
+
+---
+## Author's Page
+Date: <% tp.frontmatter.Date %>
+Author: <% tp.frontmatter.Author %>
+Collaborators: <% tp.frontmatter.Collaborators %>
+
+---
+> [!Characters]-
+> [[dongfunbubai]]
+> [[beef 牛雨瀮|beef]]
+---
+## Chapter 1
+
+* Nothing to see here... maybe someone will come up with something
+* Why was [[beef 牛雨瀮|beef]] gravely injured?
+* Can [[dongfunbubai]] save him?
+* Will [[_Enchanted Cohort]] find the culprit and bring the villian to justice?
+![[dfbb healing beef.png]]
+
+## Chapter 2

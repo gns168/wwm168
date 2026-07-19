@@ -39,6 +39,7 @@ External:
 Ext Description:
 cover: "![[dfbb.png]]"
 WWM Player: true
+steam: "47035576"
 ---
 Gameid: 1078411910
 Alias: DFBB,DongFanBuBai

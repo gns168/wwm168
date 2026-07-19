@@ -37,6 +37,7 @@ Ext Description: Link to the fanfiction about Hekapider's harem adventures!
 img: "[[hekapider.png]]"
 cover: "![[hekapider.png]]"
 WWM Player: true
+steam: "208301103"
 ---
 
 Gameid: 1045179371

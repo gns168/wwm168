@@ -37,6 +37,8 @@ Ext Description:
 img: "[[faeonix.png]]"
 cover: "![[faeonix.png]]"
 WWM Player: true
+homestead: SHARE1d32790b0bbb688a
+steam: "847699058"
 ---
 Gameid: 1029845419
 Alias: Fae,Empress,Queen

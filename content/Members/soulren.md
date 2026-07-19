@@ -37,6 +37,7 @@ Ext Description:
 img: "[[soulren2.png]]"
 cover: "![[soulren2.png]]"
 WWM Player: true
+steam: "58492671"
 ---
 
 Gameid: 1072033109

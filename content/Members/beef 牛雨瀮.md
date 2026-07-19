@@ -35,6 +35,7 @@ Ext Description:
 img: "[[beef.jpg]]"
 cover: "![[beef.jpg]]"
 WWM Player: true
+steam: "64500350"
 ---
 Gameid: 1083606416
 Alias: beef

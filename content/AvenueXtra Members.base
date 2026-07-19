@@ -8,6 +8,8 @@ views:
       - file.name
       - Timezone (UTC)
       - GameID
+      - steam
+      - homestead
       - aliases
       - Alt
       - Masked Troupe name
