@@ -1,8 +1,31 @@
+- [[#Homestead Tour|Homestead Tour]]
+- [[#Welcome back leader from her trip|Welcome back leader from her trip]]
+- [[#GvG 20260712, 4/5 wins|GvG 20260712, 4/5 wins]]
+	- [[#GvG 20260712, 4/5 wins#League Match|League Match]]
+		- [[#League Match#Honour Board|Honour Board]]
+		- [[#League Match#ScoreBoard|ScoreBoard]]
+	- [[#GvG 20260712, 4/5 wins#Ranking Match|Ranking Match]]
+- [[#GvG, Father's day 2026|GvG, Father's day 2026]]
+
+
 # Latest
-## Welcome back leader from her trip
+
+## Homestead Tour 20260719
+![[Tour#AvenueX]]
+
+## Screentest
+![[Screentest]]
+
+
+# Previous
+
+---
+
+## Welcome back leader from her trip 20260712
 * skip to 15m:50s (for some reason the timestamping doesnt work)
 ![](https://youtu.be/4n8lw4miBLY?si=o1rs_e8srhKtFRcI&t=919)
 
+---
 
 ## GvG 20260712, 4/5 wins
 ### League Match
@@ -15,7 +38,8 @@
 ![](https://youtu.be/pxR3k47f7J0)
 ![](https://youtu.be/4n8lw4miBLY)
 ![](https://youtu.be/iHs4lKkJg5U)
-# Previous
+
+---
 
 ## GvG, Father's day 2026
 ![[Father's Day 2026]]

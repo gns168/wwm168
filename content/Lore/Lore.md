@@ -23,8 +23,7 @@ GVG Role: Lore
 * [[Father's Day 2026]]
 ---
 ## Guild
-### Tour
-[[Guild Tour]]
+### [[Tour]]
 ### Heka's Wedding
 * [[Martial Marital Trials - heka]]
 * [[Trouble in Paradise]]

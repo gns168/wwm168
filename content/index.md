@@ -20,12 +20,15 @@ img: "[[guild.png]]"
 ![[guild splash.png]]
 # Latest News
 ![[Latest News#Latest]]
+
 ---
 # Composition
 ![[Sankey.svg]]
+
 ---
 # Organzation
 ![[AvenueXtra-org.svg|640]]
+
 ---
 ![[Guild Tour]]
 
