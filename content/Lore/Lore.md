@@ -24,6 +24,7 @@ GVG Role: Lore
 ---
 ## Guild
 ### [[Tour]]
+### [[Skyward Bond]]
 ### Heka's Wedding
 * [[Martial Marital Trials - heka]]
 * [[Trouble in Paradise]]
