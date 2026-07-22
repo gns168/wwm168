@@ -6,8 +6,6 @@ views:
         - note["WWM Player"] == true
     order:
       - file.name
-      - GVG Team
-      - GVG Role
       - Timezone (UTC)
       - GameID
       - steam
@@ -22,6 +20,8 @@ views:
       - Sect
       - Sect - Former
       - Guild Role
+      - GVG Team
+      - GVG Role
       - GVG Title
       - Cohort
       - Cohort Rank
@@ -36,6 +36,8 @@ views:
       - cover
       - WWM Player
     sort:
+      - property: Timezone (UTC)
+        direction: ASC
       - property: GVG Team
         direction: ASC
       - property: Sect
@@ -43,8 +45,6 @@ views:
       - property: Path - main
         direction: ASC
       - property: img
-        direction: ASC
-      - property: file.name
         direction: ASC
       - property: Guild Member
         direction: DESC
