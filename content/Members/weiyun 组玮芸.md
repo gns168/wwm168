@@ -9,6 +9,7 @@ Masked Troupe name: DiRayne
 Path - main:
   - Silkbind - Jade
 Path - secondary:
+  - Bamboocut - Dust
 Path - Former:
   - 
 Role:
@@ -52,7 +53,7 @@ Timezone (UTC): UTC+1
 Alt: [[花晨光]]
 Masked Troupe name: DiRayne
 Path - main: Silkbind - Jade
-Path - secondary: 
+Path - secondary: Bamboocut - Dust
 Path - Former:
 Role:  DPS
 Sect:  Nine Mortal Ways

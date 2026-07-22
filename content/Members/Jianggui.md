@@ -14,8 +14,7 @@ Sect:
 Sect - Former:
 Guild Role:
 GVG Team: "[[_Defence]]"
-GVG Role:
-  - DPS
+GVG Role: DPS
 GVG Title:
 Cohort:
 Cohort Rank:

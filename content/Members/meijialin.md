@@ -15,8 +15,7 @@ Sect: Nine Mortal Ways
 Sect - Former:
 Guild Role:
 GVG Team: "[[_Defence]]"
-GVG Role:
-  - Healer
+GVG Role: Healer
 GVG Title:
 Cohort:
 Cohort Rank:

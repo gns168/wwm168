@@ -8,6 +8,7 @@ Masked Troupe name:
 Path - main:
   - Silkbind - Jade
 Path - secondary:
+  - Stonesplit - Might
   - Silkbind - Deluge
 Path - Former:
 Role:
@@ -36,7 +37,7 @@ Timezone (UTC): UTC-4
 Alt: null
 Masked Troupe name: null
 Path - main: Silkbind - Jade
-Path - secondary: Silkbind - Deluge
+Path - secondary: Stonesplit - Might, Silkbind - Deluge
 Path - Former:  null
 Role:  DPS
 Sect:  Velvet Shade
