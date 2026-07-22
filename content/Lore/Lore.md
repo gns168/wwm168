@@ -37,6 +37,7 @@ GVG Role: Lore
 # Nothing to see
 * [[Good vs Evil]]
 * [[Beef gravely injured]]
+* [[Beef Expelled]]
 
 ---
 ## Origin Stories

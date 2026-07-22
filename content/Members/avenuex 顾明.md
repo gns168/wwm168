@@ -73,3 +73,8 @@ Ext Description:  Leaders Drama channel and eXtra channel of her non-drama chann
 ---
 ![[avenuex.png]]
 ![[avenuex2.png]]
+
+---
+# Lore
+## Homestead 
+![[Tour#AvenueX]]
