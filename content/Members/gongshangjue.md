@@ -19,7 +19,7 @@ Sect - Former:
   - Raging Tides
   - Masked Troupe
 Guild Role: member
-GVG Team: "[[_Jungle]]"
+GVG Team: "[[_Attack]]"
 GVG Role: DPS
 GVG Title:
 Cohort: "[[_Dramallama Cohort]]"

@@ -18,7 +18,7 @@ Sect - Former:
 Guild Role:
   - Commander
   - Builder
-GVG Team: "[[_Jungle]]"
+GVG Team: "[[_Attack]]"
 GVG Role: DPS
 GVG Title: Scheming Jester
 Cohort: "[[_Dramallama Cohort]]"

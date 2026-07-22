@@ -1,5 +1,5 @@
 ---
-GVG Team: "[[_Attack]]"
+GVG Team: "[[_Defence]]"
 GVG Role: DPS
 img: "[[caicai.jpg]]"
 cover: "![[caicai.jpg]]"

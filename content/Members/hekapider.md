@@ -17,7 +17,7 @@ Sect - Former:
   - Masked Troupe
 Guild Role:
   - Member
-GVG Team: "[[_Attack]]"
+GVG Team: "[[_Defence]]"
 GVG Role: DPS
 GVG Title:
 Cohort: "[[_Enchanted Cohort]]"

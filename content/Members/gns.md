@@ -21,7 +21,7 @@ Sect - Former:
   - Raging Tides
 Guild Role:
   - Vice Master
-GVG Team: "[[_Attack]]"
+GVG Team: "[[_Defence]]"
 GVG Role: Tank
 GVG Title:
 Cohort: "[[_Enchanted Cohort]]"

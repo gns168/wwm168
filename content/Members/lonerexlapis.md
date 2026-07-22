@@ -17,7 +17,7 @@ Sect: Midnight Blades
 Sect - Former:
 Guild Role: Commander
 GVG Team: "[[_Defence]]"
-GVG Role: Tank
+GVG Role: Debuff
 GVG Title: Commander
 Cohort: "[[_Not Lonely Cohort]]"
 Cohort Rank: Elder

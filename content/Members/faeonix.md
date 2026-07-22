@@ -19,7 +19,7 @@ Sect: Sectless
 Sect - Former:
 Guild Role:
   - Member
-GVG Team: "[[_Attack]]"
+GVG Team: "[[_Jungle]]"
 GVG Role: Healer
 GVG Title:
 Cohort: "[[_Dramallama Cohort]]"

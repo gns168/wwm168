@@ -14,8 +14,8 @@ Role:
   - DPS
 Sect: Velvet Shade
 Sect - Former:
-GVG Team: "[[_Defence]]"
-GVG Role: Healer
+GVG Team: "[[_Jungle]]"
+GVG Role: Tank
 Guild Role: Member
 GVG Title:
 Cohort:

@@ -22,7 +22,7 @@ Guild Role:
   - Commander
   - Builder
 GVG Team: "[[_Jungle]]"
-GVG Role: DPS
+GVG Role: Debuff
 GVG Title:
   - Jungle Ruler
 Cohort: "[[_Dramallama Cohort]]"

@@ -16,7 +16,7 @@ Role: DPS
 Sect: Nine Mortal Ways
 Sect - Former:
 Guild Role: DPS
-GVG Team: "[[_Jungle]]"
+GVG Team: "[[_Defence]]"
 GVG Role:
   - DPS
 GVG Title:
