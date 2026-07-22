@@ -20,7 +20,7 @@ GVG Title:
 Cohort: "[[_Dramallama Cohort]]"
 Cohort Rank: Fifth Younger Sister
 Master: "[[gnsyiliuba]]"
-Disciple Rank:
+Disciple Rank: Eldest Disciple
 Disciple:
 Partner:
 Partner - Former:
