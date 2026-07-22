@@ -9,9 +9,9 @@ GVG Role: Lore
 
 ---
 ## Author's Page
-Date: <% tp.frontmatter.Date %>
-Author: <% tp.frontmatter.Author %>
-Collaborators: <% tp.frontmatter.Collaborators %>
+Date: undefined
+Author: undefined
+Collaborators: undefined
 
 ---
 > [!Characters]-
