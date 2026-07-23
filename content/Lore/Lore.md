@@ -39,6 +39,7 @@ GVG Role: Lore
 * [[Good vs Evil]]
 * [[Beef gravely injured]]
 * [[Beef Expelled]]
+* [[Battle Sisters]]
 
 ---
 ## Origin Stories
