@@ -26,6 +26,6 @@ Collaborators: <% tp.frontmatter.Collaborators %>
 
 ## Origin
 * Battles sisters [[wuchaang]] and [[beef 牛雨瀮]] face insurmountable odds despite being victorious against a huge siege.
-* Who is the fox looming over the landscape?  [[gns]] ? [[weiyun 组玮芸]]?
+* However, there is a fox looming over the horizon?  [[gns]] ? [[weiyun 组玮芸]]?
 ## Chapter 1 - Feast before the final battle?
 ## Chapter 2
