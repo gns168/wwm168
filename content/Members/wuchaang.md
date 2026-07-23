@@ -64,5 +64,6 @@ Ext Description:  null
 ![[wuchaang.png]]
 ---
 # Lore
+![[wuchaang2.png]]
 ## Reference Sheet
 

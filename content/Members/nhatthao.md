@@ -45,10 +45,10 @@ Path - main: Silkbind - Jade
 Path - secondary: Bellstrike - Splendor
 Path - Former:  null
 Role:  DPS
-Sect:  Raging Tides
-Sect - Former:  Masked Troupe
+Sect:  Well of Heaven
+Sect - Former:  Silver Needle,Raging Tides,Masked Troupe
 Guild Role: Member
-GVG Team: [[_Attack]]
+GVG Team: [[_Defence]]
 GVG Role: DPS
 GVG Title: null
 Cohort:  [[_Enchanted Cohort]]
@@ -62,4 +62,7 @@ External:  null
 Ext Description:  null
 
 ---
+# Lore
+## Reference Sheet
+
 ![[nhatthao.jpg]]
