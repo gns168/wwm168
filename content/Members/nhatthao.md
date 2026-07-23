@@ -12,8 +12,10 @@ Path - secondary:
 Path - Former:
 Role:
   - DPS
-Sect: Raging Tides
+Sect: Well of Heaven
 Sect - Former:
+  - Silver Needle
+  - Raging Tides
   - Masked Troupe
 Guild Role:
   - Member

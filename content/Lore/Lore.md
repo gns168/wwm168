@@ -21,6 +21,7 @@ GVG Role: Lore
 ---
 ## GVG
 * [[Father's Day 2026]]
+* [[GvG]]
 ---
 ## Guild
 ### [[Tour]]

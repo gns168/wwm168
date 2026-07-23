@@ -53,4 +53,4 @@ img: "[[guild.png]]"
 ---
 # [[Cohorts]]
 # [[Members]]
-# [[GVG]]
+# [[content/Guild/gvg/GVG]]

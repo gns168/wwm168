@@ -10,6 +10,8 @@
 
 # Latest
 
+## GvG Standings
+[[content/Lore/GvG#Standings|Season 2]]
 ## Guild Adventures - Skyward Bond
 ![[Skyward Bond#<2026-07-20>]]
 
