@@ -67,3 +67,7 @@ Ext Description:  null
 
 ---
 ![[soulren2.png]]
+
+## Lore
+
+![[Queen of the Hill]]

@@ -1,5 +1,9 @@
-- [[#Homestead Tour|Homestead Tour]]
-- [[#Welcome back leader from her trip|Welcome back leader from her trip]]
+- [[#Queen of the Hill|Queen of the Hill]]
+- [[#GvG Standings <2026-07-19>|GvG Standings <2026-07-19>]]
+- [[#Guild Adventures - Skyward Bond|Guild Adventures - Skyward Bond]]
+- [[#Homestead Tour 20260719|Homestead Tour 20260719]]
+- [[#Screentest|Screentest]]
+- [[#Welcome back leader from her trip 20260712|Welcome back leader from her trip 20260712]]
 - [[#GvG 20260712, 4/5 wins|GvG 20260712, 4/5 wins]]
 	- [[#GvG 20260712, 4/5 wins#League Match|League Match]]
 		- [[#League Match#Honour Board|Honour Board]]
@@ -8,9 +12,18 @@
 - [[#GvG, Father's day 2026|GvG, Father's day 2026]]
 
 
+---
+
 # Latest
 
-## GvG Standings
+##  Queen of the Hill
+![[Queen of the Hill]]
+
+---
+
+# Previous
+
+## GvG Standings <2026-07-19>
 [[content/Lore/GvG#Standings|Season 2]]
 ## Guild Adventures - Skyward Bond
 ![[Skyward Bond#<2026-07-20>]]
@@ -20,9 +33,6 @@
 
 ## Screentest
 ![[Screentest]]
-
-
-# Previous
 
 ---
 

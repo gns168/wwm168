@@ -40,6 +40,7 @@ GVG Role: Lore
 * [[Beef gravely injured]]
 * [[Beef Expelled]]
 * [[Battle Sisters]]
+* [[Mohists Teaching Moments]]
 
 ---
 ## Origin Stories
