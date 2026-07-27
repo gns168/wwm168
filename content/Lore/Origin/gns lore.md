@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-13
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[gns]]"
 Collaborators:
 GVG Role: Lore

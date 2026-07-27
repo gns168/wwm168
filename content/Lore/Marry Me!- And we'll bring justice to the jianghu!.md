@@ -5,7 +5,7 @@ Author: "[[hekapider]]"
 Collaborators:
   - "[[baoyu 宝玉|Baoyu]]"
   - "[[weiyun 组玮芸|组玮芸-ZuWeiyun]]"
-GVG Role: Lore
+GVG Role: Origins
 ---
 # [[Marry Me!- And we'll bring justice to the jianghu!]]
 

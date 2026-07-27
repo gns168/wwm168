@@ -1,8 +1,9 @@
 ---
 Date: 2026-07-20
 Lore Type: Guild
-Author:
+Author: "[[weiyun 组玮芸]]"
 Collaborators:
+  - "[[lonerexlapis|LoneRexLapis]]"
 GVG Role: Lore
 ---
 # [[Tour]]

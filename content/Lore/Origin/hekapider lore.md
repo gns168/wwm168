@@ -1,6 +1,6 @@
 ---
 Date: 2026-06-17
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[hekapider]]"
 Collaborators:
 GVG Role: Lore

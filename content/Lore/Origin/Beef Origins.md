@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-12
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[beef 牛雨瀮]]"
 Collaborators:
 GVG Role: Lore

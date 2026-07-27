@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-16
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[weiyun 组玮芸|组玮芸-ZuWeiyun]]"
 Collaborators:
 GVG Role: Lore

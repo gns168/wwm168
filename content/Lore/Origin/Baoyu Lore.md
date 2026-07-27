@@ -1,7 +1,7 @@
 ---
 Date: 2026-07-12
-Lore Type: Lore
-Author:
+Lore Type: Origins
+Author: "[[baoyu 宝玉|Baoyu]]"
 Collaborators:
 GVG Role: Lore
 ---
@@ -11,7 +11,7 @@ GVG Role: Lore
 ---
 ## Author's Page
 Date: 2026-07-12
-Author: null
+Author: [[baoyu 宝玉|Baoyu]]
 Collaborators: null
 
 ---

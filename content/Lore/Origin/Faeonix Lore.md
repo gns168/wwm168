@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-12
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[faeonix]]"
 Collaborators:
 GVG Role: Lore

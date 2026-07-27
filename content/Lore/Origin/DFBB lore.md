@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-11
-Lore Type: Lore
+Lore Type: Origins
 Author: "[[dongfunbubai|DongFanBuBai]]"
 Collaborators:
   - "[[hekapider]]"

@@ -1,6 +1,6 @@
 ---
 Date: 2026-06-22
-Lore Type: GVG
+Lore Type: Lore
 Author: "[[gns]]"
 Collaborators:
 GVG Role: Lore

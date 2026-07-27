@@ -1,6 +1,6 @@
 ---
 Date: 2026-07-26
-Lore Type: Fanfiction
+Lore Type: Lore
 Author: "[[soulren|soul-ren]]"
 Collaborators:
 GVG Role: Lore

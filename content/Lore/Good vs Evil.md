@@ -1,5 +1,5 @@
 ---
-Date:
+Date: 2026-07-02
 Lore Type: Fanfiction
 Author:
 Collaborators:

@@ -1,6 +1,39 @@
+---
+Date: 2026-07-23
+Lore Type: Lore
+Author:
+Collaborators:
+  - "[[cai cai 采采卷耳]]"
+  - "[[gnsyiliuba]]"
+  - "[[dongfunbubai]]"
+  - "[[Morichu]]"
+  - "[[avenuex 顾明|AvenueX]]"
+  - "[[faeonix]]"
+  - "[[hekapider]]"
+  - "[[soulren|soul-ren]]"
+  - "[[lonerexlapis|LoneRexLapis]]"
+  - "[[beef 牛雨瀮|beef]]"
+GVG Role: Lore
+---
+# [[Skyward Bond]]
+
+- [[#Author's Page|Author's Page]]
+- [[#<2026-07-20>|<2026-07-20>]]
+	- [[#<2026-07-20>#Ghost Bride|Ghost Bride]]
+
+
+---
+## Author's Page
+Date: <<% tp.date.now("YYYY-MM-DD") %>>
+Author: <% tp.frontmatter.Author %>
+Collaborators: <% tp.frontmatter.Collaborators %>
+
+---
+
 
 - [[#<2026-07-20>|<2026-07-20>]]
-
+Date: <2026-07-20>
+Collaborators: [[cai cai 采采卷耳]],[[gnsyiliuba]],[[dongfunbubai]],[[Morichu]],[[avenuex 顾明|AvenueX]],[[faeonix]],[[hekapider]],[[soulren|soul-ren]],[[lonerexlapis|LoneRexLapis]],[[beef 牛雨瀮|beef]]
 ## <2026-07-20>
 * Our first completions of Skyward Bond guild event
 	* Quotes:
