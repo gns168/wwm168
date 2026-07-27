@@ -1,7 +1,7 @@
 # Latest
 
-##  Queen of the Hill
-![[Queen of the Hill]]
+## King of the Hill
+![[King of the Hill]]
 
 ---
 

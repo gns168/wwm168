@@ -70,4 +70,4 @@ Ext Description:  null
 
 ## Lore
 
-![[Queen of the Hill]]
+![[King of the Hill]]

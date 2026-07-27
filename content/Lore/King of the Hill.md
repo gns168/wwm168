@@ -5,8 +5,7 @@ Author: "[[soulren|soul-ren]]"
 Collaborators:
 GVG Role: Lore
 ---
-# [[Queen of the Hill]]
-
+# [[King of the Hill]]
 
 ---
 ## Author's Page

@@ -24,9 +24,13 @@ Collaborators: null
 * female, human. 
 Master
 * [[gns]]'s eldest disciple
+	* <2026-07-26>
+	* ![[20260727 l7 master.png]]
 Partners
 * former [[tierce]]
 * current [[gns]]
+	* <2026-07-26>
+	* ![[20260727 l7 parntership.png]]
 Disciples
 * [[wuchaang]], [[baoyu 宝玉]], [[nhatthao|nhat]], [[faeonix]] 
 Cohort
