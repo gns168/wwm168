@@ -4,9 +4,10 @@ Lore Type: Lore
 Author: "[[lonerexlapis|LoneRexLapis]]"
 Collaborators:
   - "[[beef 牛雨瀮|beef]]"
+  - "[[soulren|soul-ren]]"
 GVG Role: Lore
 ---
-# [[Rex's questionable words of survival]]
+# [[Questionable words of survival]]
 
 - [[#Author's Page|Author's Page]]
 
@@ -20,7 +21,7 @@ Collaborators: [[beef 牛雨瀮|beef]]
 ---
 
 ## [[lonerexlapis|LoneRexLapis]]
-> [!Words of Wisdom]
+> [!Proverbs]
 > Look good feel good is more DPS
 > A win is a win
 > I lost because I dont have morale chant
@@ -29,6 +30,9 @@ Collaborators: [[beef 牛雨瀮|beef]]
 > When one run out of excuses is when one truly loses
 
 ## [[beef 牛雨瀮]]
-> [!Words of Wisdom]
+> [!Wisdom]
 > The next loss may be the last loss!
 
+## [[soulren|King of the Hill]]
+> [!Words]
+> I tried to play fair
