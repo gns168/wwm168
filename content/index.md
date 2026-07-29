@@ -26,7 +26,7 @@ img: "[[guild.png]]"
 ![[Sankey.svg|640]]
 
 ---
-# Organzation
+# Organization
 ![[AvenueXtra-org.svg|640]]
 
 ---

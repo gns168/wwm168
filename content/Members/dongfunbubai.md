@@ -71,6 +71,10 @@ Ext Description:  null
 
 ---
 # Tutorial
+
+![[DFBB's Gear and Tuning Guide.pdf]]
+
+---
 ![[Tutorials#Qinghe and Kaifeg]]
 ![[Tutorials#Hexi]]
 

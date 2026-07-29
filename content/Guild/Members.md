@@ -1,4 +1,4 @@
-w[[meijialin]]
+[[meijialin]]
 [[Greenmadness]]
 [[寒星霧]]
 [[Jianggui]]
