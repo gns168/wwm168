@@ -61,3 +61,8 @@ Some sought justice.
 Beef sought another serving.
 
 Everything else could wait.
+
+---
+## Miscellaneous
+
+* "... fox spirits have unusually long life, especially ones who have cultivated into human forms. in a past "life", gns masquaraded as the elderly and kind master of beef's sect, ultimately expelling beef for her egregious actions. gns, after getting bored, shed that mortal form and went to find more "interesting" disciples to cultivate. beef, after learning her master died without the chance to reconcile, can only live on copium worsening her excessive drinking habit"

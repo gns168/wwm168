@@ -37,8 +37,8 @@ Guild Role:
 GVG Team:
 GVG Role:
 GVG Title:
-Cohort:
-Cohort Rank:
+Cohort: "[[_Not Lonely Cohort]]"
+Cohort Rank: 6th brother
 Master:
 Disciple Rank:
 Disciple:

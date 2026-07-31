@@ -17,12 +17,12 @@ sankey-beta
 
 AvenueXtra, Members, 65
 AvenueXtra, Apprentice, 19
-Non AvenueXtra, External, 8
+Non AvenueXtra, External, 9
 
 Members, Dramallama, 10
 Members, Enchanted,  9
-Members, Not Lonely,  4
-Members, Unaffiliated, 42
+Members, Not Lonely,  7
+Members, Unaffiliated, 39
 ```
 
 ---

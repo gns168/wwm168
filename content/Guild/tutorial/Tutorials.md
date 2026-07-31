@@ -10,6 +10,7 @@
 
 ## Build Guides
 ### DFBB Gear and Tuning Guide
+* Date: <2026-07-29>
 * Author: [[dongfunbubai]]
 * Proofreader: [[hekapider]]
 ![[DFBB's Gear and Tuning Guide.pdf]]

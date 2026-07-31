@@ -18,8 +18,8 @@ Guild Role: Member
 GVG Team:
 GVG Role:
 GVG Title:
-Cohort:
-Cohort Rank:
+Cohort: "[[_Not Lonely Cohort]]"
+Cohort Rank: 7th sister
 Master:
 Disciple Rank:
 Disciple:
@@ -51,8 +51,8 @@ Guild Role: Member
 GVG Team: null
 GVG Role: null
 GVG Title: null
-Cohort:  null
-Cohort Rank: null
+Cohort:  [[_Not Lonely Cohort]]
+Cohort Rank: 7th sister
 Master:  null
 Disciple Rank: null
 Disciple:  null
