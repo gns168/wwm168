@@ -69,12 +69,17 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 ![[hekapider.png]]
 
 ---
-
 # Tutorial
 ![[Tutorials#Timber and Ore]]
 
 ---
 # Lore
+
+## Reference Sheet
+![[public/_media/_avatar/hekapider_ref.png]]
+
+
+---
 
 ![[hekapider lore]]
 ![[Marry Me!- And we'll bring justice to the jianghu!]]

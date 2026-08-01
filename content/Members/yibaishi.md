@@ -12,6 +12,7 @@ Path - secondary:
 Path - Former:
 Role:
   - DPS
+  - Healer
 Sect: Sectless
 Sect - Former:
   - Silver Needle
@@ -39,6 +40,7 @@ Guild Position:
   - Commander
 WWM Player: true
 ---
+---
 
 Gameid: 2015704079
 Alias: YiBaiShi
@@ -48,7 +50,7 @@ Masked Troupe name: WhiteJadeFox
 Path - main: Bamboocut - Dust
 Path - secondary: Silkbind - Deluge
 Path - Former:  null
-Role:  DPS
+Role:  DPS,Healer
 Sect:  Sectless
 Sect - Former:  Silver Needle,Raging Tides,Velvet Shade,Masked Troupe
 Guild Role: Commander
@@ -67,3 +69,8 @@ Ext Description:  null
 
 ---
 ![[yibaishi.png]]
+
+---
+# Lore
+
+![[Yi Baishi Backstory]]
