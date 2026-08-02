@@ -69,6 +69,7 @@ Ext Description:  null
 
 ---
 ![[yibaishi.png]]
+![[YiBaiShi_modecombat.png]]
 
 ---
 # Lore
