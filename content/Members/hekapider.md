@@ -76,7 +76,7 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 # Lore
 
 ## Reference Sheet
-![[public/_media/_avatar/hekapider_ref.png]]
+![[hekapider_ref.png]]
 
 
 ---
