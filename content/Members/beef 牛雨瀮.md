@@ -67,4 +67,10 @@ Ext Description:  null
 ![[beef2.png]]
 
 # Lore
+
+## Reference Sheet
+
+![[beef_ref.png]]
+
+---
 ![[Beef Origins]]
