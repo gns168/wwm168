@@ -27,7 +27,7 @@ Partner:
 Partner - Former:
 External:
 Ext Description:
-img: "[[ChangMingLai.png]]"
+img: "[[public/_media/_avatar/changminglai.png]]"
 icon:
 cover: "![[ChangMingLai.png]]"
 WWM Player: true
@@ -62,7 +62,7 @@ External:  null
 Ext Description:  null
 
 ---
-![[ChangMingLai.png]]
+![[changminglai.png]]
 # Lore
 ## Reference Sheet
 
