@@ -35,5 +35,7 @@ Disciples
 * [[wuchaang]], [[baoyu 宝玉]], [[nhatthao|nhat]], [[faeonix]] 
 Cohort
 * Elder of [[_Dramallama Cohort]] along with [[faeonix]] and [[weiyun 组玮芸]]
+* <2026-08-02>
+	* ![[social exp l7.png]]
 Habitat
 * [[faeonix]] luxurious island 

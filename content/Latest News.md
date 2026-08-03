@@ -1,12 +1,7 @@
 # Latest
 
-## Guides
+![[One Family Under Heaven - 同年同月同日生]]
 
-[[DFBB's Gear and Tuning Guide.pdf]]
-
----
-## King of the Hill
-![[King of the Hill]]
 
 ---
 

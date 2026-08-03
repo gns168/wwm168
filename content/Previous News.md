@@ -1,4 +1,6 @@
 
+- [[#Guides|Guides]]
+- [[#King of the Hill|King of the Hill]]
 - [[#GvG Standings <2026-07-19>|GvG Standings <2026-07-19>]]
 - [[#Guild Adventures - Skyward Bond|Guild Adventures - Skyward Bond]]
 - [[#Homestead Tour 20260719|Homestead Tour 20260719]]
@@ -10,6 +12,15 @@
 		- [[#League Match#ScoreBoard|ScoreBoard]]
 	- [[#GvG 20260712, 4/5 wins#Ranking Match|Ranking Match]]
 - [[#GvG, Father's day 2026|GvG, Father's day 2026]]
+
+
+## Guides
+
+[[DFBB's Gear and Tuning Guide.pdf]]
+
+---
+## King of the Hill
+![[King of the Hill]]
 
 ## GvG Standings <2026-07-19>
 [[content/Lore/GvG#Standings|Season 2]]
