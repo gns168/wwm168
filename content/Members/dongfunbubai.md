@@ -72,7 +72,8 @@ Ext Description:  null
 ---
 # Tutorial
 
-![[DFBB's Gear and Tuning Guide.pdf]]
+![[Tutorials#Relaying and Tuning]]
+![[Tutorials#DFBB Gear and Tuning Guide]]
 
 ---
 ![[Tutorials#Qinghe and Kaifeg]]

@@ -9,6 +9,12 @@
 - [[#Hero's Realm|Hero's Realm]]
 
 ## Build Guides
+
+### Relaying and Tuning
+* Date: <2026-08-02>
+* Author: [[dongfunbubai]]
+![](https://youtu.be/AyHn6MFd5RU?si=Bhk1hm1dVXgGcDv8)
+
 ### DFBB Gear and Tuning Guide
 * Date: <2026-07-29>
 * Author: [[dongfunbubai]]

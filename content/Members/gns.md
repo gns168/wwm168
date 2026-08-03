@@ -3,6 +3,7 @@ GameID: "1045666560"
 Timezone (UTC): UTC-4
 aliases:
   - 易留疤
+  - Vice Guild Master
 Alt:
   - "[[gnsyiliuba]]"
 Masked Troupe name: 易留疤
@@ -46,7 +47,7 @@ WWM Player: true
 steam: "337355602"
 ---
 Gameid: 1045666560
-Alias: 易留疤
+Alias: 易留疤, Vice Guild Master
 Timezone (UTC): UTC-4
 Alt: [[gnsyiliuba]]
 Masked Troupe name: 易留疤

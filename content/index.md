@@ -18,8 +18,10 @@ img: "[[guild.png]]"
 >|Discord: | https://discord.gg/HE6P7NMqY |
 
 ![[guild splash.png]]
-# Latest News
-![[Latest News#Latest]]
+
+---
+
+![[Latest News#Latest News]]
 
 ---
 # Composition

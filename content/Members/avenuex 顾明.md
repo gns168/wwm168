@@ -4,6 +4,8 @@ Timezone (UTC): UTC-6
 aliases:
   - 顾明
   - AvenueX
+  - Leader
+  - Guild Master
 Alt:
 Masked Troupe name:
 Path - main:
@@ -45,8 +47,10 @@ Guild Position:
   - Leader
 WWM Player: true
 ---
+# Profile update
+
 Gameid: 1023383798
-Alias: 顾明,AvenueX
+Alias: 顾明,AvenueX,Leader,Guild Master
 Timezone (UTC): UTC-6
 Alt: null
 Masked Troupe name: null
