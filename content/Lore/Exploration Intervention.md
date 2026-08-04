@@ -26,7 +26,7 @@ Collaborators: [[dongfunbubai]],[[gongshangjue|GongShangjue]],[[gns]],[[baoyu �
 > [[dongfunbubai]],[[gongshangjue]],[[gns]],[[baoyu 宝玉|Baoyu]],[[gnsyiliuba]],[[beef 牛雨瀮|beef]],[[avenuex 顾明|AvenueX]],[[nhatthao]],[[weiyun 组玮芸]],[[cai cai 采采卷耳]]
 ---
 
-![[exploration intervention.png]]
+![[exploration intervention gns.png]]
 
 The guild had an "Exploration Intervention" before reset.
 
