@@ -8,6 +8,7 @@ draft: false
 GameID:
 aliases:
 Alt:
+  - "[[lonerexlapis]]"
 Timezone (UTC):
 Masked Troupe name:
 Path - main:
@@ -37,10 +38,10 @@ Sect - Former:
   - Inkbound Order
 Guild Role:
 GVG Title:
-Cohort:
-Cohort Rank:
-Master:
-Disciple Rank:
+Cohort: "[[_Enchanted Cohort]]"
+Cohort Rank: 3rd Brother
+Master: "[[lonerexlapis]]"
+Disciple Rank: Second Disciple
 Disciple:
 Partner:
 Partner - Former:
@@ -50,30 +51,31 @@ icon:
 cover:
 ---
 
-Gameid: undefined
-Alias: undefined
-Timezone (UTC): undefined
-Alt: undefined
-Masked Troupe name: undefined
-Path - main: undefined
-Path - secondary: undefined
-Path - Former:  undefined
-Role:  undefined
-Sect:  undefined
-Sect - Former:  undefined
-Guild Role: undefined
-GVG Team: undefined
-GVG Role: undefined
-GVG Title: undefined
-Cohort:  undefined
-Cohort Rank: undefined
-Master:  undefined
-Disciple Rank: undefined
-Disciple:  undefined
-Partner:  undefined
-Partner - Former: undefined
-External:  undefined
-Ext Description:  undefined
+# Profile update
 
----
-undefined
+Gameid: <% tp.frontmatter.GameID %>
+Alias: <% tp.frontmatter.aliases %>
+Timezone (UTC): <% tp.frontmatter["Timezone (UTC)"] %>
+Alt: <% tp.frontmatter.Alt %>
+Masked Troupe name: <% tp.frontmatter["Masked Troupe name"] %>
+Path - main: <% tp.frontmatter["Path - main"] %>
+Path - secondary: <% tp.frontmatter["Path - secondary"] %>
+Path - Former:  <% tp.frontmatter["Path - Former"] %>
+Role:  <% tp.frontmatter.Role %>
+Sect:  <% tp.frontmatter.Sect %>
+Sect - Former:  <% tp.frontmatter["Sect - Former"] %>
+Guild Role: <% tp.frontmatter["Guild Role"] %>
+GVG Team: <% tp.frontmatter["GVG Team"] %>
+GVG Role: <% tp.frontmatter["GVG Role"] %>
+GVG Title: <% tp.frontmatter["GVG Title"] %>
+Cohort:  <% tp.frontmatter.Cohort %>
+Cohort Rank: <% tp.frontmatter["Cohort Rank"] %>
+Master:  <% tp.frontmatter.Master %>
+Disciple Rank: <% tp.frontmatter["Disciple Rank"] %>
+Disciple:  <% tp.frontmatter.Disciple %>
+Partner:  <% tp.frontmatter.Partner %>
+Partner - Former: <% tp.frontmatter["Partner - Former"] %>
+External:  <% tp.frontmatter.External %>
+Ext Description:  <% tp.frontmatter["Ext Description"] %>
+
+

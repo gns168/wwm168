@@ -24,8 +24,11 @@ Cohort Rank: Elder
 Master:
 Disciple Rank:
 Disciple:
+  - "[[gummybearghost]]"
   - "[[prymerex]]"
   - "[[gleefulboidae]]"
+  - "[[小卢宝|xiaolubao]]"
+  - "[[changminglai]]"
 Partner:
 Partner - Former:
 External:
@@ -38,6 +41,8 @@ Guild Position:
 cover: "![[rex.png]]"
 WWM Player: true
 ---
+
+# Profile update
 
 Gameid: 1082940367
 Alias: LoneRexLapis
@@ -52,17 +57,18 @@ Sect:  Midnight Blades
 Sect - Former:  null
 Guild Role: Commander
 GVG Team: [[_Defence]]
-GVG Role: Tank
+GVG Role: Debuff
 GVG Title: Commander
 Cohort:  [[_Not Lonely Cohort]]
 Cohort Rank: Elder
 Master:  null
 Disciple Rank: null
-Disciple:  [[prymerex]],[[gleefulboidae]]
+Disciple:  [[gummybearghost]],[[prymerex]],[[gleefulboidae]],[[小卢宝|xiaolubao]],[[changminglai]]
 Partner:  null
 Partner - Former: null
 External:  https://www.youtube.com/watch?v=-1czu64NVrc&list=PL4Yiov3Xp-YeI25ZlxiGuISwauB3wQaWV,https://www.youtube.com/watch?v=iGgrvImQtog&list=PL4Yiov3Xp-YcmQKcF9QnB8Wvp5VjMJz_Y
 Ext Description:  null
+
 
 ---
 ![[rex.png]]

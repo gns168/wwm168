@@ -20,7 +20,7 @@ GVG Role: DPS
 Cohort: "[[_Not Lonely Cohort]]"
 Cohort Rank: Fifth Younger Sister
 Master: "[[lonerexlapis]]"
-Disciple Rank:
+Disciple Rank: Third Disciple
 Disciple:
 Partner:
 Partner - Former:
@@ -30,7 +30,9 @@ img: "[[guild.png]]"
 cover:
 WWM Player: true
 ---
-weGameid: 1017819297
+# Profile update
+
+Gameid: 1017819297
 Alias: SenoraQu
 Timezone (UTC): UTC-7
 Alt: null
@@ -48,12 +50,9 @@ GVG Title: null
 Cohort:  [[_Not Lonely Cohort]]
 Cohort Rank: Fifth Younger Sister
 Master:  [[lonerexlapis]]
-Disciple Rank: null
+Disciple Rank: Third Disciple
 Disciple:  null
 Partner:  null
 Partner - Former: null
 External:  null
 Ext Description:  null
-
----
-![[gns.png]]

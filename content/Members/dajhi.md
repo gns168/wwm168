@@ -21,7 +21,7 @@ GVG Team: "[[_Defence]]"
 GVG Role: DPS
 GVG Title:
 Cohort: "[[_Not Lonely Cohort]]"
-Cohort Rank:
+Cohort Rank: 4th Sister
 Master:
 Disciple Rank:
 Disciple:
@@ -33,6 +33,8 @@ img: "[[luanadajhi.png]]"
 cover: "![[luanadajhi.png]]"
 WWM Player: true
 ---
+# Profile update
+
 Gameid: 1049704837
 Alias: null
 Timezone (UTC): UTC-3
@@ -49,7 +51,7 @@ GVG Team: [[_Defence]]
 GVG Role: DPS
 GVG Title: null
 Cohort:  [[_Not Lonely Cohort]]
-Cohort Rank: null
+Cohort Rank: 4th Sister
 Master:  null
 Disciple Rank: null
 Disciple:  null
@@ -57,6 +59,7 @@ Partner:  null
 Partner - Former: null
 External:  null
 Ext Description:  null
+
 
 ---
 ![[luanadajhi.png]]

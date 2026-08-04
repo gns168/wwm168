@@ -25,9 +25,4 @@ Partner - Former: <% tp.frontmatter["Partner - Former"] %>
 External:  <% tp.frontmatter.External %>
 Ext Description:  <% tp.frontmatter["Ext Description"] %>
 
----
-<% tp.frontmatter.cover %>
----
-# Lore
-## Reference Sheet
 

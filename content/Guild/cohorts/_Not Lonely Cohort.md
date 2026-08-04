@@ -4,8 +4,8 @@ Second Younger: "[[小卢宝]]"
 Third Younger: "[[prymerex]]"
 Fourth Younger: "[[dajhi]]"
 Fifth Younger: "[[gleefulboidae]]"
-Sixth Younger:
-Seventh Younger:
+Sixth Younger: "[[gummybearghost]]"
+Seventh Younger: "[[changminglai]]"
 Eighth Younger:
 Ninth Younger:
 Youngest:
@@ -19,9 +19,9 @@ Youngest:
 >|Third Younger: | [[prymerex]] |
 >|Fourth Younger: | [[dajhi]] |
 >|Fifth Younger: | [[gleefulboidae]] |
->|Sixth Younger: | null |
->|Eighth Younger: | null |
->|Ninth Younger: | null |
+>|Sixth Younger: | [[gummybearghost]] |
+>|Eighth Younger: | [[dajhi]] |
+>|Ninth Younger: | [[changminglai]] |
 >|Youngest: | null |
 
 ---

@@ -20,8 +20,8 @@ GVG Role:
 GVG Title:
 Cohort: "[[_Not Lonely Cohort]]"
 Cohort Rank: 7th sister
-Master:
-Disciple Rank:
+Master: "[[lonerexlapis]]"
+Disciple Rank: Fifth Disciple
 Disciple:
 Partner:
 Partner - Former:
@@ -34,7 +34,7 @@ WWM Player: true
 homestead:
 steam:
 ---
-# Profile
+# Profile update
 
 Gameid: 1033156335
 Alias: ChangMingLai
@@ -53,13 +53,14 @@ GVG Role: null
 GVG Title: null
 Cohort:  [[_Not Lonely Cohort]]
 Cohort Rank: 7th sister
-Master:  null
-Disciple Rank: null
+Master:  [[lonerexlapis]]
+Disciple Rank: Fifth Disciple
 Disciple:  null
 Partner:  null
 Partner - Former: null
 External:  null
 Ext Description:  null
+
 
 ---
 ![[changminglai.png]]

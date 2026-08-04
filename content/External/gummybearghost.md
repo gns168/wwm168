@@ -35,10 +35,10 @@ Guild Role:
 GVG Team:
 GVG Role:
 GVG Title:
-Cohort:
-Cohort Rank:
-Master:
-Disciple Rank:
+Cohort: "[[_Not Lonely Cohort]]"
+Cohort Rank: 6th Brother
+Master: "[[lonerexlapis]]"
+Disciple Rank: Eldest Disciple
 Disciple:
 Partner:
 Partner - Former:
