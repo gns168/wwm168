@@ -24,7 +24,7 @@ img: "[[guild.png]]"
 
 ---
 # Organization
-![[content/Guild/AvenueXtra-org.svg|640]]
+![[AvenueXtra-org_1.svg|640]]
 
 ---
 ![[weiyun 组玮芸#Guild Tour]]
