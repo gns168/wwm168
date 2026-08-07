@@ -16,14 +16,15 @@ Collaborators: [[dongfunbubai]],[[gongshangjue]],[[gns]],[[baoyu 宝玉|Baoyu]],
 
 ---
 
- Celebrating [[_Dramallama Cohort]] monumental achievement of obtaining "One Family Under Heaven"/"同年同月同日生" level 7 cohort title
+ Celebrating [[_Dramallama Cohort]] monumental achievement of obtaining "One Family Under Heaven"/"同年同月同日生" level 7 cohort title.  Yes, we've been together as a team for that long and have come a very long way.
  
 ![[One Family Under Heaven 2.png]]
 
-***Special thanks to [[weiyun 组玮芸]] for pioneering all of the "social experience" research with me, way back in Dec 2025!!!***
+***Special thanks to [[weiyun 组玮芸]] for pioneering all of the "social experience" research with me; starting way back in Dec 2025!!!***
 
-Thanks to the following for following members for being there when we reached this achievement.
+Thanks to the following members for being there when we reached this achievement.
 * L to R: [[dongfunbubai]], [[gongshangjue]], [[gns]], [[baoyu 宝玉]], [[gnsyiliuba]], [[beef 牛雨瀮|beef]], [[avenuex 顾明|Leader]], [[nhatthao]], [[weiyun 组玮芸]], [[cai cai 采采卷耳]]
+*  Credit to [[avenuex 顾明|Leader]] for the picture
 
 ![[One Family Under Heaven 1.png]]
 

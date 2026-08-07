@@ -30,9 +30,9 @@ Collaborators: [[dongfunbubai]],[[gongshangjue|GongShangjue]],[[gns]],[[baoyu �
 
 The guild had an "Exploration Intervention" before reset.
 
-Many thanks to our wonderful guild members for this effort.  Such a great lore day reminiscing with [[gongshangjue]] when she was to first discover that gns does not explore.
+Many thanks to our wonderful guild members for this effort.  Such a great lore day reminiscing with [[gongshangjue]].  She was the first to discover that gns does not explore and even politely asked if she could open the chests ... of course my answer was an emphactic "YES".
 
-Then be with the original engineers of the  [[_Dramallama Cohort]] social exp team to achieve the [[One Family Under Heaven - 同年同月同日生]] level 7 cohort title. 
+This was then followed by reaching level 7 for [[_Dramallama Cohort]]!!! Congratulations to the original social exp team for getting us to this monumental achievement of [[One Family Under Heaven - 同年同月同日生]]. 
 
 ![[social exp l7.png]]
 
