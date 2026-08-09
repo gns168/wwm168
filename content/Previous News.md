@@ -1,20 +1,13 @@
 
-- [[#Guides|Guides]]
-- [[#King of the Hill|King of the Hill]]
-- [[#GvG Standings <2026-07-19>|GvG Standings <2026-07-19>]]
-- [[#Guild Adventures - Skyward Bond|Guild Adventures - Skyward Bond]]
-- [[#Homestead Tour 20260719|Homestead Tour 20260719]]
-- [[#Screentest|Screentest]]
-- [[#Welcome back leader from her trip 20260712|Welcome back leader from her trip 20260712]]
-- [[#GvG 20260712, 4/5 wins|GvG 20260712, 4/5 wins]]
-	- [[#GvG 20260712, 4/5 wins#League Match|League Match]]
-		- [[#League Match#Honour Board|Honour Board]]
-		- [[#League Match#ScoreBoard|ScoreBoard]]
-	- [[#GvG 20260712, 4/5 wins#Ranking Match|Ranking Match]]
-- [[#GvG, Father's day 2026|GvG, Father's day 2026]]
+![[One Family Under Heaven - 同年同月同日生]]
 
+![[Exploration Intervention]]
 
 ## Guides
+
+![[Tutorials#Relaying and Tuning]]
+
+![[Heirloom Gear]]
 
 [[DFBB's Gear and Tuning Guide.pdf]]
 
