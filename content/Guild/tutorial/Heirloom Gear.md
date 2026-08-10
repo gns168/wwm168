@@ -70,8 +70,8 @@ Original video by [FrozenCloud](https://youtu.be/38EPyFnM6Gs?si=-dRNXVlbxEHSFCuw
 #### Silkbind Deluge
 #### Silkbind Jade
 ##### Max Physical
-* ![[gear bawinddustkite, ststrength, skdelugejade max.png]]
-
+* 
+![[gear bawinddustkite, ststrength, skdelugejade max.png]]
 
 #### Bamboo-Cut Wind
 #### Bamboo-Cut Kite
