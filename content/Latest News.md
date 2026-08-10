@@ -6,7 +6,7 @@
 
 ## <20260808> Breaking Army Void King Flex!!!!
 * [[Morichu]], phalanx blade 
-* [[牛雨冷]], n/a
+* [[牛雨冷]], fanbrella
 * [[lonerexlapis|LoneRexLapis]], fanbrella
 * [[beef 牛雨瀮]], moblade
 * [[gns]], hengdao
