@@ -28,7 +28,10 @@ Collaborators: [[baoyu 宝玉|Baoyu]],[[weiyun 组玮芸|组玮芸-ZuWeiyun]]
 > [[gns]]
 ---
 ## Part 1
-![[Marry Me!- And we'll bring justice to the jianghu! - Part One.pdf]]
+![[01 - Marry Me!_ And we'll bring justice to the jianghu! - Part One.pdf]]
 
 ## Part 2
-![[Marry Me! - Part Two.pdf]]
+![[02 - Marry Me!_ Part Two.pdf]]
+
+## Part 3
+![[03 - Marry Me!_ Part Three.pdf]]

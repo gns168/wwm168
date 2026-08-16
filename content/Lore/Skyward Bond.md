@@ -34,7 +34,12 @@ Collaborators: <% tp.frontmatter.Collaborators %>
 - [[#<2026-07-20>|<2026-07-20>]]
 Date: <2026-07-20>
 Collaborators: [[cai cai 采采卷耳]],[[gnsyiliuba]],[[dongfunbubai]],[[Morichu]],[[avenuex 顾明|AvenueX]],[[faeonix]],[[hekapider]],[[soulren|soul-ren]],[[lonerexlapis|LoneRexLapis]],[[beef 牛雨瀮|beef]]
-## <2026-07-20>
+## <2026-07-20> 
+
+* Description
+	* Floor Three 
+	* Normal Difficulty
+	* Level 91
 * Our first completions of Skyward Bond guild event
 	* Quotes:
 		* "DFFB/Beef are you ready?" team
@@ -51,9 +56,12 @@ Collaborators: [[cai cai 采采卷耳]],[[gnsyiliuba]],[[dongfunbubai]],[[Morich
 		* "It was super satisfying to slam the moblade to finish him off" [[Morichu]]
 		* "It would've gone really smoothly if DFBB hadn't died" [[beef 牛雨瀮]]
 			* LOL, savage Beef
-* 
-### Ghost Bride
 
+### Twin Lions
+Author: [[hekapider|heka]]
+![](https://youtu.be/lvODhoL6tZA)
+### Ghost Bride
+Author [[avenuex 顾明|Leader]]
 ![](https://youtu.be/G-Gu-CwyiLE)
 
 ![[skyward bond poses2.jpg]]

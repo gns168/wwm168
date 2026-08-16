@@ -11,6 +11,12 @@ GVG Role: Lore
 	- [[#Standings#<2026-07-23>|<2026-07-23>]]
 
 ---
+
+## <2026-08-15>
+* Really great fight
+* Out numbered 21 to 17 but we were able to overcome the disadvantage to pull out the win
+![](https://youtu.be/NA-m0QWan0E)
+
 ## Standings
 
 ### <2026-07-23>
