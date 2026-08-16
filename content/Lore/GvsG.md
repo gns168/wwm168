@@ -5,7 +5,7 @@ Author:
 Collaborators:
 GVG Role: Lore
 ---
-# [[GvG]]
+# [[GvsG]]
 
 - [[#Standings|Standings]]
 	- [[#Standings#<2026-07-23>|<2026-07-23>]]

@@ -17,7 +17,7 @@
 ![[King of the Hill]]
 
 ## GvG Standings <2026-07-19>
-[[content/Lore/GvG#Standings|Season 2]]
+[[GvsG#Standings|Season 2]]
 ## Guild Adventures - Skyward Bond
 ![[Skyward Bond#<2026-07-20>]]
 
