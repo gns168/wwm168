@@ -1,6 +1,6 @@
 # Latest News
 
-## ![[content/Lore/GvG#<2026-08-15>|GvG]]
+## ![[GvG#<2026-08-15>]]
 
 ## Update - Skyward Bond L91 
 * [[Skyward Bond]]
