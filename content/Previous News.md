@@ -1,4 +1,14 @@
 
+
+## ![[GvsG#<2026-08-15>]]
+
+## Update - Skyward Bond L91 
+* [[Skyward Bond]]
+* Added Twin Lion fight 
+* ![[Skyward Bond#Twin Lions]]
+
+---
+
 ![[One Family Under Heaven - 同年同月同日生]]
 
 ![[Exploration Intervention]]

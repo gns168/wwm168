@@ -1,11 +1,11 @@
 # Latest News
 
-## ![[GvsG#<2026-08-15>]]
 
-## Update - Skyward Bond L91 
-* [[Skyward Bond]]
-* Added Twin Lion fight 
-* ![[Skyward Bond#Twin Lions]]
+## ![[Breaking Army Monsters#<20260822> Yi Dao]]
+
+## ![[Breaking Army Monsters#<20260821> Ironheart Centipede]]
+
+---
 
 ## Mythic 1v1 Race, Season 4 - 1st Half
 

@@ -26,7 +26,7 @@ Collaborators: undefined
 >[!info] 1s, 4-1
 >| Earliest Date | Fewest Matches | Highest Win % |
 >| :--- | :--- | :--- |
->| soul-ren, 2026-08-04 | soul-ren, 72 |  soul-ren, 83.3% |
+>| 2026-08-04, soulren, silkbind-deluge | 72, soulren | 83.3%, soulren |
 
 
 ### Appendix
