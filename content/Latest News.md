@@ -1,9 +1,10 @@
 # Latest News
 
 
-## ![[Breaking Army Monsters#<20260822> Yi Dao]]
+## Breaking Army
+### ![[Breaking Army Monsters#<20260822> Yi Dao]]
 
-## ![[Breaking Army Monsters#<20260821> Ironheart Centipede]]
+### ![[Breaking Army Monsters#<20260821> Ironheart Centipede]]
 
 ---
 
