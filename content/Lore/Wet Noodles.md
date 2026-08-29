@@ -21,7 +21,7 @@ Members: [[soulren|Soul]], [[lonerexlapis|LoneRexLapis]], [[gongshangjue]], [[ba
 
 [[soulren|Soul]] and [[lonerexlapis|LoneRexLapis]] are homies and one day they go to a noodle shop for lunch because Rex is broke and hadn't eaten anything for 2 days. They were remarking that the noodles were "soggy" when [[faeonix|Fae]] approached to scout them. 
 
-Soul an Rex join Fae and meet up with [[gongshangjue]]; a more experienced and talent in training that Fae had scouted first for the group. Forming the nucleus what will soon be the world renowned group in jianghu "Wet Noodles"
+Soul an Rex join Fae and meet up with [[gongshangjue]]; a more experienced and talent in training that Fae had scouted first for the group. The three form the nucleus that will soon be jianghu renowned: "Wet Noodles"
 
 ![[kpop practice.png]]
 ![[kpop welcome lao.png]]
