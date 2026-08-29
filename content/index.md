@@ -25,11 +25,11 @@ img: "[[guild.png]]"
 
 ---
 # Composition
-![[content/Sankey.svg|640]]
+![[Sankey.svg|640]]
 
 ---
 # Organization
-![[content/AvenueXtra-org.svg|640]]
+![[AvenueXtra-org.svg|640]]
 
 ---
 ![[Guild Tour]]
