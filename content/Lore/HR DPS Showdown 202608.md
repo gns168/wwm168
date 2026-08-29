@@ -10,9 +10,9 @@ GVG Role: Lore
 
 ---
 ## Author's Page
-Date: <<% tp.date.now("YYYY-MM-DD") %>>
-Author: <% tp.frontmatter.Author %>
-Collaborators: <% tp.frontmatter.Collaborators %>
+Date: <2026-08-29>
+Author: undefined
+Collaborators: undefined
 
 ---
 > [!Characters]-
