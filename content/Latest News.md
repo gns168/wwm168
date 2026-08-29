@@ -1,19 +1,11 @@
 # Latest News
 
+## Lore
 
-## Breaking Army
-### ![[Breaking Army Monsters#<20260822> Yi Dao]]
+### Wet Noodle ![[Wet Noodles#Origin]]
+*Brought to you by [[Golden Phoenix Entertainment]] ©️*
 
-### ![[Breaking Army Monsters#<20260821> Ironheart Centipede]]
-
----
-
-## Mythic 1v1 Race, Season 4 - 1st Half
-
-![[Arena 1s#Standings]]
-
-
-
----
+### Tournament for Chance at BP ![[GNS Martial Tournament 202608#Origin]]
+### Broke Kings![[Broke Kings#Origin]]
 
 # [[Previous News]]

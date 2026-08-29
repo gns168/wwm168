@@ -56,5 +56,9 @@ Luck is part of base stats
 So prob need gns to tank
 If i am trying out strength, since tank don't get balled
 
-## Chapter 1
-## Chapter 2
+![](https://youtu.be/1xiKq89GT7o?si=YzQAs6hd-sjAK7xb)
+## Round 1
+## Round 2
+## Round 3
+
+## Round 4

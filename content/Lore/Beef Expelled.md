@@ -20,6 +20,9 @@ Collaborators: undefined
 > [[gns]]
 ---
 
+## Chapter 1
+[[gns]] masquerades and this sect's elder and expells [[beef 牛雨瀮|beef]]
+
 ![[beef expelled.png]]
 
 | Left Banner                           | Middle Banner                                                                                                                           | Right Banner                                                                   | Tag                  |
@@ -29,5 +32,5 @@ Collaborators: undefined
 
 ![[beef expelled2.png]]
 
-## Chapter 1
+
 ## Chapter 2
