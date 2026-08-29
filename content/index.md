@@ -25,11 +25,11 @@ img: "[[guild.png]]"
 
 ---
 # Composition
-![[Sankey.svg|640]]
+![[content/Sankey.svg|640]]
 
 ---
 # Organization
-![[AvenueXtra-org.svg|640]]
+![[content/AvenueXtra-org.svg|640]]
 
 ---
 ![[Guild Tour]]
@@ -55,4 +55,4 @@ img: "[[guild.png]]"
 ---
 # [[Cohorts]]
 # [[Members]]
-# [[content/Guild/gvg/GVG]]
+# [[GVG]]

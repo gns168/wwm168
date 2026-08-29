@@ -20,7 +20,7 @@ img: "[[guild.png]]"
 
 ---
 # Composition
-![[Sankey.svg|640]]
+![[content/Guild/Sankey.svg|640]]
 
 ---
 # Organization
