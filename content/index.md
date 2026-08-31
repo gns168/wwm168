@@ -21,6 +21,12 @@ img: "[[guild.png]]"
 
 ---
 
+- [[Wet Noodles]]
+	- [[9 TAILS]]
+- [[GNS Martial Tournament 202608]]
+- [[GvsG#<2026-08-31>]]
+- [[Broke Kings]]
+
 ![[Latest News#Latest News]]
 
 ---

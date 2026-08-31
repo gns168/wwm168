@@ -10,7 +10,7 @@ GVG Role: Lore
 
 ---
 ## Group
-Company: [[Golden Phoenix Entertainment]]
+Company: [[9 TAILS]]
 Members: [[soulren|Soul]], [[lonerexlapis|LoneRexLapis]], [[gongshangjue]], [[baoyu 宝玉]], [[dongfunbubai|DongFanBuBai]], [[LaoLongfeng]]
 
 ---
@@ -28,6 +28,9 @@ Soul an Rex join Fae and meet up with [[gongshangjue]]; a more experienced and t
 
 ## Promo Video
 ![[kpop poster.png]]
+### Part 1
+![](https://www.youtube.com/watch?v=gNgDMAX3-5I)
+
 ### Practice Sessions
 https://youtube.com/playlist?list=PLconabK1wDE0&si=g41LyvHcAdTAPlRF
 
@@ -35,3 +38,5 @@ https://youtube.com/playlist?list=PLconabK1wDE0&si=g41LyvHcAdTAPlRF
 
 ## Merchandise
 ![[kpop wetnoodles.jpg]]
+
+![[wet noodles merch2.png]]

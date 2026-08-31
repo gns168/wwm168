@@ -12,6 +12,14 @@ GVG Role: Lore
 
 ---
 
+## <2026-08-31>
+
+- vs PlayfulSin
+	- ![](https://youtu.be/aOOmqGX40qc)
+- vs ITA Wolfdragon
+	- ![](https://youtu.be/nseU6PmqIi8)
+
+
 ## <2026-08-15>
 * Really great fight
 * Out numbered 21 to 17 but we were able to overcome the disadvantage to pull out the win

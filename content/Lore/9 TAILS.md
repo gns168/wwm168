@@ -5,8 +5,9 @@ Author:
 Collaborators:
 GVG Role: Lore
 ---
-# [[Golden Phoenix Entertainment]]
+# [[9 TAILS]]
 
+![[ninetailslogo.jpg]]
 
 ---
 ## Owner's Page
