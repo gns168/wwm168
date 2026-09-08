@@ -31,6 +31,8 @@ Soul an Rex join Fae and meet up with [[gongshangjue]]; a more experienced and t
 ### Part 1
 ![](https://www.youtube.com/watch?v=gNgDMAX3-5I)
 
+### Part 2
+![](https://youtu.be/Y57OBlzKCPU)
 ### Practice Sessions
 https://youtube.com/playlist?list=PLconabK1wDE0&si=g41LyvHcAdTAPlRF
 
