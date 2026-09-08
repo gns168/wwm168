@@ -5,44 +5,28 @@ title:
 draft: false
 GameID:
 aliases:
+  - Lao Longfeng
 Alt:
-Timezone (UTC):
+Timezone (UTC): UTC+2
 Masked Troupe name:
 Path - main:
+  - Stonesplit - Might
 Path - secondary:
 Path - Former:
-  - Bamboocut - Dust
-  - Bamboocut - Wind
-  - Bellstrike - Splendor
   - Bellstrike - Umbra
-  - Silkbind - Deluge
-  - Silkbind - Jade
-  - Stonesplit - Might
-  - Stonesplit - Strength
-Role:
-Sect:
+Role: DPS
+Sect: Well of Heaven
 Sect - Former:
-  - Well of Heaven
-  - Silver Needle
-  - Raging Tides
-  - Midnight Blades
-  - Nine Mortal Ways
-  - Velvet Shade
-  - Lone Cloud
-  - Masked Troupe
-  - Mohist Hill
-  - Hollow Vale
-  - Inkbound Order
 Guild Role:
-GVG Team:
-GVG Role:
+GVG Team: "[[_Attack]]"
+GVG Role: Tank
 GVG Title:
 Cohort:
 Cohort Rank:
-Master:
-Disciple Rank:
+Master: "[[yibaishi]]"
+Disciple Rank: 3rd Discple
 Disciple:
-Partner:
+Partner: "[[yibaishi]]"
 Partner - Former:
 External:
 Ext Description:
@@ -50,30 +34,30 @@ icon:
 cover:
 ---
 
-Gameid: undefined
-Alias: undefined
-Timezone (UTC): undefined
-Alt: undefined
-Masked Troupe name: undefined
-Path - main: undefined
-Path - secondary: undefined
-Path - Former:  undefined
-Role:  undefined
-Sect:  undefined
-Sect - Former:  undefined
-Guild Role: undefined
-GVG Team: undefined
-GVG Role: undefined
-GVG Title: undefined
-Cohort:  undefined
-Cohort Rank: undefined
-Master:  undefined
-Disciple Rank: undefined
-Disciple:  undefined
-Partner:  undefined
-Partner - Former: undefined
-External:  undefined
-Ext Description:  undefined
+# Profile update
 
----
-undefined
+Gameid: null
+Alias: Lao Longfeng
+Timezone (UTC): UTC+2
+Alt: null
+Masked Troupe name: null
+Path - main: Stonesplit - Might
+Path - secondary: null
+Path - Former:  Bellstrike - Umbra
+Role:  DPS
+Sect:  Well of Heaven
+Sect - Former:  null
+Guild Role: null
+GVG Team: [[_Attack]]
+GVG Role: Tank
+GVG Title: null
+Cohort:  null
+Cohort Rank: null
+Master:  [[yibaishi]]
+Disciple Rank: 3rd Discple
+Disciple:  null
+Partner:  [[yibaishi]]
+Partner - Former: null
+External:  null
+Ext Description:  null
+

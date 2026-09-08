@@ -21,6 +21,7 @@ GVG Role: Lore
 		- [[#Paths#Build Strength|Build Strength]]
 	- [[#Break down on GNS builds#Analysis|Analysis]]
 		- [[#Analysis#Beef|Beef]]
+		- [[#Analysis#soul|soul]]
 		- [[#Analysis#gns|gns]]
 			- [[#gns#General|General]]
 			- [[#gns#Fanbrella|Fanbrella]]
@@ -31,11 +32,13 @@ GVG Role: Lore
 			- [[#gns#Rats and Strat sword|Rats and Strat sword]]
 - [[#Brackets|Brackets]]
 - [[#Tournament Lore|Tournament Lore]]
-	- [[#Tournament Lore#heka|heka]]
+	- [[#Tournament Lore#dahji|dahji]]
 	- [[#Tournament Lore#beef|beef]]
-	- [[#Tournament Lore#soul|soul]]
+	- [[#Tournament Lore#weiyun|weiyun]]
 	- [[#Tournament Lore#rex|rex]]
 	- [[#Tournament Lore#dfbb|dfbb]]
+- [[#Round 1|Round 1]]
+
 
 
 ---
@@ -170,9 +173,15 @@ Me
 * Got a random invite gonna see... 
 * The basic idea is beef don't know who gns is but gns knows beef right cuz of the previous "life" b.s. (ref: [[Beef Expelled]])
 * So the plan is to check it out. See what is up. 
-### soul
+### weiyun
+- Weiyun got distracted on her way to the tournament. Distracted by a rumor about a big treasure pile in a faraway land. And while investigating the treasure - she fell into the well and ended up in Teyvat.
+- And when she was done she said good bye to all of her new friends and went to the portal but she picked the wrong one and ended up in solaris 3....
+- Since all of her currencies don't work there, she has to help wuwa world and make money to come back (knowledge of multiverse travel is only reserved for a selected few)
 
 ### rex
 
 ### dfbb
 
+## Round 1
+
+![[gns tourny 20260906.png]]

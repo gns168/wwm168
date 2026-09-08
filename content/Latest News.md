@@ -1,15 +1,9 @@
 # Latest News
 
-## Lore
-
-### Wet Noodle ![[Wet Noodles#Origin]]
-Brought to you by [[9 TAILS]] (C)
-
-### Tournament for Chance at BP ![[GNS Martial Tournament 202608#Origin]]
+### GNS Tournament
+![[GNS Martial Tournament 202608#Round 1]]
 
 ### GVG
-![[GvsG#<2026-08-31>]]
-
-### Broke Kings![[Broke Kings#Origin]]
+![[GvsG#<2026-09-06> Excellent shot calling from DFBB and Baoyo]]
 
 # [[Previous News]]

@@ -11,6 +11,10 @@ GVG Role: Lore
 	- [[#Standings#<2026-07-23>|<2026-07-23>]]
 
 ---
+## <2026-09-06> Excellent shot calling from DFBB and Baoyo
+
+
+![](https://youtu.be/QR8vXaAoeSo?si=2IoOJWP8SBZdzKVd)
 
 ## <2026-08-31>
 
