@@ -184,4 +184,10 @@ Me
 
 ## Round 1
 
+GNS tournament for a chance to win a battle pass is underway. The brackets for round one have been set. Let me know the results of your match. Special thanks to the Mythic players for setting up the fight club and training sessions. Hopefully, everyone enjoyed the sessions. We will be hold more before the tournament. 
+
+Note that in Round 2 you most likely will be paired with a mythic player. Take the opportunity for some dedicated training (time permitting). 
+
+And most of all, have fun PVP in a safe environment
+
 ![[gns tourny 20260906.png]]
