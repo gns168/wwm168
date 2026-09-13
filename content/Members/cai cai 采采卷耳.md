@@ -1,8 +1,8 @@
 ---
 GVG Team: "[[_Defence]]"
 GVG Role: DPS
-img: "[[caicai.jpg]]"
-cover: "![[caicai.jpg]]"
+img: "[[cai1.jpg]]"
+cover: "![[cai1.jpg]]"
 WWM Player: true
 ---
 GVG Team: [[_Attack]]
@@ -17,4 +17,7 @@ GVG Role: DPS
 		![[cai poetry 2_0.m4a]]
 ---
 # Lore
-![[caicai.jpg]]
+![[cai1.jpg]]
+![[cai3.jpg]]
+![[cai2.jpg]]
+![[cai_leader lore.jpg]]

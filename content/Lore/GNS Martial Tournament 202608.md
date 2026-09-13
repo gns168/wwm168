@@ -180,7 +180,18 @@ Me
 
 ### rex
 
-### dfbb
+- At a crucial moment, Rex's QI and meridian failed due to injuries sustained after being pushed off of wingman mountain by heka's harem after rex's ill advised comment on heka's brow...
+
+### soul
+
+- A sudden loss of sharpness, a leg camp and her rats leaving her to eat proved to be too much for her to overcome [[yibaishi]]
+
+### 168
+- distracted and concerned about her student's loss ([[fae]]) in the tourny, she was defeated by jinbanruo
+
+### Nimm
+- bold callout!!!
+- ![[gns tourny nimm callout.jpg]]
 
 ## Round 1
 
@@ -190,4 +201,12 @@ Note that in Round 2 you most likely will be paired with a mythic player. Take t
 
 And most of all, have fun PVP in a safe environment
 
-![[gns tourny 20260906.png]]
+![[gns tourny 202608 round1.png]]
+
+## Round 2
+
+![[gns tourny 202608 brackets.svg]]
+
+
+### Final Round
+![[gns tourny 202608 mei vs gvs.jpg]]
