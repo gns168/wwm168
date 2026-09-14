@@ -19,5 +19,6 @@ GVG Role: DPS
 # Lore
 ![[cai1.jpg]]
 ![[cai3.jpg]]
+![[cai4.jpg]]
 ![[cai2.jpg]]
 ![[cai_leader lore.jpg]]

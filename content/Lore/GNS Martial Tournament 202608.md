@@ -170,9 +170,8 @@ Me
 - I feel like mine will be a side character as well but she will be mostly curious, since she is an ex Velvet Shade operative.
 - Also, getting all the tea during the tournament while admiring the baddies too!!!!
 ### beef
-* Got a random invite gonna see... 
-* The basic idea is beef don't know who gns is but gns knows beef right cuz of the previous "life" b.s. (ref: [[Beef Expelled]])
-* So the plan is to check it out. See what is up. 
+![[gns tourny 202608 beef vs chang.png]]
+
 ### weiyun
 - Weiyun got distracted on her way to the tournament. Distracted by a rumor about a big treasure pile in a faraway land. And while investigating the treasure - she fell into the well and ended up in Teyvat.
 - And when she was done she said good bye to all of her new friends and went to the portal but she picked the wrong one and ended up in solaris 3....
@@ -187,8 +186,13 @@ Me
 - A sudden loss of sharpness, a leg camp and her rats leaving her to eat proved to be too much for her to overcome [[yibaishi]]
 
 ### 168
-- distracted and concerned about her student's loss ([[fae]]) in the tourny, she was defeated by jinbanruo
+- Distracted and concerned about her student's loss ([[fae]]) in the tourny, she was defeated by jinbanruo
 
+### cai
+- A mysterious and beautiful transformation occurred the night before [[cai cai 采采卷耳]] match forcing her to look for the safety of ocean waters
+![[cai3.jpg]]
+![[cai4.jpg]]
+![[cai2.jpg]]
 
 ### Mei
 - NO FEAR
