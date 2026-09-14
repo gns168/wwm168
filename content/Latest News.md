@@ -1,7 +1,8 @@
 # Latest News
 
 ### GNS Tournament
-![[GNS Martial Tournament 202608#Round 1]]
+![[GNS Martial Tournament 202608#Tournament Lore]]
+![[GNS Martial Tournament 202608#Round 2]]
 
 ### Making of Idol Group Part 2
 ![[Wet Noodles#Part 2]]

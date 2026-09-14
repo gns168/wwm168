@@ -180,7 +180,7 @@ Me
 
 ### rex
 
-- At a crucial moment, Rex's QI and meridian failed due to injuries sustained after being pushed off of wingman mountain by heka's harem after rex's ill advised comment on heka's brow...
+- Rex and Nhatthao completed their martial arts duel and surprisingly Nhat come out victorious. The big surprise was Rex recycled his fan weapon thinking he was going to dedicate his life to the way of drunken fist idol boy band. While fumbling through his storage bag, Rex was hit by multiple umbrella stuns and cloud steps, distracted at dodging and parrying until time expired. It could have technically been a draw, but Nhat still advance.
 
 ### soul
 
@@ -189,8 +189,13 @@ Me
 ### 168
 - distracted and concerned about her student's loss ([[fae]]) in the tourny, she was defeated by jinbanruo
 
+
+### Mei
+- NO FEAR
+![[gns tourny 202608 mei vs gvs.jpg]]
+
 ### Nimm
-- bold callout!!!
+- BOLD
 - ![[gns tourny nimm callout.jpg]]
 
 ## Round 1
@@ -205,8 +210,7 @@ And most of all, have fun PVP in a safe environment
 
 ## Round 2
 
-![[gns tourny 202608 brackets.svg]]
+![[gns-tourny-202608-progress.png]]
 
 
-### Final Round
-![[gns tourny 202608 mei vs gvs.jpg]]
+
