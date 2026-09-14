@@ -188,6 +188,18 @@ Me
 ### 168
 - Distracted and concerned about her student's loss ([[fae]]) in the tourny, she was defeated by jinbanruo
 
+### jinbanrou
+- Jin had a martial art relapse accidentally striking the final blow on 168, who seem overly pre-occupied during the whole match [[GNS Martial Tournament 202608#168]]
+-  She was literally dumbfounded when the victory scene came XD
+    
+
+2. I was literally dumbfounded when the victory scene came XD
+    
+3. ### Soul
+
+### DFBB
+- Just as [[dongfunbubai]] was about to deliver the winning strike his bout with momentary lost of consciousness struck.  Every since waking up in the arms of one of the six jianghu beauties he has been plagued with these momentary blackouts... however, the haunting image of the culprit that pushed him off the clip had become a little clearer.
+
 ### cai
 - A mysterious and beautiful transformation occurred the night before [[cai cai 采采卷耳]] match forcing her to look for the safety of ocean waters
 ![[cai3.jpg]]
@@ -218,3 +230,8 @@ And most of all, have fun PVP in a safe environment
 
 
 
+## Appendix
+
+### Modern life lessons by Chang
+
+![[gns tourny 202608 beef vs chang3.png]]
