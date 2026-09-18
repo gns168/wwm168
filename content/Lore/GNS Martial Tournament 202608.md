@@ -169,6 +169,9 @@ Me
 ### dahji
 - I feel like mine will be a side character as well but she will be mostly curious, since she is an ex Velvet Shade operative.
 - Also, getting all the tea during the tournament while admiring the baddies too!!!!
+
+![[gns-tourny-202608-dahji-vs-dfbb.png]]
+
 ### beef
 ![[gns tourny 202608 beef vs chang.png]]
 
@@ -195,6 +198,10 @@ Me
 ### DFBB
 - Just as [[dongfunbubai]] was about to deliver the winning strike his bout with momentary lost of consciousness struck.  Every since waking up in the arms of one of the six jianghu beauties he has been plagued with these momentary blackouts... however, the haunting image of the culprit that pushed him off the clip had become a little clearer.
 
+![[gns tourny 202608  dfbb 1.png]]
+
+![[gns tourny 202608  dfbb 2.png]]
+
 ### cai
 - A mysterious and beautiful transformation occurred the night before [[cai cai 采采卷耳]] match forcing her to look for the safety of ocean waters
 ![[cai3.jpg]]
@@ -209,7 +216,11 @@ Me
 - BOLD
 - ![[gns tourny nimm callout.jpg]]
 
-## Round 1
+### heka
+
+![[gns-tourny-202608-heka-vs-yi.png]]
+
+## Round Robin
 
 GNS tournament for a chance to win a battle pass is underway. The brackets for round one have been set. Let me know the results of your match. Special thanks to the Mythic players for setting up the fight club and training sessions. Hopefully, everyone enjoyed the sessions. We will be hold more before the tournament. 
 
@@ -217,9 +228,7 @@ Note that in Round 2 you most likely will be paired with a mythic player. Take t
 
 And most of all, have fun PVP in a safe environment
 
-![[gns tourny 202608 round1.png]]
-
-## Round 2
+## Ongoing
 
 ![[gns-tourny-202608-progress.png]]
 
