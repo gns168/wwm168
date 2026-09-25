@@ -35,10 +35,10 @@ External:
   - https://www.youtube.com/watch?v=-1czu64NVrc&list=PL4Yiov3Xp-YeI25ZlxiGuISwauB3wQaWV
   - https://www.youtube.com/watch?v=iGgrvImQtog&list=PL4Yiov3Xp-YcmQKcF9QnB8Wvp5VjMJz_Y
 Ext Description:
-img: "[[rex.png]]"
+img: "[[rex2.png]]"
 Guild Position:
   - Commander
-cover: "![[rex.png]]"
+cover: "![[rex2.png]]"
 WWM Player: true
 ---
 
@@ -72,3 +72,5 @@ Ext Description:  null
 
 ---
 ![[rex.png]]
+![[rex2.png]]
+![[rex3.png]]

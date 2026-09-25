@@ -230,7 +230,7 @@ And most of all, have fun PVP in a safe environment
 
 ## Ongoing
 
-![[gns-tourny-202608-progress.png]]
+![[gns tourny 202608 progress.png]]
 
 
 

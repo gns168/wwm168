@@ -39,8 +39,8 @@ External:
   - https://youtube.com/playlist?list=PLgAOae7PKAlSOyiS2e1UPsx1wZ-hEohsN&si=dryy24xISxaqnRaa
   - https://youtube.com/playlist?list=PLgAOae7PKAlR_VcplaN84-ntjZxtfjZe7&si=5ZhSB9X2iSmWi9Hs
   - https://www.youtube.com/playlist?list=PLgAOae7PKAlT4olR7vtSbfudEHWfODb_s
-img: "[[gnsyiliuba.png]]"
-cover: "![[gnsyiliuba2.png]]"
+img: "[[gnsyiliuba3.png]]"
+cover: "![[gnsyiliuba3.png]]"
 Ext Description: |-
   Unlisted playlist of fightclub and heka martial marital tourney.
   Public playlist of fightclub founders and gns/168 play attemps
@@ -74,6 +74,8 @@ Ext Description:  Unlisted playlist of fightclub and heka martial marital tourne
 Public playlist of fightclub founders and gns/168 play attemps
 
 ---
+![[gnsyiliuba3.png]]
+![[gnsyiliuba4.png]]
 ![[gnsyiliuba.png]]
 ![[gnsyiliuba2.png]]
 ![[gns4.png]]

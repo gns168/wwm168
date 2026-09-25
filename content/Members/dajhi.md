@@ -29,8 +29,8 @@ Partner:
 Partner - Former:
 External:
 Ext Description:
-img: "[[luanadajhi.png]]"
-cover: "![[luanadajhi.png]]"
+img: "[[dajhi.png]]"
+cover: "![[dajhi.png]]"
 WWM Player: true
 ---
 # Profile update
@@ -62,6 +62,8 @@ Ext Description:  null
 
 
 ---
+![[dajhi.png]]
+
 ![[luanadajhi.png]]
 
 ---

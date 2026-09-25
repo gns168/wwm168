@@ -37,11 +37,11 @@ Partner: "[[gnsyiliuba]]"
 Partner - Former:
 External:
   - https://gns168.github.io/wwm168
-img: "[[gns.png]]"
+img: "[[gns7.png]]"
 Guild Position:
   - Commander
 icon:
-cover: "![[gns2.png]]"
+cover: "![[gns7.png]]"
 Ext Description: Google drive containing guild member profiles, team rosters and offline webpage of guild
 WWM Player: true
 steam: "337355602"
@@ -72,6 +72,8 @@ External:  https://gns168.github.io/wwm168,https://drive.google.com/drive/folder
 Ext Description:  Google drive containing guild member profiles, team rosters and offline webpage of guild
 
 ---
+![[gns7.png]]
+![[gns6.png]]
 ![[gns.png]]
 ![[gns2.png]]
 ![[gns4.png]]
