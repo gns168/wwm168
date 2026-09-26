@@ -36,8 +36,23 @@ GVG Role: Lore
 	- [[#Tournament Lore#beef|beef]]
 	- [[#Tournament Lore#weiyun|weiyun]]
 	- [[#Tournament Lore#rex|rex]]
-	- [[#Tournament Lore#dfbb|dfbb]]
-- [[#Round 1|Round 1]]
+	- [[#Tournament Lore#soul|soul]]
+	- [[#Tournament Lore#168|168]]
+	- [[#Tournament Lore#jinbanrou|jinbanrou]]
+	- [[#Tournament Lore#DFBB|DFBB]]
+	- [[#Tournament Lore#cai|cai]]
+	- [[#Tournament Lore#Mei|Mei]]
+	- [[#Tournament Lore#Nimm|Nimm]]
+	- [[#Tournament Lore#heka|heka]]
+- [[#Round Robin|Round Robin]]
+- [[#Semi Finals|Semi Finals]]
+	- [[#Semi Finals#Nimm vs Gong|Nimm vs Gong]]
+	- [[#Semi Finals#Leader vs Nhat|Leader vs Nhat]]
+- [[#Ongoing|Ongoing]]
+- [[#Appendix|Appendix]]
+	- [[#Appendix#Modern life lessons by Chang|Modern life lessons by Chang]]
+
+
 
 
 
@@ -227,6 +242,17 @@ GNS tournament for a chance to win a battle pass is underway. The brackets for r
 Note that in Round 2 you most likely will be paired with a mythic player. Take the opportunity for some dedicated training (time permitting). 
 
 And most of all, have fun PVP in a safe environment
+
+## Semi Finals
+
+### Nimm vs Gong
+![[gns tourny 202608 semi gong vs nimm.png]]
+
+### Leader vs Nhat
+
+![[gns tourny 202608 semi leader vs nhat.png]]
+
+![[gns tourny 202608 semi leader vs nhat2.png]]
 
 ## Ongoing
 

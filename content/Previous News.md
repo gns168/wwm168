@@ -1,4 +1,13 @@
 
+
+### Making of Idol Group Part 2
+![[Wet Noodles#Part 2]]
+
+### GVG
+![[GvsG#<2026-09-06> Excellent shot calling from DFBB and Baoyo]]
+
+---
+
 ## Lore
 
 ### Wet Noodle ![[Wet Noodles#Origin]]
