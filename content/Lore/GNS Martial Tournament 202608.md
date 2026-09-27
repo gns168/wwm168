@@ -10,7 +10,7 @@ GVG Role: Lore
 ---
  # [[GNS Martial Tournament 202608]]
 
-- [[#Author's Page|Author's Page]]
+- \[[#Author's Page|Author's Page]]
 - [[#Origin|Origin]]
 	- [[#Origin#Tournament|Tournament]]
 		- [[#Tournament#Challenging gns|Challenging gns]]
@@ -48,9 +48,12 @@ GVG Role: Lore
 - [[#Semi Finals|Semi Finals]]
 	- [[#Semi Finals#Nimm vs Gong|Nimm vs Gong]]
 	- [[#Semi Finals#Leader vs Nhat|Leader vs Nhat]]
-- [[#Ongoing|Ongoing]]
+- [[#Final Result|Final Result]]
+	- [[#Final Result#DFBB's Recording|DFBB's Recording]]
+	- [[#Final Result#gns' recording|gns' recording]]
 - [[#Appendix|Appendix]]
 	- [[#Appendix#Modern life lessons by Chang|Modern life lessons by Chang]]
+
 
 
 
@@ -70,7 +73,7 @@ Collaborators: [[soulren|soul-ren]],[[lonerexlapis|LoneRexLapis]],[[gns]]
 
 ## Origin
 
-![[gns tourney 202608 01.png]]
+![[01.png]]
 
 ![[gns tourney 202608 02b.png]]
 
@@ -245,6 +248,8 @@ And most of all, have fun PVP in a safe environment
 
 ## Semi Finals
 
+![[gns tourny 202608 progress.png]]
+
 ### Nimm vs Gong
 ![[gns tourny 202608 semi gong vs nimm.png]]
 
@@ -254,10 +259,42 @@ And most of all, have fun PVP in a safe environment
 
 ![[gns tourny 202608 semi leader vs nhat2.png]]
 
-## Ongoing
 
-![[gns tourny 202608 progress.png]]
+## Final Result
 
+Thanks you to everyone that participated to make this a successful event.  Special thanks to mythic rank players for the fight club training.  [[beef 牛雨瀮|beef]] and [[hekapider]] for all of the artwork!!!
+
+At the end [[Nimm-]] emerged victorious with stellar play to win the tournament and ultimately with a win over [[gns]] to win the ultimate prize of the BattlePass
+
+
+![[gns tourny 202609 final.png]]
+
+
+![[gns tourny 202609 nimm vs leader.png]]
+
+### DFBB's Recording
+#### Semi's
+- [[Nimm-]] vs [[gongshangjue]], 1m27s
+- [[avenuex 顾明|AvenueX]] vs [[nhatthao]], 10m13s
+
+#### Intermission 
+- Exhibition matches, 16m26s
+
+#### Final's
+-  [[Nimm-]]  vs  [[avenuex 顾明|AvenueX]], 26m43s
+
+#### BP
+- [[Nimm-]]  vs [[gns]], 42m29s
+	- LOL, the strategizing by the coaches, "TANK!!! it is"
+ 
+
+![](https://www.youtube.com/watch?v=IGfFJpmApNc)
+
+### gns' recording 
+
+Matches are individually separated
+
+![](https://www.youtube.com/playlist?list=PLJ8pfdU_48Oc)
 
 
 ## Appendix
