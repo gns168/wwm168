@@ -293,8 +293,7 @@ At the end [[Nimm-]] emerged victorious with stellar play to win the tournament 
 ### gns' recording 
 
 Matches are individually separated
-
-![](https://www.youtube.com/playlist?list=PLJ8pfdU_48Oc)
+https://youtube.com/playlist?list=PLJ8pfdU_48Oc
 
 
 ## Appendix
