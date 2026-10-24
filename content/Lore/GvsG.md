@@ -33,8 +33,8 @@ GVG Role: Lore
 
 ### <2026-07-23>
 
-![[2026723112935.png]]
+![[public/_attachments/2026723112935.png]]
 
-![[2026723112947.png]]
+![[public/_attachments/2026723112947.png]]
 
-![[2026723112959.png]]
+![[public/_attachments/2026723112959.png]]

@@ -5,26 +5,29 @@ GameID: "1033156335"
 aliases:
   - ChangMingLai
 Alt:
-Timezone (UTC): UTC-5
+  - YangWulang
+Timezone (UTC): UTC-6
 Masked Troupe name:
 Path - main:
   - Bamboocut - Wind
 Path - secondary:
+  - Silkbind - Wing
 Path - Former:
 Role: DPS
-Sect:
+Sect: Raging Tides
 Sect - Former:
+  - Well of Heaven
 Guild Role: Member
-GVG Team:
-GVG Role:
+GVG Team: "[[_Defence]]"
+GVG Role: DPS
 GVG Title:
 Cohort: "[[_Not Lonely Cohort]]"
-Cohort Rank: 7th sister
+Cohort Rank: 8th sister
 Master: "[[lonerexlapis]]"
 Disciple Rank: Fifth Disciple
 Disciple:
 Partner:
-Partner - Former:
+Partner - Former: "[[Nimm-]]"
 External:
 Ext Description:
 img: "[[public/_media/_avatar/changminglai.png]]"
@@ -35,29 +38,28 @@ homestead:
 steam:
 ---
 # Profile update
-
 Gameid: 1033156335
 Alias: ChangMingLai
-Timezone (UTC): UTC-5
-Alt: null
+Timezone (UTC): UTC-6
+Alt: YangWulang
 Masked Troupe name: null
 Path - main: Bamboocut - Wind
-Path - secondary: null
+Path - secondary: Silkbind - Wing
 Path - Former:  null
 Role:  DPS
-Sect:  null
-Sect - Former:  null
+Sect:  Raging Tides
+Sect - Former:  Well of Heaven
 Guild Role: Member
-GVG Team: null
-GVG Role: null
+GVG Team: [[_Defence]]
+GVG Role: DPS
 GVG Title: null
 Cohort:  [[_Not Lonely Cohort]]
-Cohort Rank: 7th sister
+Cohort Rank: 8th sister
 Master:  [[lonerexlapis]]
 Disciple Rank: Fifth Disciple
 Disciple:  null
 Partner:  null
-Partner - Former: null
+Partner - Former: [[Nimm-]]
 External:  null
 Ext Description:  null
 

@@ -1,11 +1,16 @@
 # Latest News
 
-### GNS Tournament
-Read the complete lore here: [[GNS Martial Tournament 202608]]
 
-![[GNS Martial Tournament 202608#Semi Finals]]
+### GVG Season - Forged Ahead
 
-![[GNS Martial Tournament 202608#Final Result]]
+* Congratulations to the guild for getting to "Jesting God".  
+	* Jesting God Tier is the second tier in GVG where teams are ranked 17 to 32
+	* Placing 8th or ranked 34th for GVG in Europe!!!
 
+![[gvg 20261017 143143.png]]
+
+![[gvg 20261017 143230.png]]
+
+![[gvg 20261017 143258.png]]
 
 # [[Previous News]]

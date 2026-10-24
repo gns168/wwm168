@@ -1,4 +1,19 @@
 
+### Meow?
+
+https://www.youtube.com/watch?v=IGfFJpmApNc
+Thanks [[avenuex 顾明|Leader]] 23m10s  😍
+
+
+
+### GNS Tournament
+Read the complete lore here: [[GNS Martial Tournament 202608]]
+
+![[GNS Martial Tournament 202608#Semi Finals]]
+
+![[GNS Martial Tournament 202608#Final Result]]
+
+---
 
 ### Making of Idol Group Part 2
 ![[Wet Noodles#Part 2]]
