@@ -1,16 +1,14 @@
 # Latest News
 
+### Lore
 
-### GVG Season - Forged Ahead
+A huge thanks to the the lore scribes [[yibaishi]], [[Nimm-|Nimm]] and [[hekapider|heka]].
 
-* Congratulations to the guild for getting to "Jesting God".  
-	* Jesting God Tier is the second tier in GVG where teams are ranked 17 to 32
-	* Placing 8th or ranked 34th for GVG in Europe!!!
+Enjoy their latest stories here
 
-![[gvg 20261017 143143.png]]
+[[yibaishi]] - [[A Full Month of Obedience - WWM Fanfic - Y.pdf]]
+[[Nimm-|Nimm]] - [[Reader x Uncle Chen Fan Fic Ideas.pdf]]
+[[hekapider|heka]] - [[Haoyu and Rex Ship_Part One.docx.pdf]], [[The Bucket of Water.pdf]]
 
-![[gvg 20261017 143230.png]]
-
-![[gvg 20261017 143258.png]]
 
 # [[Previous News]]

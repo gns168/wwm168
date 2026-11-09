@@ -74,4 +74,9 @@ Ext Description:  null
 ---
 # Lore
 
+## Yi's backstory
 ![[Yi Baishi Backstory]]
+
+## A Full Month of Obedience
+![[A Full Month of Obedience - WWM Fanfic - Y.pdf]]
+
