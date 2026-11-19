@@ -1,14 +1,46 @@
 # Latest News
 
+### AvenueXtra One Year Celebration
+
+#### Titles
+##### Elders
+Congrats to the following Elders that were with [[avenuex 顾明|Leader]] from the start
+- Zero day elder: [[Jianggui]]
+- Day one elder: [[Serilmpala]] [[gongshangjue]] [[baoyu 宝玉|Baoyu]] [[faeonix|Fae]] [[dongfunbubai]] [[rasamalai]]
+
+##### 拱菜社猪, 在逃白菜
+[[cai cai 采采卷耳]] 
+- a joke between [[leader]] and [[cai cai 采采卷耳]]
+	- Leader is the pig that is foraging for vegetable, 猪拱白菜
+	- Since leader convinced cai to come to Canada, but it's been 8 years since have become friends but have not met, thus cai is the 白菜 that leader is looking for
+
+
+#### Contests
+* Details in Discord
+* Celebration Draws by [[avenuex 顾明|Leader]]
+	* Battle Passes
+	* 2580 Skin
+	* Monthly Passes
+* Photography by [[SweatyAura]]
+	* 20x60 Pearl Participants 
+	* 1280 Skin for winning
+* Fashion Competition by [[gleefulboidae]]
+	* BP
+
+
+
 ### Lore
 
 A huge thanks to the the lore scribes [[yibaishi]], [[Nimm-|Nimm]] and [[hekapider|heka]].
 
 Enjoy their latest stories here
 
-[[yibaishi]] - [[A Full Month of Obedience - WWM Fanfic - Y.pdf]]
+[[yibaishi]] 
+- [[A Full Month of Obedience - WWM Fanfic - Y.pdf]]
+- [[The Chipped Cup - WWM Fanfic - Y.pdf]]
 [[Nimm-|Nimm]] - [[Reader x Uncle Chen Fan Fic Ideas.pdf]]
 [[hekapider|heka]] - [[Haoyu and Rex Ship_Part One.docx.pdf]], [[The Bucket of Water.pdf]]
+[[faeonix|Fae]] - [[Faeonix_The_Runaway_Empress.pdf]]
 
 
 # [[Previous News]]

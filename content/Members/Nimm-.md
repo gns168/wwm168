@@ -60,3 +60,7 @@ Ext Description:  null
 undefined
 ---
 # Lore
+
+### Fanfic
+
+![[Reader x Uncle Chen Fan Fic Ideas.pdf]]

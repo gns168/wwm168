@@ -81,5 +81,7 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 
 ---
 
-![[hekapider lore]]
-![[Marry Me!- And we'll bring justice to the jianghu!]]
+[[hekapider lore]]
+[[Marry Me!- And we'll bring justice to the jianghu!]]
+![[The Bucket of Water.pdf]]
+![[Haoyu and Rex Ship_Part One.docx.pdf]]
