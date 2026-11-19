@@ -9,8 +9,7 @@ Congrats to the following Elders that were with [[avenuex 顾明|Leader]] from t
 - Day one elder: [[Serilmpala]] [[gongshangjue]] [[baoyu 宝玉|Baoyu]] [[faeonix|Fae]] [[dongfunbubai]] [[rasamalai]]
 
 ##### 拱菜社猪, 在逃白菜
-[[cai cai 采采卷耳]] 
-- a joke between [[leader]] and [[cai cai 采采卷耳]]
+A joke between [[leader]] (拱菜社猪) and [[cai cai 采采卷耳]] (在逃白菜)
 	- Leader is the pig that is foraging for vegetable, 猪拱白菜
 	- Since leader convinced cai to come to Canada, but it's been 8 years since have become friends but have not met, thus cai is the 白菜 that leader is looking for
 
