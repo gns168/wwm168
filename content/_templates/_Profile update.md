@@ -11,6 +11,7 @@ Path - Former:  <% tp.frontmatter["Path - Former"] %>
 Role:  <% tp.frontmatter.Role %>
 Sect:  <% tp.frontmatter.Sect %>
 Sect - Former:  <% tp.frontmatter["Sect - Former"] %>
+Guild Title: <% tp.frontmatter["Guild Title"] %>
 Guild Role: <% tp.frontmatter["Guild Role"] %>
 GVG Team: <% tp.frontmatter["GVG Team"] %>
 GVG Role: <% tp.frontmatter["GVG Role"] %>

@@ -4,9 +4,40 @@ GVG Role: DPS
 img: "[[cai1.jpg]]"
 cover: "![[cai1.jpg]]"
 WWM Player: true
+Guild Title: 在逃白菜
 ---
-GVG Team: [[_Attack]]
+
+
+
+# Profile update
+
+Gameid: undefined
+Alias: undefined
+Timezone (UTC): undefined
+Alt: undefined
+Masked Troupe name: undefined
+Path - main: undefined
+Path - secondary: undefined
+Path - Former:  undefined
+Role:  undefined
+Sect:  undefined
+Sect - Former:  undefined
+Guild Title: 在逃白菜
+Guild Role: undefined
+GVG Team: [[_Defence]]
 GVG Role: DPS
+GVG Title: undefined
+Cohort:  undefined
+Cohort Rank: undefined
+Master:  undefined
+Disciple Rank: undefined
+Disciple:  undefined
+Partner:  undefined
+Partner - Former: undefined
+External:  undefined
+Ext Description:  undefined
+
+
 
 ---
 # Poetry

@@ -29,8 +29,9 @@ img: "[[guild.png]]"
 icon:
 cover: "![[guild.png]]"
 WWM Player: true
+Guild Title: 大长老
 ---
-[[{{title}}]]
+# Profile update
 
 Gameid: null
 Alias: null
@@ -43,6 +44,7 @@ Path - Former:  null
 Role:  null
 Sect:  null
 Sect - Former:  null
+Guild Title: 大长老
 Guild Role: null
 GVG Team: [[_Defence]]
 GVG Role: DPS
@@ -56,6 +58,8 @@ Partner:  null
 Partner - Former: null
 External:  null
 Ext Description:  null
+
+
 
 ---
 ![[guild.png]]

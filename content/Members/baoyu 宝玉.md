@@ -35,7 +35,10 @@ cover: "![[baoyu.png]]"
 Guild Position:
   - Commander
 WWM Player: true
+Guild Title: 长老
 ---
+# Profile update
+
 Gameid: 2034024007
 Alias: Baoyu
 Timezone (UTC): UTC+1
@@ -47,8 +50,9 @@ Path - Former:  null
 Role:  DPS
 Sect:  Raging Tides
 Sect - Former:  Well of Heaven,Silver Needle
+Guild Title: 长老
 Guild Role: Commander,Builder
-GVG Team: [[_Jungle]]
+GVG Team: [[_Attack]]
 GVG Role: DPS
 GVG Title: Scheming Jester
 Cohort:  [[_Dramallama Cohort]]
@@ -60,6 +64,9 @@ Partner:  [[hekapider]]
 Partner - Former: null
 External:  null
 Ext Description:  null
+
+
+
 
 ---
 ![[baoyu.png]]

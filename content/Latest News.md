@@ -3,7 +3,7 @@
 ### AvenueXtra One Year Celebration
 
 #### Titles
-##### Elders
+##### 长老
 Congrats to the following Elders that were with [[avenuex 顾明|Leader]] from the start
 - Zero day elder: [[Jianggui]]
 - Day one elder: [[Serilmpala]] [[gongshangjue]] [[baoyu 宝玉|Baoyu]] [[faeonix|Fae]] [[dongfunbubai]] [[rasamalai]]
@@ -15,9 +15,10 @@ A joke between [[leader]] (拱菜社猪) and [[cai cai 采采卷耳]] (在逃白
 
 
 #### Contests
-* Details in Discord
+* Details in Discord or [[Year One Celebrations]]
+	* Thank you to all of the sponsors and organizers.  Congratulations to all of the winners
 * Celebration Draws by [[avenuex 顾明|Leader]]
-	* Battle Passes
+	* Battle Passes: [[gns]], [[soulren|Soul]], [[lonerexlapis|LoneRexLapis]], [[weiyun 组玮芸]], [[dongfunbubai|DongFanBuBai]], [[hekapider|heka]]
 	* 2580 Skin
 	* Monthly Passes
 * Photography by [[SweatyAura]]
@@ -25,7 +26,8 @@ A joke between [[leader]] (拱菜社猪) and [[cai cai 采采卷耳]] (在逃白
 	* 1280 Skin for winning
 * Fashion Competition by [[gleefulboidae]]
 	* BP
-
+* Writing Submissions by [[yibaishi]], [[LaoLongfeng]], [[faeonix]]
+	* BP
 
 
 ### Lore

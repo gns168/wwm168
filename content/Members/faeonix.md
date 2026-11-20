@@ -39,7 +39,10 @@ cover: "![[faeonix.png]]"
 WWM Player: true
 homestead: SHARE1d32790b0bbb688a
 steam: "847699058"
+Guild Title: 长老
 ---
+# Profile update
+
 Gameid: 1029845419
 Alias: Fae,Empress,Queen
 Timezone (UTC): UTC-7
@@ -51,8 +54,9 @@ Path - Former:  null
 Role:  DPS
 Sect:  Sectless
 Sect - Former:  null
+Guild Title: 长老
 Guild Role: Member
-GVG Team: [[_Attack]]
+GVG Team: [[_Jungle]]
 GVG Role: Healer
 GVG Title: null
 Cohort:  [[_Dramallama Cohort]]

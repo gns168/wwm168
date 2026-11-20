@@ -46,6 +46,7 @@ cover: "![[avenuex.png]]"
 Guild Position:
   - Leader
 WWM Player: true
+Guild Title: Guild Master, 拱菜社猪
 ---
 # Profile update
 
@@ -60,6 +61,7 @@ Path - Former:  Silkbind - Jade
 Role:  Leader
 Sect:  Raging Tides
 Sect - Former:  Well of Heaven,Masked Troupe
+Guild Title: Guild Master, 拱菜社猪
 Guild Role: Leader
 GVG Team: [[_Defence]]
 GVG Role: Healer
@@ -73,6 +75,10 @@ Partner:  [[cai cai 采采卷耳]]
 Partner - Former: null
 External:  https://www.youtube.com/@AvenueX123,https://www.youtube.com/@avenuextra
 Ext Description:  Leaders Drama channel and eXtra channel of her non-drama channel like games, crafts etc
+
+
+
+
 
 ---
 ![[avenuex.png]]

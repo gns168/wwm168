@@ -50,33 +50,36 @@ cover: "![[guild.png]]"
 WWM Player: true
 homestead:
 steam:
+Guild Title: 长老
 ---
-# Profile
+# Profile update
 
-Gameid: undefined
-Alias: undefined
-Timezone (UTC): undefined
-Alt: undefined
-Masked Troupe name: undefined
-Path - main: undefined
-Path - secondary: undefined
-Path - Former:  undefined
-Role:  undefined
-Sect:  undefined
-Sect - Former:  undefined
-Guild Role: undefined
-GVG Team: undefined
-GVG Role: undefined
-GVG Title: undefined
-Cohort:  undefined
-Cohort Rank: undefined
-Master:  undefined
-Disciple Rank: undefined
-Disciple:  undefined
-Partner:  undefined
-Partner - Former: undefined
-External:  undefined
-Ext Description:  undefined
+Gameid: null
+Alias: null
+Timezone (UTC): null
+Alt: null
+Masked Troupe name: null
+Path - main: null
+Path - secondary: null
+Path - Former:  Bamboocut - Dust,Bamboocut - Wind,Bellstrike - Splendor,Bellstrike - Umbra,Silkbind - Deluge,Silkbind - Jade,Stonesplit - Might,Stonesplit - Strength
+Role:  null
+Sect:  null
+Sect - Former:  Well of Heaven,Silver Needle,Raging Tides,Midnight Blades,Nine Mortal Ways,Velvet Shade,Lone Cloud,Masked Troupe,Mohist Hill,Hollow Vale,Inkbound Order
+Guild Title: 长老
+Guild Role: null
+GVG Team: null
+GVG Role: null
+GVG Title: null
+Cohort:  null
+Cohort Rank: null
+Master:  null
+Disciple Rank: null
+Disciple:  null
+Partner:  null
+Partner - Former: null
+External:  null
+Ext Description:  null
+
 
 ---
 undefined

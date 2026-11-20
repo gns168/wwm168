@@ -48,8 +48,9 @@ img: "[[guild.png]]"
 icon:
 cover: "![[guild.png]]"
 WWM Player: true
+Guild Title: 长老
 ---
-[[Serilmpala]]
+# Profile update
 
 Gameid: null
 Alias: null
@@ -62,6 +63,7 @@ Path - Former:  Bamboocut - Dust,Bamboocut - Wind,Bellstrike - Splendor,Bellstri
 Role:  null
 Sect:  null
 Sect - Former:  Well of Heaven,Silver Needle,Raging Tides,Midnight Blades,Nine Mortal Ways,Velvet Shade,Lone Cloud,Masked Troupe,Mohist Hill,Hollow Vale,Inkbound Order
+Guild Title: 长老
 Guild Role: null
 GVG Team: [[_Defence]]
 GVG Role: DPS
@@ -75,6 +77,9 @@ Partner:  null
 Partner - Former: null
 External:  null
 Ext Description:  null
+
+
+
 
 ---
 ![[guild.png]]

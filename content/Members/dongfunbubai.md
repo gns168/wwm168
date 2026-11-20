@@ -40,7 +40,10 @@ Ext Description:
 cover: "![[dfbb.png]]"
 WWM Player: true
 steam: "47035576"
+Guild Title: 长老
 ---
+# Profile update
+
 Gameid: 1078411910
 Alias: DFBB,DongFanBuBai
 Timezone (UTC): UTC+5
@@ -52,6 +55,7 @@ Path - Former:  Bellstrike - Umbra
 Role:  DPS
 Sect:  Well of Heaven
 Sect - Former:  Silver Needle,Velvet Shade,Nine Mortal Ways
+Guild Title: 长老
 Guild Role: Commander
 GVG Team: [[_Jungle]]
 GVG Role: DPS
@@ -63,8 +67,9 @@ Disciple Rank: 3rd Discple
 Disciple:  None
 Partner:  None
 Partner - Former: null
-External:  null
+External:  https://www.youtube.com/watch?v=Y7328NWbDkY&list=PLIZOGoLqMEfpgF5nE3QaTCd6LkZo1UfLC
 Ext Description:  null
+
 
 ---
 ![[dfbb.png]]

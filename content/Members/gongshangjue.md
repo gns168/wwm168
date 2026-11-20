@@ -34,7 +34,9 @@ Ext Description:
 img: "[[gong.png]]"
 cover: "![[gong.png]]"
 WWM Player: true
+Guild Title: 长老
 ---
+# Profile update
 
 Gameid: 2056718470
 Alias: GongShangjue
@@ -47,8 +49,9 @@ Path - Former:  null
 Role:  DPS
 Sect:  Sectless
 Sect - Former:  Well of Heaven,Raging Tides,Masked Troupe
+Guild Title: 长老
 Guild Role: member
-GVG Team: [[_Jungle]]
+GVG Team: [[_Attack]]
 GVG Role: DPS
 GVG Title: null
 Cohort:  [[_Dramallama Cohort]]
