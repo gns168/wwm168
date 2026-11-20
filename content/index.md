@@ -46,10 +46,12 @@ img: "[[guild.png]]"
 		- GUOXIN HR: "This fight broke many guild in CN" said Leader
 			- It took us many hours over the span of 4 or 5 weeks to beat him. But we persevered and overcome all of the obstacles by working together.  We used many guides as a blueprint but had to tailor it to our strengths and the moment of elation still fills me with joy
 		- GVG: "Normally we stand on the balcony in my CN Guild" said Leader
-			- For all of the players that dont PVP i thank you all because there is alot of players that do let alone group PvP event.
-			- Not only did we overcome our anxieties we have made it into the second tier for the last three season.
+			- For all of the players that dont PVP i thank you all because there is alot of players that don't let alone group PvP event.
+			- Not only did we overcome our anxieties we have made it into the second tier on the EU servers for the last three season.
 				- Yes I want to get to the final tier to see what its like in the summit if only for a brief moment.  I know facing a 30 stack of sweaty geared out GVGer is not going to be fun.
 		- Tower climb: This one was hard because it was a hard DPS check and a few individuals alone could not accomplish.  We needed 10 individuals to want to learn from the build masters to get us the DPS needed to success and we did! 
+
+Thanks to the whole guild for making Year one so fun, memorable and successful!!!  Let keep the momentum going into Year two
 
 
 
