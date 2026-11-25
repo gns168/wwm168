@@ -71,3 +71,10 @@ Ext Description:  null
 ## Lore
 
 ![[King of the Hill]]
+
+---
+
+## Year One contest entry
+
+### Writing
+[[Ab-solute Joy poem by Soul.pdf]]

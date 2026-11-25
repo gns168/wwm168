@@ -60,3 +60,11 @@ Theme:
 
 Submission: 
 - @gns when submitting your writing as a pdf to the ⁠lore channel, submissions will be displayed on the GitHub page below: [https://gns168.github.io/wwm168/](https://gns168.github.io/wwm168/ "https://gns168.github.io/wwm168/")
+
+---
+
+### Writing Submission
+
+![[gns#Writing]]
+
+![[soulren#Writing]]

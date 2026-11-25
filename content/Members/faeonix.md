@@ -74,3 +74,4 @@ Ext Description:  null
 
 # Lore
 ![[Faeonix Lore]]
+![[content/Lore/Faeonix_The_Runaway_Empress.pdf|Faeonix_The_Runaway_Empress]]
