@@ -77,3 +77,12 @@ Ext Description:  null
 
 ---
 ## [[A Flower of Velvet, Seeking Light]]
+
+
+
+---
+## Year One contest entry
+
+### Writing
+
+[[thoughts-under-the-fireworks.pdf]]
