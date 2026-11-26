@@ -85,3 +85,11 @@ Ext Description:  Link to the fanfiction about Hekapider's harem adventures!
 [[Marry Me!- And we'll bring justice to the jianghu!]]
 ![[The Bucket of Water.pdf]]
 ![[Haoyu and Rex Ship_Part One.docx.pdf]]
+
+
+---
+## Year One contest entry
+
+### Writing
+
+[[A Toast.pdf]]

@@ -93,7 +93,7 @@ Ext Description:  Google drive containing guild member profiles, team rosters an
 ### Writing
 
 
-> [!info]- 1. Thanks by [[gns]]
+> [!info]- Thanks by [[gns]]
 > - First and foremost thanks to [[avenuex 顾明|Leader]] for being a gamer and her appeal that has brought in guild members from around the world.
 > - To our amazing guild members from around the world this is by far the best build/clan/team gaming experience.  It has been a pleasure getting to know & game with you all, share in similar interests and chilling together
 > - The broke kings, thanks for keeping to competitive fire going without the toxicity ... even though one of you accused half of us of being in trash tier dps now
