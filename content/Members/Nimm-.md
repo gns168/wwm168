@@ -64,3 +64,11 @@ undefined
 ### Fanfic
 
 ![[Reader x Uncle Chen Fan Fic Ideas.pdf]]
+
+
+---
+## Year One contest entry
+
+### Writing
+
+[[Ode to GvG in Where Winds Meet.pdf]]
