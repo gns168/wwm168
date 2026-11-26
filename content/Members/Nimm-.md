@@ -71,4 +71,4 @@ undefined
 
 ### Writing
 
-[[Ode to GvG in Where Winds Meet.pdf]]
+[[Ode to GvG in Where Winds Meet.pdf]] by nimm

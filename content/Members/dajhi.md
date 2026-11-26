@@ -85,4 +85,4 @@ Ext Description:  null
 
 ### Writing
 
-[[thoughts-under-the-fireworks.pdf]]
+[[thoughts-under-the-fireworks.pdf]] by Dahji
